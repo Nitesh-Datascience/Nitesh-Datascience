@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Nitesh Kumar </h1>
 <h3 align="center">Data Analyst | Python | SQL | Excel | Power BI | Machine Learning</h3>
 
 <p align="center">
