@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
+<h3 align="center">Data Analyst | Python | SQL | Excel | Power BI | Machine Learning</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Portfolio;Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Machine+Learning+%7C+AI;Building+Projects+and+Learning+Every+Day"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 # Nitesh Kumar
 
 **Data Analyst | Python | SQL | Excel | Power BI | Machine Learning**
