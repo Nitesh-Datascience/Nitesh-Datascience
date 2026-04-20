@@ -582,7 +582,7 @@
     <div class="container">
       <div class="section-heading">
         <h2>Experience & Learning Journey</h2>
-        <p>Recruiters like to see clear learning progression, internships, certifications, and practical exposure.</p>
+        <p>Recruiter like to see clear learning progression, internships, certifications, and practical exposure.</p>
       </div>
 
       <div class="row g-4">
