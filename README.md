@@ -65,7 +65,7 @@ I love working with data, creating dashboards, and solving real-world problems u
   <a href="https://www.linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Nitesh-Datascience" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:ns0762005@gmail.com">
