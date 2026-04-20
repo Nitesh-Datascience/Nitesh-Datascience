@@ -63,8 +63,8 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link
-💻 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/niteshkumar-codlytic
+💻 GitHub: https://github.com/Nitesh-Datascience
 📧 Email: [ns0762005@gmail.com](mailto:ns0762005@gmail.com)
 
 ---
@@ -77,9 +77,9 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://https://github.com/Nitesh-Datascience/Nitesh-Datascience/tree/mainrcel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumar-codlytic\&layout=compact\&theme=tokyonight)
 
 ---
 
