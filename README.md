@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Python | SQL | Excel | Power BI | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights+and+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights+and+Decisions" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 🛠️ Skills & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -61,11 +61,11 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href=["https://github.com/Nitesh-Datascience" target="_blank"](https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight)>
+  <a href="https://github.com/Nitesh-Datascience" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:ns0762005@gmail.com">
@@ -77,15 +77,15 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 🚀 Portfolio Website
 
-👉 Add your GitHub Pages link here
+👉 https://Nitesh-Datascience.github.io/your-repo-name/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ I love working with data, creating dashboards, and solving real-world problems u
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
