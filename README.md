@@ -62,7 +62,7 @@ I love working with data, creating dashboards, and solving real-world problems u
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Nitesh-Datascience" target="_blank">
