@@ -3,273 +3,349 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nitesh Kumar | Data Analytics Portfolio</title>
-  <meta name="description" content="Portfolio website of Nitesh Kumar - BCA fresher, Data Analytics, Python, SQL, Excel, Power BI, Machine Learning." />
+  <title>Nitesh Kumar | Data Analyst Portfolio</title>
+  <meta name="description" content="Nitesh Kumar - Data Analyst portfolio featuring projects, skills, internships, certifications, and contact details." />
+  <meta name="theme-color" content="#0b1220" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
   <style>
     :root {
-      --primary: #0d6efd;
-      --dark: #0f172a;
-      --dark-2: #1e293b;
-      --light: #f8fafc;
-      --muted: #64748b;
-      --card: #ffffff;
-      --accent: #f59e0b;
-      --shadow: 0 18px 45px rgba(15, 23, 42, 0.10);
-      --radius: 22px;
+      --bg: #0b1220;
+      --bg-2: #111a2e;
+      --panel: rgba(255, 255, 255, 0.06);
+      --panel-2: #ffffff;
+      --text: #e5eefc;
+      --text-dark: #10203a;
+      --muted: #9db0d0;
+      --primary: #4f8cff;
+      --accent: #22c55e;
+      --border: rgba(255,255,255,.12);
+      --shadow: 0 18px 40px rgba(8, 15, 32, .25);
+      --radius: 24px;
     }
 
-    * {
-      scroll-behavior: smooth;
-    }
+    * { box-sizing: border-box; scroll-behavior: smooth; }
 
     body {
-      font-family: 'Poppins', sans-serif;
-      background: #f1f5f9;
-      color: var(--dark);
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(79,140,255,.18), transparent 22%),
+        radial-gradient(circle at bottom left, rgba(34,197,94,.10), transparent 18%),
+        linear-gradient(180deg, #09101d 0%, #0f172a 100%);
+      color: var(--text);
     }
 
+    a { text-decoration: none; }
+
     .navbar-custom {
-      background: rgba(15, 23, 42, 0.95);
-      backdrop-filter: blur(8px);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      background: rgba(9, 16, 29, .72);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(255,255,255,.08);
     }
 
     .navbar-brand {
       font-weight: 800;
-      letter-spacing: 0.5px;
+      letter-spacing: .4px;
     }
 
+    .nav-link {
+      color: #d7e3fb !important;
+      font-weight: 500;
+    }
+
+    .nav-link:hover { color: #ffffff !important; }
+
     .hero {
-      background: linear-gradient(135deg, rgba(15, 23, 42, 0.94), rgba(13, 110, 253, 0.88));
-      color: white;
-      padding: 150px 0 90px;
+      padding: 140px 0 90px;
       position: relative;
       overflow: hidden;
     }
 
-    .hero::before,
-    .hero::after {
-      content: "";
-      position: absolute;
-      border-radius: 50%;
-      background: rgba(255, 255, 255, 0.08);
-      z-index: 0;
-    }
-
-    .hero::before {
-      width: 320px;
-      height: 320px;
-      top: -120px;
-      right: -60px;
-    }
-
-    .hero::after {
-      width: 220px;
-      height: 220px;
-      bottom: -90px;
-      left: -50px;
-    }
-
-    .hero-content,
-    .hero-card {
-      position: relative;
-      z-index: 1;
-    }
-
-    .hero-badge {
-      display: inline-block;
-      padding: 10px 18px;
+    .badge-soft {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 16px;
       border-radius: 999px;
-      background: rgba(255,255,255,0.14);
-      border: 1px solid rgba(255,255,255,0.18);
-      margin-bottom: 20px;
-      font-size: 0.9rem;
+      background: rgba(255,255,255,.08);
+      border: 1px solid var(--border);
+      color: #dfeaff;
+      font-size: .92rem;
+      margin-bottom: 22px;
     }
 
     .hero h1 {
-      font-size: clamp(2.2rem, 5vw, 4rem);
+      font-size: clamp(2.5rem, 6vw, 4.8rem);
+      line-height: 1.03;
       font-weight: 800;
-      line-height: 1.1;
-      margin-bottom: 15px;
+      margin-bottom: 14px;
     }
 
-    .hero .lead {
-      color: rgba(255,255,255,0.88);
-      max-width: 680px;
+    .gradient-text {
+      background: linear-gradient(90deg, #ffffff, #9cc0ff 45%, #68f0a2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
     }
 
-    .glass-card {
-      background: rgba(255,255,255,0.12);
-      border: 1px solid rgba(255,255,255,0.18);
+    .hero p {
+      color: var(--muted);
+      font-size: 1.06rem;
+      max-width: 700px;
+    }
+
+    .hero-card,
+    .glass,
+    .stat-card,
+    .skill-card,
+    .project-card,
+    .timeline-card,
+    .contact-card {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      backdrop-filter: blur(12px);
       border-radius: var(--radius);
-      padding: 28px;
-      box-shadow: 0 20px 50px rgba(0,0,0,0.12);
+      box-shadow: var(--shadow);
     }
 
-    .section {
-      padding: 88px 0;
-    }
+    .hero-card { padding: 24px; }
+    .glass { padding: 28px; }
 
-    .section-title {
+    .profile-box {
+      width: 160px;
+      height: 160px;
+      margin: 0 auto 18px;
+      border-radius: 28px;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, rgba(79,140,255,.25), rgba(34,197,94,.16));
+      border: 1px solid rgba(255,255,255,.15);
+      font-size: 3rem;
+      color: #fff;
       font-weight: 800;
-      color: var(--dark);
+    }
+
+    .hero-meta {
+      display: grid;
+      gap: 10px;
+      margin-top: 18px;
+      color: #e7efff;
+    }
+
+    .hero-meta div {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(255,255,255,.04);
+    }
+
+    .btn-main {
+      padding: 13px 24px;
+      border-radius: 14px;
+      font-weight: 700;
+      border: 0;
+    }
+
+    .btn-primary-pro {
+      background: linear-gradient(90deg, #4f8cff, #2d6df7);
+      color: white;
+    }
+
+    .btn-outline-pro {
+      background: transparent;
+      color: white;
+      border: 1px solid rgba(255,255,255,.16);
+    }
+
+    .section { padding: 84px 0; }
+
+    .section-heading {
+      text-align: center;
+      margin-bottom: 44px;
+    }
+
+    .section-heading h2 {
+      font-size: clamp(1.9rem, 4vw, 3rem);
+      font-weight: 800;
       margin-bottom: 10px;
     }
 
-    .section-subtitle {
+    .section-heading p {
       color: var(--muted);
-      max-width: 650px;
-      margin: 0 auto 45px;
+      max-width: 760px;
+      margin: 0 auto;
     }
 
-    .card-pro {
-      background: var(--card);
-      border: 0;
-      border-radius: var(--radius);
-      padding: 28px;
-      box-shadow: var(--shadow);
+    .stats-grid {
+      margin-top: 34px;
+    }
+
+    .stat-card {
+      padding: 24px;
       height: 100%;
-      transition: 0.3s ease;
+      text-align: center;
     }
 
-    .card-pro:hover {
-      transform: translateY(-6px);
+    .stat-number {
+      font-size: 2rem;
+      font-weight: 800;
+      color: white;
     }
 
-    .icon-wrap {
-      width: 58px;
-      height: 58px;
-      border-radius: 16px;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      background: rgba(13, 110, 253, 0.10);
-      color: var(--primary);
-      font-size: 1.35rem;
-      margin-bottom: 16px;
-    }
-
-    .about-box,
-    .contact-box,
-    .resume-box {
+    .about-panel {
       background: #ffffff;
+      color: var(--text-dark);
       border-radius: var(--radius);
-      box-shadow: var(--shadow);
       padding: 34px;
+      box-shadow: 0 16px 40px rgba(0,0,0,.14);
       height: 100%;
     }
 
-    .profile-pic {
-      width: 100%;
-      max-width: 360px;
-      border-radius: 28px;
-      object-fit: cover;
-      border: 6px solid #fff;
-      box-shadow: var(--shadow);
+    .about-panel p,
+    .about-panel li { color: #53627d; }
+
+    .mini-card {
+      background: #f4f7fd;
+      border-radius: 18px;
+      padding: 20px;
+      height: 100%;
+    }
+
+    .mini-card i {
+      font-size: 1.4rem;
+      color: var(--primary);
+    }
+
+    .skill-card,
+    .project-card,
+    .timeline-card,
+    .contact-card {
+      padding: 24px;
+      height: 100%;
     }
 
     .skill-chip {
       display: inline-block;
-      padding: 10px 16px;
+      padding: 10px 14px;
       margin: 6px;
       border-radius: 999px;
-      background: #e2e8f0;
-      color: var(--dark-2);
+      background: rgba(255,255,255,.08);
+      border: 1px solid rgba(255,255,255,.09);
+      color: #edf4ff;
+      font-size: .95rem;
       font-weight: 500;
-      font-size: 0.95rem;
+    }
+
+    .icon-box {
+      width: 56px;
+      height: 56px;
+      border-radius: 18px;
+      display: grid;
+      place-items: center;
+      font-size: 1.4rem;
+      color: white;
+      background: linear-gradient(135deg, rgba(79,140,255,.95), rgba(34,197,94,.7));
+      margin-bottom: 18px;
+    }
+
+    .project-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: .85rem;
+      font-weight: 700;
+      background: rgba(255,255,255,.08);
+      color: #dce8ff;
+      border: 1px solid rgba(255,255,255,.08);
+    }
+
+    .project-card ul {
+      padding-left: 18px;
+      color: var(--muted);
+      margin-bottom: 0;
     }
 
     .timeline-item {
-      position: relative;
-      padding-left: 22px;
+      border-left: 2px solid rgba(255,255,255,.14);
+      padding-left: 18px;
       margin-bottom: 24px;
-      border-left: 2px solid #cbd5e1;
+      position: relative;
     }
 
     .timeline-item::before {
       content: "";
       position: absolute;
-      left: -8px;
-      top: 6px;
-      width: 14px;
-      height: 14px;
-      border-radius: 50%;
-      background: var(--primary);
-    }
-
-    .project-card .badge,
-    .timeline-item .badge {
+      left: -7px;
+      top: 5px;
+      width: 12px;
+      height: 12px;
       border-radius: 999px;
-      padding: 8px 12px;
-      font-weight: 500;
+      background: #68f0a2;
     }
 
-    .counter-box {
-      background: linear-gradient(135deg, #0f172a, #1d4ed8);
-      color: #fff;
-      border-radius: 24px;
-      padding: 26px;
-      box-shadow: var(--shadow);
-      text-align: center;
-      height: 100%;
+    .timeline-item p,
+    .project-card p,
+    .skill-card p,
+    .contact-card p {
+      color: var(--muted);
     }
 
-    .counter-number {
-      font-size: 2rem;
-      font-weight: 800;
-      display: block;
+    .contact-list a,
+    .contact-list span {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(255,255,255,.05);
+      color: #edf4ff;
+      margin-bottom: 12px;
+    }
+
+    .contact-list a:hover {
+      background: rgba(255,255,255,.09);
     }
 
     .footer {
-      background: #020617;
-      color: #cbd5e1;
-      padding: 24px 0;
+      padding: 26px 0 40px;
+      color: #b6c7e4;
+      text-align: center;
     }
 
-    .contact-link {
-      text-decoration: none;
-      color: var(--dark);
-    }
-
-    .contact-link:hover {
-      color: var(--primary);
-    }
-
-    .btn-custom {
-      border-radius: 14px;
-      padding: 12px 22px;
-      font-weight: 600;
-    }
+    .small-muted { color: var(--muted); }
 
     @media (max-width: 991px) {
       .hero {
-        padding: 130px 0 70px;
-      }
-
-      .profile-pic {
-        max-width: 280px;
+        padding-top: 120px;
       }
     }
   </style>
 </head>
 <body>
-
   <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#home">Nitesh Portfolio</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <a class="navbar-brand" href="#home">Nitesh Kumar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-2">
-          <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+      <div class="collapse navbar-collapse" id="navMenu">
+        <ul class="navbar-nav ms-auto gap-lg-2">
           <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
           <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
           <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
@@ -283,33 +359,49 @@
   <section class="hero" id="home">
     <div class="container">
       <div class="row align-items-center g-5">
-        <div class="col-lg-7 hero-content">
-          <div class="hero-badge"><i class="bi bi-stars me-2"></i>Data Analytics • Python • SQL • Power BI</div>
-          <h1>Nitesh Kumar</h1>
-          <h4 class="fw-semibold mb-3">BCA Fresher | Data Analyst | AI & ML Learner</h4>
-          <p class="lead mb-4">
-            Motivated and detail-oriented BCA student with a strong foundation in data science, analytics, machine learning, Python, SQL, Excel, Power BI, and data visualization.
+        <div class="col-lg-7">
+          <div class="badge-soft"><i class="bi bi-stars"></i> Data Analyst Portfolio • GitHub Ready • Fresher Friendly</div>
+          <h1><span class="gradient-text">Nitesh Kumar</span></h1>
+          <h3 class="fw-semibold mb-3">Data Analyst | Python | SQL | Excel | Power BI</h3>
+          <p class="mb-4">
+            Motivated BCA graduate with practical experience in data analytics, dashboard design, machine learning, and business reporting. I build projects that turn raw data into clear insights and useful decisions.
           </p>
           <div class="d-flex flex-wrap gap-3">
-            <a href="#projects" class="btn btn-light btn-custom">View Projects</a>
-            <a href="#contact" class="btn btn-outline-light btn-custom">Contact Me</a>
+            <a href="#projects" class="btn btn-main btn-primary-pro">Explore Projects</a>
+            <a href="#contact" class="btn btn-main btn-outline-pro">Hire Me</a>
+          </div>
+
+          <div class="row g-3 stats-grid">
+            <div class="col-md-4">
+              <div class="stat-card">
+                <div class="stat-number" data-target="6">0</div>
+                <div class="small-muted">Projects Built</div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="stat-card">
+                <div class="stat-number" data-target="3">0</div>
+                <div class="small-muted">Internships / Training</div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="stat-card">
+                <div class="stat-number" data-target="10">0</div>
+                <div class="small-muted">Core Tools</div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="col-lg-5 hero-card text-center">
-          <div class="glass-card">
-           <img src="{{ url_for('static', filename='nitesh kumar.jpeg') }}" 
-     alt="Nitesh Kumar" 
-     class="profile-pic">
-            <div class="row g-3 text-start">
-              <div class="col-12">
-                <div><i class="bi bi-envelope-fill me-2"></i>ns0762005@gmail.com</div>
-              </div>
-              <div class="col-12">
-                <div><i class="bi bi-telephone-fill me-2"></i>+91 9650410697</div>
-              </div>
-              <div class="col-12">
-                <div><i class="bi bi-geo-alt-fill me-2"></i>Delhi, India</div>
-              </div>
+
+        <div class="col-lg-5">
+          <div class="hero-card text-center">
+            <div class="profile-box">NK</div>
+            <h4 class="mb-1">Nitesh Kumar</h4>
+            <p class="small-muted mb-3">BCA Graduate • Data Analytics Learner • Open to Opportunities</p>
+            <div class="hero-meta text-start">
+              <div><i class="bi bi-envelope-fill"></i> ns0762005@gmail.com</div>
+              <div><i class="bi bi-telephone-fill"></i> +91 9650410697</div>
+              <div><i class="bi bi-geo-alt-fill"></i> Delhi, India</div>
             </div>
           </div>
         </div>
@@ -319,31 +411,34 @@
 
   <section class="section" id="about">
     <div class="container">
-      <div class="text-center">
-        <h2 class="section-title">About Me</h2>
-        <p class="section-subtitle">A fresher portfolio website built with HTML, CSS, Bootstrap, and JavaScript to showcase profile, projects, skills, and experience.</p>
+      <div class="section-heading">
+        <h2>About Me</h2>
+        <p>A professional GitHub portfolio should show not only your skills, but also your value, project thinking, and career direction.</p>
       </div>
 
       <div class="row g-4 align-items-stretch">
         <div class="col-lg-7">
-          <div class="about-box">
+          <div class="about-panel">
             <h3 class="fw-bold mb-3">Professional Summary</h3>
-            <p class="text-secondary mb-4">
-              I am a motivated BCA student with practical exposure to analytics, machine learning, and dashboard-based projects. I have completed internship and training experiences in data science and analytics, and I enjoy solving problems using data-driven thinking.
+            <p>
+              I am a BCA graduate with a strong interest in data analytics, reporting, business intelligence, and machine learning. I enjoy working with Excel, SQL, Python, and Power BI to clean data, analyze patterns, build dashboards, and solve practical business problems.
             </p>
-            <div class="row g-3">
+            <p>
+              My goal is to start my career in data analytics, MIS reporting, or business intelligence, where I can contribute through dashboards, insights, and data-driven decision-making.
+            </p>
+            <div class="row g-3 mt-2">
               <div class="col-md-6">
-                <div class="card-pro h-100 p-4">
-                  <div class="icon-wrap"><i class="bi bi-lightbulb"></i></div>
-                  <h5>Soft Skills</h5>
-                  <p class="mb-0 text-secondary">Problem-solving, critical thinking, teamwork, time management, adaptability, and resilience.</p>
+                <div class="mini-card">
+                  <i class="bi bi-graph-up-arrow mb-2 d-inline-block"></i>
+                  <h5 class="mt-2">What I Do</h5>
+                  <p class="mb-0">Dashboard creation, Excel reporting, SQL analysis, data cleaning, and beginner-friendly machine learning projects.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="card-pro h-100 p-4">
-                  <div class="icon-wrap"><i class="bi bi-translate"></i></div>
-                  <h5>Languages & Interests</h5>
-                  <p class="mb-0 text-secondary">English, Hindi, cricket, music, reading, traveling, and Canva design.</p>
+                <div class="mini-card">
+                  <i class="bi bi-lightning-charge-fill mb-2 d-inline-block"></i>
+                  <h5 class="mt-2">My Strengths</h5>
+                  <p class="mb-0">Quick learner, consistent practice mindset, project-based learning, presentation skills, and clear communication.</p>
                 </div>
               </div>
             </div>
@@ -351,53 +446,48 @@
         </div>
 
         <div class="col-lg-5">
-          <div class="resume-box">
+          <div class="about-panel">
             <h3 class="fw-bold mb-3">Quick Highlights</h3>
-            <div class="timeline-item">
-              <h6 class="mb-1 fw-bold">Education</h6>
-              <p class="mb-0 text-secondary">Bachelor of Computer Application</p>
-            </div>
-            <div class="timeline-item">
-              <h6 class="mb-1 fw-bold">Internships & Training</h6>
-              <p class="mb-0 text-secondary">Data Science & Analytics internship exposure with ML and analytics tools.</p>
-            </div>
-            <div class="timeline-item mb-0">
-              <h6 class="mb-1 fw-bold">Career Goal</h6>
-              <p class="mb-0 text-secondary">To begin my career in analytics, data science, or IT roles and contribute to real-world projects.</p>
-            </div>
+            <ul class="mb-0">
+              <li class="mb-3">BCA graduate with focus on analytics and IT roles</li>
+              <li class="mb-3">Hands-on work in Python, SQL, Excel, Power BI, and data visualization</li>
+              <li class="mb-3">Experience through internships, simulations, and self-built projects</li>
+              <li class="mb-3">Interested in Data Analyst, MIS Executive, Reporting Analyst, and BI roles</li>
+              <li>Comfortable presenting insights in a simple, clear, and business-friendly way</li>
+            </ul>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section bg-white" id="skills">
+  <section class="section" id="skills">
     <div class="container">
-      <div class="text-center">
-        <h2 class="section-title">Technical Skills</h2>
-        <p class="section-subtitle">My current toolkit based on study, internship exposure, and practice projects.</p>
+      <div class="section-heading">
+        <h2>Technical Skills</h2>
+        <p>These are the main tools and technologies I use in projects, assignments, and portfolio work.</p>
       </div>
 
       <div class="row g-4 mb-4">
         <div class="col-md-4">
-          <div class="card-pro text-center">
-            <div class="icon-wrap"><i class="bi bi-code-slash"></i></div>
+          <div class="skill-card">
+            <div class="icon-box"><i class="bi bi-file-earmark-bar-graph"></i></div>
+            <h5>Analytics & BI</h5>
+            <p>Excel, Power BI, dashboard design, KPI tracking, reporting, pivot tables, charts, and business insights.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="skill-card">
+            <div class="icon-box"><i class="bi bi-database-fill"></i></div>
+            <h5>Data Handling</h5>
+            <p>SQL queries, joins, filtering, aggregation, database concepts, data cleaning, and structured analysis.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="skill-card">
+            <div class="icon-box"><i class="bi bi-code-slash"></i></div>
             <h5>Programming</h5>
-            <p class="text-secondary mb-0">Python, SQL, basic web development</p>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card-pro text-center">
-            <div class="icon-wrap"><i class="bi bi-bar-chart-fill"></i></div>
-            <h5>Analytics Tools</h5>
-            <p class="text-secondary mb-0">Excel, Power BI, data visualization</p>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card-pro text-center">
-            <div class="icon-wrap"><i class="bi bi-palette-fill"></i></div>
-            <h5>Creative Tools</h5>
-            <p class="text-secondary mb-0">Canva, presentation and design support</p>
+            <p>Python fundamentals, pandas, machine learning basics, visualization, and practical project workflows.</p>
           </div>
         </div>
       </div>
@@ -407,116 +497,131 @@
         <span class="skill-chip">SQL</span>
         <span class="skill-chip">Excel</span>
         <span class="skill-chip">Power BI</span>
-        <span class="skill-chip">Canva</span>
         <span class="skill-chip">Machine Learning</span>
-        <span class="skill-chip">Deep Learning</span>
         <span class="skill-chip">Data Visualization</span>
-        <span class="skill-chip">AI Basics</span>
-        <span class="skill-chip">ChatGPT</span>
+        <span class="skill-chip">Pandas</span>
+        <span class="skill-chip">NumPy</span>
+        <span class="skill-chip">Canva</span>
+        <span class="skill-chip">GitHub</span>
       </div>
     </div>
   </section>
 
   <section class="section" id="projects">
     <div class="container">
-      <div class="text-center">
-        <h2 class="section-title">Projects</h2>
-        <p class="section-subtitle">A few project ideas and practical work areas highlighted from my resume profile.</p>
+      <div class="section-heading">
+        <h2>Featured Projects</h2>
+        <p>A strong GitHub portfolio should focus on projects with clear tools, outcomes, and business value.</p>
       </div>
 
       <div class="row g-4">
-        <div class="col-md-6 col-lg-4">
-          <div class="card-pro project-card">
-            <span class="badge bg-primary-subtle text-primary mb-3">ML Project</span>
-            <h5>Nifty Prediction</h5>
-            <p class="text-secondary">Built prediction models using LSTM, linear regression, SVM, decision tree, and KNN to forecast stock index performance.</p>
+        <div class="col-lg-6">
+          <div class="project-card">
+            <div class="project-top">
+              <h4 class="mb-0">Sales MIS Dashboard</h4>
+              <span class="tag">Excel + Power BI</span>
+            </div>
+            <p>Built an interactive MIS dashboard to analyze sales, profit, regional performance, and KPI trends for business reporting.</p>
+            <ul>
+              <li>Created pivot-based reporting and KPI summary cards</li>
+              <li>Designed dashboard layout with slicers and charts</li>
+              <li>Converted raw sales data into management-ready insights</li>
+            </ul>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="card-pro project-card">
-            <span class="badge bg-success-subtle text-success mb-3">Analytics Project</span>
-            <h5>Telecom Churn Modeling</h5>
-            <p class="text-secondary">Worked on data preprocessing, machine learning and deep learning modeling, plus dashboard visualization using Power BI.</p>
+
+        <div class="col-lg-6">
+          <div class="project-card">
+            <div class="project-top">
+              <h4 class="mb-0">IPL Match Winner Prediction</h4>
+              <span class="tag">Python + ML</span>
+            </div>
+            <p>Developed a machine learning project to predict IPL outcomes using match-related features and historical cricket data.</p>
+            <ul>
+              <li>Performed data preprocessing and feature preparation</li>
+              <li>Tested predictive models for match results</li>
+              <li>Presented a portfolio-friendly sports analytics use case</li>
+            </ul>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="card-pro project-card">
-            <span class="badge bg-warning-subtle text-warning mb-3">IoT Project</span>
-            <h5>Smart Water Tank Monitoring</h5>
-            <p class="text-secondary">Developed an IoT-based idea focused on improving water monitoring efficiency using sensors and smart tracking concepts.</p>
+
+        <div class="col-lg-6">
+          <div class="project-card">
+            <div class="project-top">
+              <h4 class="mb-0">Telecom Churn Analysis</h4>
+              <span class="tag">Analytics + BI</span>
+            </div>
+            <p>Worked on churn-related customer data to identify retention patterns and visualize important factors behind customer loss.</p>
+            <ul>
+              <li>Used analytics workflow for data cleaning and exploration</li>
+              <li>Built visual reports and business-facing interpretations</li>
+              <li>Focused on churn trends and customer behavior insights</li>
+            </ul>
           </div>
         </div>
-        <div class="col-md-6 col-lg-6">
-          <div class="card-pro project-card">
-            <span class="badge bg-danger-subtle text-danger mb-3">Prediction Project</span>
-            <h5>Cars Dataset Prediction</h5>
-            <p class="text-secondary mb-0">Personal practice project focused on data prediction and pattern analysis using different models.</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-6">
-          <div class="card-pro project-card">
-            <span class="badge bg-info-subtle text-info mb-3">Portfolio Ready</span>
-            <h5>More Coming Soon</h5>
-            <p class="text-secondary mb-0">This section can be updated with GitHub links, live project demos, and certificates as you complete more real projects.</p>
+
+        <div class="col-lg-6">
+          <div class="project-card">
+            <div class="project-top">
+              <h4 class="mb-0">Smart Water Tank Monitoring</h4>
+              <span class="tag">IoT Project</span>
+            </div>
+            <p>Created an academic IoT project concept for smart water level tracking and efficient monitoring using sensors and automation ideas.</p>
+            <ul>
+              <li>Applied problem-solving to a real-world monitoring use case</li>
+              <li>Connected analytics thinking with IoT workflow</li>
+              <li>Prepared documentation and presentation-level explanation</li>
+            </ul>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section bg-white" id="experience">
+  <section class="section" id="experience">
     <div class="container">
-      <div class="text-center">
-        <h2 class="section-title">Internships, Training & Certifications</h2>
-        <p class="section-subtitle">My learning journey through internships, training programs, and simulations.</p>
+      <div class="section-heading">
+        <h2>Experience & Learning Journey</h2>
+        <p>Recruiters like to see clear learning progression, internships, certifications, and practical exposure.</p>
       </div>
 
       <div class="row g-4">
         <div class="col-lg-7">
-          <div class="about-box">
-            <h4 class="fw-bold mb-4">Experience Timeline</h4>
+          <div class="timeline-card">
             <div class="timeline-item">
-              <h5 class="fw-bold mb-1">SHAPEMYSKILLS PRIVATE LIMITED</h5>
-              <span class="badge bg-primary-subtle text-primary mb-2">6 weeks</span>
-              <p class="mb-0 text-secondary">Data Science & ML Intern, including Python, machine learning, and deep learning summer training.</p>
+              <h5 class="fw-bold mb-1">QSpiders</h5>
+              <p class="mb-1">Training / internship exposure in analytics and software-related learning.</p>
+              <span class="small-muted">Data Analytics • Python • Career preparation</span>
             </div>
             <div class="timeline-item">
-              <h5 class="fw-bold mb-1">Zidio Development</h5>
-              <span class="badge bg-success-subtle text-success mb-2">1 month</span>
-              <p class="mb-0 text-secondary">Data Science & Analytics internship experience with practical exposure to analytics work.</p>
+              <h5 class="fw-bold mb-1">Zidio - Data Science & Analytics Internship</h5>
+              <p class="mb-1">Worked on data science and analytics learning tasks with hands-on practice.</p>
+              <span class="small-muted">Analytics workflow • project exposure</span>
             </div>
             <div class="timeline-item">
-              <h5 class="fw-bold mb-1">Qspider Development</h5>
-              <span class="badge bg-warning-subtle text-warning mb-2">6 months</span>
-              <p class="mb-0 text-secondary">Worked around data analytics and Python development learning.</p>
+              <h5 class="fw-bold mb-1">ShapeMySkills - Data Science & ML Training</h5>
+              <p class="mb-1">Completed training in Python, machine learning, and deep learning fundamentals.</p>
+              <span class="small-muted">Python • ML • DL • practice projects</span>
             </div>
             <div class="timeline-item mb-0">
-              <h5 class="fw-bold mb-1">Job Simulations & Learning</h5>
-              <p class="mb-0 text-secondary">J.P. Morgan Quantitative Research, Deloitte Australia Data Analytics, Tata GenAI Analytics, Forage Data Labeling, Microsoft Excel with AI, and Canva Essentials.</p>
+              <h5 class="fw-bold mb-1">Simulations & Certifications</h5>
+              <p class="mb-1">Forage simulations, Excel learning, analytics practice, and continuous project building.</p>
+              <span class="small-muted">Self-learning • upskilling • portfolio growth</span>
             </div>
           </div>
         </div>
 
         <div class="col-lg-5">
-          <div class="row g-4">
-            <div class="col-12">
-              <div class="counter-box">
-                <span class="counter-number" data-target="4">0</span>
-                <p class="mb-0">Highlighted Projects</p>
-              </div>
-            </div>
-            <div class="col-12">
-              <div class="counter-box">
-                <span class="counter-number" data-target="2">0</span>
-                <p class="mb-0">Key Internships</p>
-              </div>
-            </div>
-            <div class="col-12">
-              <div class="counter-box">
-                <span class="counter-number" data-target="8">0</span>
-                <p class="mb-0">Tools & Skills</p>
-              </div>
-            </div>
+          <div class="timeline-card">
+            <h4 class="mb-4">Why This Portfolio Works</h4>
+            <ul class="mb-0" style="color: var(--muted); padding-left: 18px;">
+              <li class="mb-3">Professional dark theme with modern layout</li>
+              <li class="mb-3">Focused on recruiter-friendly sections</li>
+              <li class="mb-3">Built as a single file for easy GitHub Pages hosting</li>
+              <li class="mb-3">Responsive design for desktop and mobile</li>
+              <li class="mb-3">Simple to edit with your GitHub, LinkedIn, and project links</li>
+              <li>Good starting point for a pro fresher portfolio</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -525,67 +630,60 @@
 
   <section class="section" id="contact">
     <div class="container">
-      <div class="text-center">
-        <h2 class="section-title">Contact Me</h2>
-        <p class="section-subtitle">Open to fresher roles, internships, project collaborations, and analytics opportunities.</p>
+      <div class="section-heading">
+        <h2>Contact</h2>
+        <p>Replace the placeholder links below with your real LinkedIn, GitHub, resume, and portfolio project URLs.</p>
       </div>
 
       <div class="row g-4">
         <div class="col-lg-6">
-          <div class="contact-box">
-            <h4 class="fw-bold mb-4">Get In Touch</h4>
-            <p class="text-secondary">You can use this section to share your email, phone, LinkedIn, GitHub, and resume download button later.</p>
-            <div class="mb-3">
-              <a href="mailto:ns0762005@gmail.com" class="contact-link"><i class="bi bi-envelope-fill me-2"></i>ns0762005@gmail.com</a>
-            </div>
-            <div class="mb-3">
-              <a href="tel:+919650410697" class="contact-link"><i class="bi bi-telephone-fill me-2"></i>+91 9650410697</a>
-            </div>
-            <div class="mb-3">
-              <span><i class="bi bi-geo-alt-fill me-2"></i>Delhi, India</span>
-            </div>
-            <div class="d-flex gap-3 mt-4 flex-wrap">
-              <a href="#" class="btn btn-primary btn-custom"><i class="bi bi-linkedin me-2"></i>LinkedIn</a>
-              <a href="#" class="btn btn-dark btn-custom"><i class="bi bi-github me-2"></i>GitHub</a>
+          <div class="contact-card">
+            <h4 class="mb-4">Get In Touch</h4>
+            <div class="contact-list">
+              <a href="mailto:ns0762005@gmail.com"><i class="bi bi-envelope-fill"></i> ns0762005@gmail.com</a>
+              <a href="tel:+919650410697"><i class="bi bi-telephone-fill"></i> +91 9650410697</a>
+              <span><i class="bi bi-geo-alt-fill"></i> Delhi, India</span>
+              <a href="https://www.linkedin.com/" target="_blank"><i class="bi bi-linkedin"></i> Add your LinkedIn URL</a>
+              <a href="https://github.com/" target="_blank"><i class="bi bi-github"></i> Add your GitHub URL</a>
             </div>
           </div>
         </div>
 
         <div class="col-lg-6">
-          <div class="contact-box">
-            <h4 class="fw-bold mb-4">Quick Message</h4>
+          <div class="contact-card">
+            <h4 class="mb-4">Quick Message</h4>
             <form id="contactForm">
               <div class="mb-3">
-                <input type="text" id="name" class="form-control form-control-lg" placeholder="Your Name" required>
+                <input type="text" class="form-control form-control-lg" placeholder="Your Name" required>
               </div>
               <div class="mb-3">
-                <input type="email" id="email" class="form-control form-control-lg" placeholder="Your Email" required>
+                <input type="email" class="form-control form-control-lg" placeholder="Your Email" required>
               </div>
               <div class="mb-3">
-                <textarea id="message" rows="5" class="form-control" placeholder="Write your message" required></textarea>
+                <textarea rows="5" class="form-control" placeholder="Write your message" required></textarea>
               </div>
-              <button type="submit" class="btn btn-primary btn-custom w-100">Send Message</button>
+              <button class="btn btn-main btn-primary-pro w-100" type="submit">Send Message</button>
             </form>
-            <div id="formAlert" class="mt-3"></div>
+            <div id="alertBox" class="mt-3"></div>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <footer class="footer text-center">
+  <footer class="footer">
     <div class="container">
-      <p class="mb-1">© 2026 Nitesh Kumar Portfolio</p>
-      <small>Built with HTML, CSS, Bootstrap, and JavaScript</small>
+      <p class="mb-1">© 2026 Nitesh Kumar • Data Analyst Portfolio</p>
+      <small>Built with HTML, CSS, Bootstrap, and JavaScript • Ready for GitHub Pages</small>
     </div>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script>
-    const counters = document.querySelectorAll('.counter-number');
+    const counters = document.querySelectorAll('.stat-number');
 
     const animateCounter = (counter) => {
-      const target = +counter.getAttribute('data-target');
+      const target = +counter.dataset.target;
       let current = 0;
       const increment = Math.max(1, Math.ceil(target / 40));
 
@@ -609,15 +707,13 @@
           observer.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.5 });
+    }, { threshold: 0.4 });
 
     counters.forEach(counter => observer.observe(counter));
 
     document.getElementById('contactForm').addEventListener('submit', function(e) {
       e.preventDefault();
-      document.getElementById('formAlert').innerHTML = `
-        <div class="alert alert-success mb-0">Thank you! Your message has been captured in this demo portfolio.</div>
-      `;
+      document.getElementById('alertBox').innerHTML = '<div class="alert alert-success mb-0">Thanks! This demo portfolio captured your message locally.</div>';
       this.reset();
     });
   </script>
