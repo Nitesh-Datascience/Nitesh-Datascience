@@ -77,7 +77,7 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://https://github.com/Nitesh-Datascience/Nitesh-Datascience/tree/mainrcel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
 
