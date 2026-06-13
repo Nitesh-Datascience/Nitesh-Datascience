@@ -77,7 +77,7 @@ I love working with data, creating dashboards, and solving real-world problems u
 
 ## 🚀 Portfolio Website
 
-👉 https://Nitesh-Datascience.github.io/your-repo-name/
+👉 [https://Nitesh-Datascience.github.io/your-repo-name/](https://nitesh-datascience.github.io/portfolio/)
 
 ---
 
