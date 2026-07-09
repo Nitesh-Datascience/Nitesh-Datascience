@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Nitesh Kumar </h1>
-<h3 align="center">Data Analyst | Python | SQL | Excel | Power BI | Machine Learning |Execel| </h3>
+<h3 align="center">Data Analyst | Python | SQL | Excel | Power BI | Machine Learning |Excel| </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights+and+Decisions" />
