@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Nitesh Kumar — Data Analyst. From raw data to clear decisions." width="100%" />
-</p>
-
 <div align="center">
 
+# Hi, I'm Nitesh Kumar 👋
+
 ### Data Analyst | Python | SQL | Excel | Power BI | AI & ML
+
+<img src="assets/terminal-profile.svg" alt="Nitesh Kumar's Analytics Terminal — ASCII portrait, BCA graduate, Data Analyst in Delhi, and Python, SQL, Excel, Power BI, AI and ML skills." width="100%" />
 
 I transform raw data into dashboards, predictive models, and actionable business insights.
 
@@ -24,6 +24,8 @@ I transform raw data into dashboards, predictive models, and actionable business
 
 ## About me
 
+`$ whoami`
+
 I'm a **BCA graduate based in Delhi, India**, building practical projects in data analytics, business intelligence, and machine learning. My work combines data cleaning, visualization, model evaluation, and clear business reporting.
 
 - **Building:** Interactive dashboards, forecasting tools, and recommendation systems.
@@ -32,6 +34,8 @@ I'm a **BCA graduate based in Delhi, India**, building practical projects in dat
 - **My approach:** Start with a business question, check the data, and explain what the results mean.
 
 ## Skills
+
+`$ ls ~/skills`
 
 | Area | Tools and techniques |
 | --- | --- |
@@ -42,6 +46,8 @@ I'm a **BCA graduate based in Delhi, India**, building practical projects in dat
 | Applications & workflow | Streamlit, Jupyter Notebook, VS Code, Git, GitHub |
 
 ## Featured projects
+
+`$ open ~/projects`
 
 Click a card to explore the project repository.
 
@@ -107,6 +113,8 @@ A student career platform with skill profiles, personalized roadmaps, course enr
 </details>
 
 ## Let's connect
+
+`$ connect --with nitesh`
 
 I'm interested in analytics opportunities, internships, dashboard projects, and collaborations.
 

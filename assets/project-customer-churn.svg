@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="226" viewBox="0 0 460 226" role="img" aria-labelledby="title desc">
   <title id="title">Customer Churn Prediction</title>
   <desc id="desc">Explore churn patterns and customer risk with an interactive prediction dashboard. PYTHON · STREAMLIT</desc>
-  <rect x="1" y="1" width="458" height="224" rx="16" fill="#101a2c" stroke="#30415e"/>
-  <path d="M20 2H440" stroke="#b09cff" stroke-width="3"/>
-  <rect x="24" y="22" width="46" height="46" rx="12" fill="#b09cff" fill-opacity="0.10"/>
-  <g transform="translate(25 23)" fill="none" stroke="#b09cff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="22" cy="16" r="6"/><path d="M10 35C10 25 34 25 34 35M7 20L4 24M37 20L40 24"/></g>
-  <g font-family="DejaVu Sans, Arial, sans-serif">
-    <text x="84" y="48" fill="#b09cff" font-size="10" font-weight="600" letter-spacing="0.6">CUSTOMER ANALYTICS</text>
+  <rect x="1" y="1" width="458" height="224" rx="16" fill="#0b1822" stroke="#2b7479"/>
+  <path d="M20 2H440" stroke="#51dfcf" stroke-width="3"/>
+  <rect x="24" y="22" width="46" height="46" rx="12" fill="#51dfcf" fill-opacity="0.10"/>
+  <g transform="translate(25 23)" fill="none" stroke="#51dfcf" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="22" cy="16" r="6"/><path d="M10 35C10 25 34 25 34 35M7 20L4 24M37 20L40 24"/></g>
+  <g font-family="DejaVu Sans Mono, Consolas, monospace">
+    <text x="84" y="48" fill="#51dfcf" font-size="10" font-weight="600" letter-spacing="0.6">CUSTOMER ANALYTICS</text>
     <text x="432" y="49" text-anchor="end" fill="#647b9d" font-size="13">03</text>
-    <text x="25" y="101" fill="#f3f6ff" font-size="22" font-weight="700" letter-spacing="-0.5">Customer Churn Prediction</text>
+    <text x="25" y="101" fill="#f3f6ff" font-size="20" font-weight="700" letter-spacing="-0.5">Customer Churn Prediction</text>
     <text x="25" y="131" fill="#b2c3dd" font-size="14">Explore churn patterns and customer risk</text>
     <text x="25" y="153" fill="#b2c3dd" font-size="14">with an interactive prediction dashboard.</text>
-    <path d="M25 176H435" stroke="#273751"/>
-    <text x="25" y="200" fill="#b09cff" font-size="10" letter-spacing="0.1">PYTHON · STREAMLIT</text>
+    <path d="M25 176H435" stroke="#244950"/>
+    <text x="25" y="200" fill="#51dfcf" font-size="10" letter-spacing="0.1">PYTHON · STREAMLIT</text>
     <text x="433" y="200" text-anchor="end" fill="#dbe6f8" font-size="10">EXPLORE →</text>
   </g>
 </svg>
