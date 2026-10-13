@@ -10,6 +10,8 @@ I transform raw data into dashboards, predictive models, and actionable business
 
 **[Portfolio](https://nitesh-datascience.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/niteshkumar-codlytic)** · **[Email](mailto:ns0762005@gmail.com)** · **[Projects](#featured-projects)**
 
+[About me](#about-me) · [Skills](#skills) · [Featured projects](#featured-projects) · [Let's connect](#lets-connect)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
@@ -29,7 +31,7 @@ I'm a **BCA graduate based in Delhi, India**, building practical projects in dat
 - **Open to:** Entry-level Data Analyst, Business Analyst, and MIS Executive roles, internships, and analytics collaborations.
 - **My approach:** Start with a business question, check the data, and explain what the results mean.
 
-## Skills & tools
+## Skills
 
 | Area | Tools and techniques |
 | --- | --- |
@@ -41,6 +43,26 @@ I'm a **BCA graduate based in Delhi, India**, building practical projects in dat
 
 ## Featured projects
 
+Click a card to explore the project repository.
+
+<p align="center">
+  <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="assets/project-nassau-candy.svg" alt="Nassau Candy Profitability — product margins, profit drivers, and revenue concentration. Python, Pandas, Streamlit." width="410" /></a>
+  <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><img src="assets/project-sales-mis.svg" alt="Sales MIS Dashboard — sales, profit, order KPIs, and Pivot Tables in Excel." width="410" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="assets/project-customer-churn.svg" alt="Customer Churn Prediction — customer analytics and individual risk predictions with Python and Streamlit." width="410" /></a>
+  <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="assets/project-financial-fraud.svg" alt="Financial Fraud Detection — model comparisons and transaction predictions with Python, Scikit-learn, and Streamlit." width="410" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence"><img src="assets/project-foresight.svg" alt="FORESIGHT — weekly demand forecasts and inventory risk analysis with LightGBM, Streamlit, and FastAPI." width="410" /></a>
+  <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="assets/project-edupro.svg" alt="EduPro Learner Intelligence — learner segmentation and explainable course recommendations with Python, K-Means, and Streamlit." width="410" /></a>
+</p>
+
+<details>
+<summary><strong>Project details & tools</strong></summary>
+
 | Project | What it explores | Main tools |
 | --- | --- | --- |
 | [Nassau Candy Profitability](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) | Product and division profitability, margin risk, and revenue concentration in an interactive dashboard. | Python, Pandas, Streamlit |
@@ -49,6 +71,8 @@ I'm a **BCA graduate based in Delhi, India**, building practical projects in dat
 | [Financial Fraud Detection](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) | Comparison of classification and anomaly models, transaction predictions, and fraud-detection results. | Python, Scikit-learn, Streamlit |
 | [FORESIGHT: Demand & Inventory Intelligence](https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence) | Weekly SKU forecasting, rolling backtests, stockout and overstock risks, and inventory planning. | Python, LightGBM, Streamlit, FastAPI |
 | [EduPro: Learner Intelligence](https://github.com/Nitesh-Datascience/EduPro_Project) | Learner segmentation, explainable course recommendations, and interactive learner maps. | Python, K-Means, Streamlit |
+
+</details>
 
 ### CodeVenjar — career & skill-gap platform
 
