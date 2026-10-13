@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar — Wireframe Analytics Terminal</title>
+<desc id="desc">An animated cyan terminal dashboard with a wireframe portrait based on Nitesh's current GitHub avatar. Nitesh is a BCA graduate and Data Analyst in Delhi, India, working with Python, SQL, Excel, Power BI, and AI and machine learning.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b121b"/><stop offset="1" stop-color="#081119"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#34ead2" stop-opacity="0"/><stop offset="1" stop-color="#34ead2" stop-opacity=".14"/></linearGradient>
+  <pattern id="scanlines" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 5.5H6" stroke="#39d8c7" stroke-opacity=".06"/></pattern>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.5"/></filter>
+  <clipPath id="portrait-clip"><rect x="36" y="130" width="402" height="420" rx="8"/></clipPath>
+</defs>
+<style>@media (prefers-reduced-motion: reduce) { .scan, .cursor { display:none; } }</style>
+<rect x="2" y="2" width="1196" height="616" rx="18" fill="url(#background)" stroke="#34ead2" stroke-opacity=".70" stroke-width="2"/>
+<rect x="5" y="5" width="1190" height="610" rx="16" fill="none" stroke="#34ead2" stroke-opacity=".10" stroke-width="3" filter="url(#glow)"/>
+<rect x="3" y="3" width="1194" height="48" rx="16" fill="#111e29"/>
+<path d="M3 50H1197" stroke="#234a53"/>
+<circle cx="28" cy="27" r="6" fill="#f47789"/><circle cx="50" cy="27" r="6" fill="#efc461"/><circle cx="72" cy="27" r="6" fill="#3cddaa"/>
+<g font-family="DejaVu Sans Mono, Consolas, monospace">
+<text x="100" y="32" fill="#94b4c3" font-size="15">nitesh@analytics: ~ / profile</text>
+<circle cx="1060" cy="26" r="4" fill="#37dfb4"/><text x="1073" y="31" fill="#84cbb8" font-size="13">PROFILE READY</text>
+<rect x="24" y="73" width="428" height="484" rx="10" fill="#09151d" stroke="#36dccc" stroke-opacity=".95" stroke-width="1.5"/>
+<rect x="466" y="73" width="710" height="484" rx="10" fill="#0a1720" stroke="#36dccc" stroke-opacity=".95" stroke-width="1.5"/>
+<text x="45" y="105" fill="#67e7d7" font-size="15">$ render portrait.wireframe</text>
+<text x="490" y="105" fill="#67e7d7" font-size="15">$ neofetch --user nitesh</text>
+<text x="1149" y="105" text-anchor="end" fill="#668995" font-size="12">UTF-8</text>
+<path d="M25 123H451M467 123H1175" stroke="#265a61"/>
+<g clip-path="url(#portrait-clip)">
+<rect x="36" y="130" width="402" height="420" fill="url(#scanlines)"/>
+
+<g transform="translate(45 145) scale(.84)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#a6fff4" stroke-width="1.7">
+    <path d="M145 143 C135 135 132 120 129 106 C124 87 134 66 150 53 C164 40 180 35 198 29 C217 21 237 22 254 26 C276 28 293 37 306 53 C317 66 319 84 317 102 L312 147"/>
+    <path d="M144 146 C150 131 151 113 162 105 C175 97 188 98 201 91 C218 82 240 85 258 93 C280 98 299 113 310 143"/>
+    <path d="M145 145 C144 164 146 181 148 203 C150 227 160 247 177 266 C193 281 211 291 232 296 C252 295 270 283 284 267 C300 247 306 227 311 207 L313 176 L310 146"/>
+    <path d="M144 159 C137 151 132 158 135 172 L141 191 L149 201 M313 173 C323 161 329 171 325 190 L321 207 L312 214"/>
+    <path d="M162 151 Q181 139 202 145 M236 140 Q257 135 279 145" stroke-width="2.5"/>
+    <path d="M161 165 Q174 155 191 164 Q178 172 163 168 M233 160 Q246 150 265 157 Q254 166 235 164"/>
+    <path d="M217 160 C216 174 217 190 209 198 Q204 204 215 208 M226 210 Q234 211 242 204 L237 198"/>
+    <path d="M189 223 C193 215 199 210 209 211 L220 214 L232 210 Q250 208 261 217 L268 226 L253 225 L240 225 L227 229 L214 226 L201 230 L189 232 Z" stroke-width="1.4"/>
+    <path d="M199 239 Q220 235 238 236 L252 233 M212 246 Q230 251 245 243"/>
+    <path d="M183 271 L177 310 Q188 334 206 353 M275 282 L283 316 Q273 348 252 377"/>
+    <path d="M175 308 L154 297 L126 330 L161 350 L168 376 M281 316 L307 294 L333 319 L316 347 L284 374"/>
+    <path d="M154 298 C128 310 104 321 86 331 C63 345 47 365 37 393 L18 454 M307 294 C336 305 363 314 386 334 C411 356 429 392 443 453"/>
+    <path d="M168 376 Q196 402 224 449 M284 374 L249 449 M86 335 L72 454 M386 338 L400 454"/>
+  </g>
+  <g stroke="#48cfc6" stroke-width=".9" opacity=".8">
+    <path d="M139 105 C151 76 176 56 211 42 C238 34 270 42 299 62 M140 116 C158 88 184 71 213 56 C242 49 276 58 306 82 M146 119 C169 92 195 78 217 67 C242 60 277 75 309 99 M155 112 C176 94 194 86 211 80 M142 88 Q160 58 186 44 M180 77 Q201 54 227 45 M209 82 Q230 61 255 60 M244 87 Q265 76 282 82"/>
+    <path d="M156 131 Q227 115 304 135 M152 183 Q170 181 187 189 M272 178 Q286 182 301 178 M158 205 Q180 203 197 216 M273 202 Q289 207 302 206 M165 233 Q180 235 190 251 M263 247 Q280 239 292 226 M190 273 Q230 285 270 274" opacity=".44"/>
+    <path d="M175 320 Q197 345 215 357 M281 327 Q269 351 254 365 M179 302 Q217 327 281 315" opacity=".7"/>
+    <path d="M87 342 Q107 345 128 343 M75 359 Q116 369 166 368 M64 377 Q113 391 180 389 M55 396 Q115 411 196 412 M47 417 Q120 432 212 433 M37 439 Q116 451 218 452"/>
+    <path d="M339 331 Q359 331 382 342 M318 352 Q368 360 400 366 M289 379 Q353 387 409 389 M276 404 Q346 410 420 412 M262 430 Q348 437 433 438"/>
+    <path d="M195 220 L202 216 M205 221 L212 216 M217 222 L221 218 M229 222 L235 217 M240 221 L246 216 M251 221 L257 219" stroke-width="1.2"/>
+  </g>
+  <g fill="#c0fff8" stroke="none">
+    <circle cx="178" cy="163" r="2.3"/><circle cx="249" cy="158" r="2.3"/>
+  </g>
+</g>
+<rect class="scan" x="37" y="132" width="400" height="32" fill="url(#scan)"><animate attributeName="y" values="132;518;132" dur="9s" repeatCount="indefinite"/></rect>
+</g>
+<text x="492" y="170" fill="#65d9e7" font-size="17">name</text>
+<text x="649" y="170" fill="#e2f4f5" font-size="17">Nitesh Kumar</text>
+<text x="492" y="209" fill="#65d9e7" font-size="17">role</text>
+<text x="649" y="209" fill="#e2f4f5" font-size="17">Data Analyst</text>
+<text x="492" y="248" fill="#65d9e7" font-size="17">education</text>
+<text x="649" y="248" fill="#e2f4f5" font-size="17">BCA graduate</text>
+<text x="492" y="287" fill="#65d9e7" font-size="17">location</text>
+<text x="649" y="287" fill="#e2f4f5" font-size="17">Delhi, India</text>
+<text x="492" y="326" fill="#65d9e7" font-size="17">core_stack</text>
+<text x="649" y="326" fill="#e2f4f5" font-size="17">Python / SQL / Excel / Power BI</text>
+<text x="492" y="365" fill="#65d9e7" font-size="17">focus</text>
+<text x="649" y="365" fill="#e2f4f5" font-size="17">Data Analytics / AI &amp; ML</text>
+<text x="492" y="404" fill="#65d9e7" font-size="17">building</text>
+<text x="649" y="404" fill="#e2f4f5" font-size="17">Dashboards / Forecasts / Models</text>
+<text x="492" y="443" fill="#65d9e7" font-size="17">workflow</text>
+<text x="649" y="443" fill="#e2f4f5" font-size="17">Clean &gt; Analyze &gt; Explain</text>
+<path d="M492 481H1149" stroke="#24515c"/>
+<circle cx="502" cy="512" r="5" fill="#3ae0b7"/>
+<text x="518" y="517" fill="#89d9c3" font-size="14">OPEN TO ENTRY-LEVEL OPPORTUNITIES</text>
+<text x="492" y="544" fill="#789aaa" font-size="12">Data Analyst / Business Analyst / MIS Executive</text>
+<text x="26" y="593" fill="#57decc" font-size="16">nitesh@github:~$</text>
+<text x="230" y="593" fill="#b9d0dc" font-size="16">turn_data_into_insights</text>
+<rect class="cursor" x="453" y="579" width="10" height="19" fill="#55e2cc"><animate attributeName="opacity" values="1;1;0;0" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="1171" y="592" text-anchor="end" fill="#90b8bb" font-size="12">CLEAN / ANALYZE / EXPLAIN</text>
+</g>
+</svg>
