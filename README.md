@@ -4,7 +4,7 @@
 
 ### Data Analyst | Python | SQL | Excel | Power BI | AI & ML
 
-<img src="assets/terminal-profile.svg" alt="Nitesh Kumar's Analytics Terminal — ASCII portrait, BCA graduate, Data Analyst in Delhi, and Python, SQL, Excel, Power BI, AI and ML skills." width="100%" />
+<img src="assets/analytics-terminal.svg" alt="Nitesh Kumar's Analytics Terminal — ASCII portrait, BCA graduate, Data Analyst in Delhi, and Python, SQL, Excel, Power BI, AI and ML skills." width="100%" />
 
 I transform raw data into dashboards, predictive models, and actionable business insights.
 
