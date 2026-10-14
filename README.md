@@ -1,16 +1,14 @@
 # Hi, I'm Nitesh 👋
 
-<img src="assets/nitesh-studio/cover.png" width="100%" alt="Nitesh Kumar's personal analytics studio — real profile photo, Data Analyst, BCA graduate in Delhi, India, working with Python, SQL, Excel and Power BI." />
-
-<img src="assets/nitesh-studio/typing.gif" width="100%" alt="Animated introduction: turning business questions into data stories; cleaning data, building dashboards and finding insights; Python, SQL, Excel and Power BI; learning by building practical analytics projects." />
+<img src="assets/neon-terminal/terminal.gif" width="100%" alt="Nitesh Kumar's animated neon analytics terminal — a particle portrait generated from his real photo, Data Analyst profile, BCA graduate in Delhi, Python, SQL, Excel, Power BI, and public contact information." />
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/nitesh-studio/portfolio.svg" width="180" alt="Visit my portfolio" /></a>
-  <a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><img src="assets/nitesh-studio/live-demo.svg" width="180" alt="Open the public PrivyScan AI demo" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/nitesh-studio/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my portfolio" /></a>
+  <a href="#user-content-live-projects"><img src="assets/neon-terminal/live-demo.svg" width="180" alt="Explore my live projects" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
 </p>
 
-**[About me](#user-content-about-me)** · **[Projects](#user-content-featured-projects)** · **[Live demo](#user-content-live-demo)** · **[Skills](#user-content-skills-and-tools)** · **[Connect](#user-content-connect)**
+**[About me](#user-content-about-me)** · **[Projects](#user-content-featured-projects)** · **[Live projects](#user-content-live-projects)** · **[Skills](#user-content-skills-and-tools)** · **[GitHub stats](#user-content-github-statistics)** · **[Connect](#user-content-connect)**
 
 ## About me
 
@@ -33,7 +31,7 @@ The first two previews come directly from my project repositories. Explore the s
       <p align="center"><a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="assets/nitesh-studio/profit-analysis.png" width="350" alt="Actual project preview: Nassau Candy Profitability" /></a></p>
       <p>Explore product margins, profit concentration and division performance in a profitability dashboard.</p>
       <p><code>Python · Pandas · Streamlit</code></p>
-      <p><a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project#readme">Read project guide</a></p>
+      <p><a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project#readme">Read project guide</a> · <a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><strong>Live app ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Sales MIS Dashboard</h3>
@@ -49,14 +47,14 @@ The first two previews come directly from my project repositories. Explore the s
       <p align="center"></p>
       <p>Investigate churn patterns, inspect customer risk predictions and review model performance.</p>
       <p><code>Python · Machine learning · Streamlit</code></p>
-      <p><a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction#readme">Read project guide</a></p>
+      <p><a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction#readme">Read project guide</a> · <a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><strong>Live app ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Financial Fraud Detection</h3>
       <p align="center"></p>
       <p>Compare classifiers and anomaly-detection models, then inspect transaction predictions.</p>
       <p><code>Python · Scikit-learn · Streamlit</code></p>
-      <p><a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection#readme">Read project guide</a></p>
+      <p><a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection#readme">Read project guide</a> · <a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><strong>Live app ↗</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -72,50 +70,89 @@ The first two previews come directly from my project repositories. Explore the s
       <p align="center"></p>
       <p>Segment learners with K-Means and explore explainable course recommendations and learner maps.</p>
       <p><code>Python · K-Means · Streamlit</code></p>
-      <p><a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/EduPro_Project#readme">Read project guide</a></p>
+      <p><a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/EduPro_Project#readme">Read project guide</a> · <a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><strong>Live app ↗</strong></a></p>
     </td>
   </tr>
 </table>
 
-## Live demo
+## Live projects
 
-### 🛡️ PrivyScan AI — document privacy prototype
+Explore my deployed analytics apps and prototypes.
 
-Detect sensitive text in document images and explore redaction controls in a public Streamlit app.
+<!-- LIVE-PROJECTS:START -->
 
-**[Launch PrivyScan AI ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/)**
+| Project | Explore | Demo | Source |
+| --- | --- | --- | --- |
+| **Care Transition Analytics** | Care pipeline, transfer efficiency and placement outcomes. | [Open app ↗](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) |
+| **Customer Churn Prediction** | Customer segments, churn risk and model performance. | [Open app ↗](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) |
+| **EduPro Learner Intelligence** | Learner clusters, course recommendations and model comparisons. | [Open app ↗](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/EduPro_Project) |
+| **Financial Fraud Detection** | Transaction risk, anomaly patterns and classifier comparisons. | [Open app ↗](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) |
+| **FORESIGHT · NorthBay Living** | Demand forecasts, inventory risks and replenishment planning. | [Open app ↗](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/foresight_northbay) |
+| **APL Logistics Analytics** | Delivery performance and delay-risk reporting; access required. | [Access required ↗](https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics) |
+| **Nassau Candy Profitability** | Product economics, margin risk and division performance. | [Open app ↗](https://87v6ndywgm2xvutswekgjm.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
+| **Restaurant Growth Analytics** | Explore the restaurant growth analysis dashboard. | [Open app ↗](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
+| **PrivyScan AI** | Document-image sensitive text detection and redaction prototype. | [Open app ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) | — |
+| **CodeVenjar** | Career planning web prototype; choose “Use local demo” to begin. | [Open app ↗](https://nitesh-datascience.github.io/CodeVenjar/) | [Code ↗](https://github.com/Nitesh-Datascience/CodeVenjar) |
 
-If Streamlit puts the app to sleep, select **“Yes, get this app back up!”** to wake it.
+<!-- LIVE-PROJECTS:END -->
 
-### 💻 CodeVenjar — career planning prototype
-
-Explore career profiles, skill gaps, learning roadmaps and portfolio features. The web prototype supports **local demo mode**; choose **“Use local demo”**, then create a local demo ID on the page.
-
-**[Open web prototype ↗](https://nitesh-datascience.github.io/CodeVenjar/)** · **[Source code](https://github.com/Nitesh-Datascience/CodeVenjar)**
+Streamlit apps may sleep when inactive. Select **“Yes, get this app back up!”** to wake an app. **APL requires access.** For CodeVenjar, choose **“Use local demo”** and create a local demo ID.
 
 ## Skills and tools
 
-<p align="center">
-  <img src="assets/nitesh-studio/skill-python.svg" width="145" alt="Python" />
-  <img src="assets/nitesh-studio/skill-sql.svg" width="145" alt="SQL" />
-  <img src="assets/nitesh-studio/skill-excel.svg" width="145" alt="Excel" />
-  <img src="assets/nitesh-studio/skill-powerbi.svg" width="145" alt="Power BI" />
-</p>
-<p align="center">
-  <img src="assets/nitesh-studio/skill-pandas.svg" width="145" alt="Pandas" />
-  <img src="assets/nitesh-studio/skill-sklearn.svg" width="145" alt="Scikit-learn" />
-  <img src="assets/nitesh-studio/skill-streamlit.svg" width="145" alt="Streamlit" />
-  <img src="assets/nitesh-studio/skill-git.svg" width="145" alt="Git &amp; GitHub" />
+### Data analysis
+
+<p>
+  <img src="assets/neon-terminal/icons/python.svg" width="62" height="62" alt="Python" />
+  <img src="assets/neon-terminal/icons/sql.svg" width="62" height="62" alt="SQL" />
+  <img src="assets/neon-terminal/icons/pandas.svg" width="62" height="62" alt="Pandas" />
+  <img src="assets/neon-terminal/icons/numpy.svg" width="62" height="62" alt="NumPy" />
 </p>
 
-| Area | Tools and techniques |
-| --- | --- |
-| **Data analysis** | Python, SQL, Pandas, NumPy, cleaning and exploratory analysis |
-| **Business intelligence** | Excel, Pivot Tables, Power Query, Power BI and KPI reporting |
-| **Visualization** | Matplotlib, Seaborn, Plotly and data storytelling |
-| **Machine learning** | Scikit-learn, classification, K-Means, LightGBM and model evaluation |
-| **Applications** | Streamlit, FastAPI and Jupyter Notebook |
-| **Development workflow** | Git, GitHub and VS Code |
+**Python · SQL · Pandas · NumPy**
+
+### Business intelligence
+
+<p>
+  <img src="assets/neon-terminal/icons/excel.svg" width="62" height="62" alt="Excel" />
+  <img src="assets/neon-terminal/icons/powerbi.svg" width="62" height="62" alt="Power BI" />
+</p>
+
+**Excel · Power BI**
+
+### Visualization and machine learning
+
+<p>
+  <img src="assets/neon-terminal/icons/matplotlib.svg" width="62" height="62" alt="Matplotlib" />
+  <img src="assets/neon-terminal/icons/scikitlearn.svg" width="62" height="62" alt="Scikit-learn" />
+</p>
+
+**Matplotlib · Scikit-learn**
+
+### Applications and workflow
+
+<p>
+  <img src="assets/neon-terminal/icons/streamlit.svg" width="62" height="62" alt="Streamlit" />
+  <img src="assets/neon-terminal/icons/fastapi.svg" width="62" height="62" alt="FastAPI" />
+  <img src="assets/neon-terminal/icons/jupyter.svg" width="62" height="62" alt="Jupyter" />
+  <img src="assets/neon-terminal/icons/vscode.svg" width="62" height="62" alt="VS Code" />
+  <img src="assets/neon-terminal/icons/git.svg" width="62" height="62" alt="Git" />
+  <img src="assets/neon-terminal/icons/github.svg" width="62" height="62" alt="GitHub" />
+</p>
+
+**Streamlit · FastAPI · Jupyter · VS Code · Git · GitHub**
+
+Also used across my projects: **Power Query, Pivot Tables, Seaborn, Plotly, K-Means and LightGBM**.
+
+### Analytics and ML focus
+
+<img src="assets/neon-terminal/analytics-focus.svg" width="100%" alt="Exploratory analysis, KPI reporting, classification, clustering, demand forecasting, recommendations, model evaluation and data storytelling." />
+
+## GitHub statistics
+
+<a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="assets/neon-terminal/metrics.svg" width="100%" alt="Nitesh-Datascience public GitHub statistics and primary repository language counts." /></a>
+
+Public repository statistics refresh daily. Language bars count repositories by their primary language.
 
 ## More from my GitHub
 
@@ -127,8 +164,8 @@ Explore career profiles, skill gaps, learning roadmaps and portfolio features. T
 | [Smart Water Tank Monitoring](https://github.com/Nitesh-Datascience/IOT-BASED-Smart-Water-Tank-Monitoring-System) | IoT monitoring project |
 
 <p align="center">
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="assets/nitesh-studio/repositories.svg" width="180" alt="Explore all my GitHub repositories" /></a>
-  <a href="https://github.com/Nitesh-Datascience?tab=overview"><img src="assets/nitesh-studio/activity.svg" width="180" alt="View my GitHub activity and contribution history" /></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="assets/neon-terminal/repositories.svg" width="180" alt="Explore all my GitHub repositories" /></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=overview"><img src="assets/neon-terminal/activity.svg" width="180" alt="View my GitHub activity and contribution history" /></a>
 </p>
 
 ## Connect
@@ -136,9 +173,9 @@ Explore career profiles, skill gaps, learning roadmaps and portfolio features. T
 I'm interested in analytics opportunities, practical dashboard projects and collaborations.
 
 <p align="center">
-  <a href="mailto:ns0762005@gmail.com"><img src="assets/nitesh-studio/email.svg" width="180" alt="Email Nitesh Kumar" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/nitesh-studio/linkedin.svg" width="180" alt="Nitesh Kumar on LinkedIn" /></a>
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/nitesh-studio/portfolio.svg" width="180" alt="Nitesh Kumar's portfolio" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="assets/neon-terminal/email.svg" width="180" alt="Email Nitesh Kumar" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Nitesh Kumar on LinkedIn" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Nitesh Kumar's portfolio" /></a>
 </p>
 
 **Email:** [ns0762005@gmail.com](mailto:ns0762005@gmail.com)  

@@ -1,0 +1,75 @@
+{
+  "owner": "Nitesh-Datascience",
+  "projects": [
+    {
+      "title": "Care Transition Analytics",
+      "summary": "Care pipeline, transfer efficiency and placement outcomes.",
+      "demo": "https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/",
+      "repository": "Nitesh-Datascience/care-transition-efficiency-analytics",
+      "origin": "curated"
+    },
+    {
+      "title": "Customer Churn Prediction",
+      "summary": "Customer segments, churn risk and model performance.",
+      "demo": "https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/",
+      "repository": "Nitesh-Datascience/Customer_churn_Prediction",
+      "origin": "curated"
+    },
+    {
+      "title": "EduPro Learner Intelligence",
+      "summary": "Learner clusters, course recommendations and model comparisons.",
+      "demo": "https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/",
+      "repository": "Nitesh-Datascience/EduPro_Project",
+      "origin": "curated"
+    },
+    {
+      "title": "Financial Fraud Detection",
+      "summary": "Transaction risk, anomaly patterns and classifier comparisons.",
+      "demo": "https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/",
+      "repository": "Nitesh-Datascience/Financial_Fraud_Detection",
+      "origin": "curated"
+    },
+    {
+      "title": "FORESIGHT · NorthBay Living",
+      "summary": "Demand forecasts, inventory risks and replenishment planning.",
+      "demo": "https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/",
+      "repository": "Nitesh-Datascience/foresight_northbay",
+      "origin": "curated"
+    },
+    {
+      "title": "APL Logistics Analytics",
+      "summary": "Delivery performance and delay-risk reporting; access required.",
+      "demo": "https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/",
+      "repository": "Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics",
+      "origin": "curated",
+      "access": "restricted"
+    },
+    {
+      "title": "Nassau Candy Profitability",
+      "summary": "Product economics, margin risk and division performance.",
+      "demo": "https://87v6ndywgm2xvutswekgjm.streamlit.app/",
+      "repository": "Nitesh-Datascience/Nassau_Candy_Profitability_Project",
+      "origin": "curated"
+    },
+    {
+      "title": "Restaurant Growth Analytics",
+      "summary": "Explore the restaurant growth analysis dashboard.",
+      "demo": "https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/",
+      "repository": "Nitesh-Datascience/restaurant_growth_project",
+      "origin": "curated"
+    },
+    {
+      "title": "PrivyScan AI",
+      "summary": "Document-image sensitive text detection and redaction prototype.",
+      "demo": "https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/",
+      "origin": "curated"
+    },
+    {
+      "title": "CodeVenjar",
+      "summary": "Career planning web prototype; choose “Use local demo” to begin.",
+      "demo": "https://nitesh-datascience.github.io/CodeVenjar/",
+      "repository": "Nitesh-Datascience/CodeVenjar",
+      "origin": "curated"
+    }
+  ]
+}

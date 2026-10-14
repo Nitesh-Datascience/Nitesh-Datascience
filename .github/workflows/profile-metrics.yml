@@ -1,0 +1,46 @@
+name: Refresh public profile
+
+"on":
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - tools/refresh_profile_metrics.py
+      - tools/refresh_live_projects.py
+      - data/live-projects.json
+      - .github/workflows/profile-metrics.yml
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7, official GitHub action
+      - name: Refresh live projects and public panels
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 tools/refresh_live_projects.py
+          python3 tools/refresh_profile_metrics.py
+      - name: Publish changed profile data
+        shell: bash
+        run: |
+          git add README.md data/live-projects.json assets/neon-terminal/metrics.svg assets/neon-terminal/metrics-data.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh live projects and public profile metrics'
+          git push

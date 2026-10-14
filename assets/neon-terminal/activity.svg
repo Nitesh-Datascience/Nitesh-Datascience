@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="44" viewBox="0 0 205 44" role="img"><title>GitHub activity</title><rect x="1" y="1" width="203" height="42" rx="8" fill="#0e1932" stroke="#365583"/>
+<rect x="1" y="1" width="4" height="42" rx="2" fill="#b493ff"/>
+<text x="16" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#b493ff">+</text>
+<text x="48" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#edf3ff">GitHub activity</text>
+<path d="M181 17L187 23L181 29M175 23H187" fill="none" stroke="#b493ff" stroke-width="1.7"/></svg>
