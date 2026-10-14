@@ -40,7 +40,7 @@ The first two previews come directly from my project repositories. Explore the s
       <p align="center"><a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><img src="assets/nitesh-studio/excel-dashboard.png" width="350" alt="Actual project preview: Sales MIS Dashboard" /></a></p>
       <p>Track sales, profit, order KPIs and regional trends with an Excel reporting dashboard.</p>
       <p><code>Excel · KPI reporting · Dashboard charts</code></p>
-      <p><a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel#readme">Read project guide</a> · <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel/blob/main/mis_dataset_template.xlsx">Open Excel workbook</a></p>
+      <p><a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel#readme">Read project guide</a> · <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel/raw/refs/heads/main/mis_dataset_template.xlsx">Download Excel workbook</a></p>
     </td>
   </tr>
   <tr>
