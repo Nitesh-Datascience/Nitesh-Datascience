@@ -4,7 +4,7 @@
   <img src="assets/professional/header-animated.gif" width="100%" alt="Nitesh Kumar — Data Analyst, Business Intelligence, AI and ML. Animated phrases: turning data into business insights; Python, SQL, Excel and Power BI; building dashboards and predictive models." />
 </p>
 
-**[Live demos](#live-demos)** · **[Featured projects](#featured-projects)** · **[Skills](#skills)** · **[Connect](#connect)**
+**[Live demos](#user-content-live-demos)** · **[Featured projects](#user-content-featured-projects)** · **[Skills](#user-content-skills)** · **[Connect](#user-content-connect)**
 
 I'm a **BCA graduate based in Delhi, India**, building practical analytics projects with Python, SQL, Excel and Power BI. I turn business questions into clear dashboards, useful reports and evaluated machine-learning models.
 
