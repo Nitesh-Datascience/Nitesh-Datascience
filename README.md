@@ -1,128 +1,90 @@
-<div align="left">
-
 # Hi, I'm Nitesh Kumar 👋
 
-### Data Analyst | Python | SQL | Excel | Power BI | AI & ML
+<p>
+  <img src="assets/professional/header-animated.gif" width="100%" alt="Nitesh Kumar — Data Analyst, Business Intelligence, AI and ML. Animated phrases: turning data into business insights; Python, SQL, Excel and Power BI; building dashboards and predictive models." />
+</p>
 
-<img src="assets/wireframe-terminal.svg" alt="Nitesh Kumar's Analytics Terminal — wireframe portrait, BCA graduate, Data Analyst in Delhi, and Python, SQL, Excel, Power BI, AI and ML skills." width="100%" />
+**[Live demos](#live-demos)** · **[Featured projects](#featured-projects)** · **[Skills](#skills)** · **[Connect](#connect)**
 
-I transform raw data into dashboards, predictive models, and actionable business insights.
+I'm a **BCA graduate based in Delhi, India**, building practical analytics projects with Python, SQL, Excel and Power BI. I turn business questions into clear dashboards, useful reports and evaluated machine-learning models.
 
-**[Portfolio](https://nitesh-datascience.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/niteshkumar-codlytic)** · **[Email](mailto:ns0762005@gmail.com)** · **[Projects](#featured-projects)**
+**Open to:** Entry-level Data Analyst, Business Analyst and MIS Executive roles, internships and analytics collaborations.
 
-[About me](#about-me) · [Skills](#skills) · [Featured projects](#featured-projects) · [Let's connect](#lets-connect)
+## Live demos
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-</div>
-
----
-
-## About me
-
-`$ whoami`
-
-I'm a **BCA graduate based in Delhi, India**, building practical projects in data analytics, business intelligence, and machine learning. My work combines data cleaning, visualization, model evaluation, and clear business reporting.
-
-- **Building:** Interactive dashboards, forecasting tools, and recommendation systems.
-- **Learning:** SQL, statistics, Python, and business reporting through hands-on projects.
-- **Open to:** Entry-level Data Analyst, Business Analyst, and MIS Executive roles, internships, and analytics collaborations.
-- **My approach:** Start with a business question, check the data, and explain what the results mean.
-
-## Skills
-
-`$ ls ~/skills`
-
-| Area | Tools and techniques |
-| --- | --- |
-| Data analysis | Python, SQL, Pandas, NumPy, data cleaning, exploratory analysis |
-| Business intelligence | Excel, Pivot Tables, Power Query, Power BI, KPI reporting |
-| Visualization | Matplotlib, Seaborn, Plotly, dashboard design, data storytelling |
-| Machine learning | Scikit-learn, classification, clustering, model evaluation |
-| Applications & workflow | Streamlit, Jupyter Notebook, VS Code, Git, GitHub |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="assets/professional/codevenjar.svg" width="340" alt="CodeVenjar — live career planning prototype with local demo mode" /></a><br />
+      <a href="https://nitesh-datascience.github.io/CodeVenjar/"><strong>Open live demo ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/CodeVenjar">Source code</a><br />
+      <sub>Choose “Use local demo” and create a local demo ID.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><img src="assets/professional/privyscan.svg" width="340" alt="PrivyScan AI — public document privacy and text redaction prototype" /></a><br />
+      <a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><strong>Open live demo ↗</strong></a><br />
+      <sub>If the app is asleep, choose “Yes, get this app back up!”</sub>
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
-`$ open ~/projects`
+Business analytics, reporting and machine learning — each card links to its repository, with setup instructions in the project guide.
 
-Click a card to explore the project repository.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="assets/professional/nassau.svg" width="340" alt="Nassau Candy Profitability — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project#readme">Project guide</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><img src="assets/professional/sales.svg" width="340" alt="Sales MIS Dashboard — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel#readme">Project guide</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="assets/professional/churn.svg" width="340" alt="Customer Churn Prediction — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction#readme">Project guide</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="assets/professional/fraud.svg" width="340" alt="Financial Fraud Detection — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection#readme">Project guide</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence"><img src="assets/professional/foresight.svg" width="340" alt="FORESIGHT Intelligence — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence#readme">Project guide</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="assets/professional/edupro.svg" width="340" alt="EduPro Learner Intelligence — open source code" /></a><br />
+      <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>Source code</strong></a> · <a href="https://github.com/Nitesh-Datascience/EduPro_Project#readme">Project guide</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="assets/project-nassau-candy.svg" alt="Nassau Candy Profitability — product margins, profit drivers, and revenue concentration. Python, Pandas, Streamlit." width="410" /></a>
-  <a href="https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel"><img src="assets/project-sales-mis.svg" alt="Sales MIS Dashboard — sales, profit, order KPIs, and Pivot Tables in Excel." width="410" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="assets/project-customer-churn.svg" alt="Customer Churn Prediction — customer analytics and individual risk predictions with Python and Streamlit." width="410" /></a>
-  <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="assets/project-financial-fraud.svg" alt="Financial Fraud Detection — model comparisons and transaction predictions with Python, Scikit-learn, and Streamlit." width="410" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence"><img src="assets/project-foresight.svg" alt="FORESIGHT — weekly demand forecasts and inventory risk analysis with LightGBM, Streamlit, and FastAPI." width="410" /></a>
-  <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="assets/project-edupro.svg" alt="EduPro Learner Intelligence — learner segmentation and explainable course recommendations with Python, K-Means, and Streamlit." width="410" /></a>
-</p>
-
-<details>
-<summary><strong>Project details & tools</strong></summary>
-
-| Project | What it explores | Main tools |
-| --- | --- | --- |
-| [Nassau Candy Profitability](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) | Product and division profitability, margin risk, and revenue concentration in an interactive dashboard. | Python, Pandas, Streamlit |
-| [Sales MIS Dashboard](https://github.com/Nitesh-Datascience/Sales-MIS-Dashboard-Project-using-Excel) | Sales, profit, and order KPIs with Pivot Tables, regional comparisons, and trend reports. | Microsoft Excel |
-| [Customer Churn Prediction](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) | Customer churn patterns, individual risk predictions, and model performance in a dashboard. | Python, Streamlit |
-| [Financial Fraud Detection](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) | Comparison of classification and anomaly models, transaction predictions, and fraud-detection results. | Python, Scikit-learn, Streamlit |
-| [FORESIGHT: Demand & Inventory Intelligence](https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence) | Weekly SKU forecasting, rolling backtests, stockout and overstock risks, and inventory planning. | Python, LightGBM, Streamlit, FastAPI |
-| [EduPro: Learner Intelligence](https://github.com/Nitesh-Datascience/EduPro_Project) | Learner segmentation, explainable course recommendations, and interactive learner maps. | Python, K-Means, Streamlit |
-
-</details>
-
-### CodeVenjar — career & skill-gap platform
-
-[Explore CodeVenjar →](https://github.com/Nitesh-Datascience/CodeVenjar)
-
-A student career platform with skill profiles, personalized roadmaps, course enrollment, mentor booking records, assignments, and portfolio building. Supabase supports authentication and learner records, with a demo mode for exploring the interface.
-
-**More work:** [Shopping Behavior Analysis](https://github.com/Nitesh-Datascience/Customer-Shopping-Behavior-Analysis) · [Care Transition Analytics](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) · [APL Logistics](https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics) · [Smart Water Tank Monitoring](https://github.com/Nitesh-Datascience/IOT-BASED-Smart-Water-Tank-Monitoring-System)
+**More work:** [APL Logistics Analytics](https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics) · [Shopping Behavior Analysis](https://github.com/Nitesh-Datascience/Customer-Shopping-Behavior-Analysis) · [Care Transition Analytics](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) · [Smart Water Tank Monitoring](https://github.com/Nitesh-Datascience/IOT-BASED-Smart-Water-Tank-Monitoring-System)
 
 **[Browse all repositories →](https://github.com/Nitesh-Datascience?tab=repositories)**
 
-## What I can help with
+## Skills
 
-- Clean and structure datasets for analysis.
-- Build Excel reports and Power BI dashboards around business KPIs.
-- Explore customer behavior, sales performance, and operational trends.
-- Develop and evaluate machine-learning models for portfolio projects.
-- Present findings through clear charts, dashboards, and project documentation.
+<img src="assets/professional/skills.svg" width="100%" alt="Data analysis: Python, SQL, Pandas, NumPy. Business intelligence: Excel, Power Query, Power BI. Visualization: Matplotlib, Seaborn, Plotly. Machine learning: Scikit-learn, LightGBM, K-Means. Applications: Streamlit, FastAPI, Jupyter. Workflow: Git, GitHub, VS Code." />
 
-<details>
-<summary><strong>GitHub activity & statistics</strong></summary>
+**How I work:** Define the business question → clean and explore the data → build and evaluate → explain the findings.
 
-<br />
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Nitesh-Datascience" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Programming languages across Nitesh-Datascience repositories" width="39%" />
+Interested in an analytics role, dashboard project or collaboration? Let's connect.
+
+<p>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/professional/linkedin.svg" width="160" alt="Connect with Nitesh Kumar on LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="assets/professional/email.svg" width="160" alt="Email ns0762005@gmail.com" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/professional/portfolio.svg" width="160" alt="Visit Nitesh Kumar's portfolio" /></a>
 </p>
 
-[View my contribution history on GitHub →](https://github.com/Nitesh-Datascience?tab=overview)
-
-</details>
-
-## Let's connect
-
-`$ connect --with nitesh`
-
-I'm interested in analytics opportunities, internships, dashboard projects, and collaborations.
-
-**Email:** [ns0762005@gmail.com](mailto:ns0762005@gmail.com)  
-**LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/niteshkumar-codlytic)  
-**Portfolio:** [Explore my projects and skills](https://nitesh-datascience.github.io/portfolio/)
-
-Have a project suggestion or feedback? [Open a GitHub issue](https://github.com/Nitesh-Datascience/Nitesh-Datascience/issues/new?title=Profile%20Feedback) or [send me an email](mailto:ns0762005@gmail.com?subject=GitHub%20Profile%20Feedback).
+**[LinkedIn](https://www.linkedin.com/in/niteshkumar-codlytic)** · **[ns0762005@gmail.com](mailto:ns0762005@gmail.com)** · **[Portfolio](https://nitesh-datascience.github.io/portfolio/)**
 
 ---
 

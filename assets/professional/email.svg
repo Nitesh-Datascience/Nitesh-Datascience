@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="42" viewBox="0 0 184 42" role="img" aria-labelledby="title description">
+<title id="title">Email me</title><desc id="description">Email me</desc>
+
+<rect x="1" y="1" width="182" height="40" rx="10" fill="#111d30" stroke="#35465d"/>
+<text x="15" y="27" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="13" fill="#aba2ff">@</text>
+<text x="43" y="27" font-family="DejaVu Sans, Arial, sans-serif" font-weight="600" font-size="14" fill="#f0f4ff">Email me</text>
+<path d="M159 16L166 23L159 30M154 23H166" fill="none" stroke="#aba2ff" stroke-width="1.6"/>
+</svg>

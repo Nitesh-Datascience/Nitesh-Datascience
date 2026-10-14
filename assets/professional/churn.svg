@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="216" viewBox="0 0 560 216" role="img" aria-labelledby="title description">
+<title id="title">Customer Churn Prediction</title><desc id="description">Explore churn patterns and customer risk. Review predictions and model performance. PYTHON / MACHINE LEARNING / STREAMLIT</desc>
+
+<rect x="1" y="1" width="558" height="214" rx="17" fill="#0d1727" stroke="#2a3a50"/>
+<path d="M19 2H541" stroke="#aba2ff" stroke-width="3"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="24" y="22" width="32" height="32" rx="9" fill="#aba2ff" fill-opacity=".12"/>
+<g fill="none" stroke="#aba2ff" stroke-width="2" stroke-linecap="round"><path d="M32 45V37M40 45V30M48 45V34"/></g>
+<text x="69" y="44" font-size="13" font-weight="700" letter-spacing="1.5" fill="#aba2ff">CUSTOMER ANALYTICS</text>
+<text x="533" y="44" text-anchor="end" font-size="13" fill="#8295ae">03</text>
+<text x="24" y="90" font-size="27" font-weight="700" fill="#f0f4ff" letter-spacing="-.6">Customer Churn Prediction</text>
+<text x="24" y="125" font-size="19" fill="#b1bed1">Explore churn patterns and customer risk.</text>
+<text x="24" y="152" font-size="19" fill="#b1bed1">Review predictions and model performance.</text>
+<path d="M24 175H536" stroke="#26374e"/>
+<text x="24" y="199" font-size="13" font-weight="600" fill="#aba2ff">PYTHON / MACHINE LEARNING / STREAMLIT</text>
+<path d="M514 194H535M528 187L535 194L528 201" fill="none" stroke="#aba2ff" stroke-width="2"/>
+</g></svg>
