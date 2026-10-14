@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my portfolio" /></a>
-  <a href="#user-content-live-projects"><img src="assets/neon-terminal/live-demo.svg" width="180" alt="Explore my live projects" /></a>
+  <a href="#user-content-live-projects"><img src="assets/neon-terminal/live-projects.svg" width="180" alt="Explore my live projects" /></a>
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
 </p>
 
