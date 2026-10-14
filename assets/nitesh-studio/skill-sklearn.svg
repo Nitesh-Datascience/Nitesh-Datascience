@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="48" viewBox="0 0 180 48" role="img" aria-labelledby="title desc">
+<title id="title">Scikit-learn</title><desc id="desc">Scikit-learn</desc>
+<rect x="1" y="1" width="178" height="46" rx="8" fill="#151d28" stroke="#35485b"/>
+<rect x="7" y="7" width="35" height="34" rx="6" fill="#ffbd72" fill-opacity=".12"/>
+<text x="24" y="29" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffbd72">ML</text>
+<text x="52" y="30" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="600" fill="#f1f5f9">Scikit-learn</text>
+</svg>
