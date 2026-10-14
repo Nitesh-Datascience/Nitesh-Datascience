@@ -18,17 +18,17 @@
 <text x="275" y="242" fill="#a9b8d9" font-size="11">FOLLOWERS</text><text x="517" y="77" fill="#cfdbf4" font-size="13">Python</text>
 <rect x="695" y="67" width="220" height="10" rx="5" fill="#1a2847"/>
 <rect x="695" y="67" width="220.0" height="10" rx="5" fill="#41d7ff"/>
-<text x="961" y="77" text-anchor="end" fill="#edf3ff" font-size="14">16</text><text x="517" y="112" fill="#cfdbf4" font-size="13">Jupyter Notebook</text>
+<text x="961" y="77" text-anchor="end" fill="#edf3ff" font-size="14">17</text><text x="517" y="112" fill="#cfdbf4" font-size="13">Jupyter Notebook</text>
 <rect x="695" y="102" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="102" width="151.25" height="10" rx="5" fill="#a483ff"/>
+<rect x="695" y="102" width="142.35" height="10" rx="5" fill="#a483ff"/>
 <text x="961" y="112" text-anchor="end" fill="#edf3ff" font-size="14">11</text><text x="517" y="147" fill="#cfdbf4" font-size="13">HTML</text>
 <rect x="695" y="137" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="137" width="55.0" height="10" rx="5" fill="#66e9bd"/>
+<rect x="695" y="137" width="51.76" height="10" rx="5" fill="#66e9bd"/>
 <text x="961" y="147" text-anchor="end" fill="#edf3ff" font-size="14">4</text><text x="517" y="182" fill="#cfdbf4" font-size="13">JavaScript</text>
 <rect x="695" y="172" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="172" width="13.75" height="10" rx="5" fill="#ffcf68"/>
+<rect x="695" y="172" width="12.94" height="10" rx="5" fill="#ffcf68"/>
 <text x="961" y="182" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="217" fill="#cfdbf4" font-size="13">PLpgSQL</text>
 <rect x="695" y="207" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="207" width="13.75" height="10" rx="5" fill="#e982cf"/>
-<text x="961" y="217" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="251" fill="#899abf" font-size="11">Repository counts · Unspecified: 5</text>
+<rect x="695" y="207" width="12.94" height="10" rx="5" fill="#e982cf"/>
+<text x="961" y="217" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="251" fill="#899abf" font-size="11">Repository counts · Unspecified: 4</text>
 <text x="27" y="295" fill="#8fa4c9" font-size="11">Public data · Updated 14 Oct 2026</text></g></svg>
