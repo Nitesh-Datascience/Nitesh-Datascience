@@ -12,7 +12,7 @@ I'm a **BCA graduate based in Delhi, India**, building practical analytics proje
 
 ## Live demos
 
-<table width="100%">
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="assets/professional/codevenjar.svg" width="340" alt="CodeVenjar — live career planning prototype with local demo mode" /></a><br />
@@ -31,7 +31,7 @@ I'm a **BCA graduate based in Delhi, India**, building practical analytics proje
 
 Business analytics, reporting and machine learning — each card links to its repository, with setup instructions in the project guide.
 
-<table width="100%">
+<table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="assets/professional/nassau.svg" width="340" alt="Nassau Candy Profitability — open source code" /></a><br />
