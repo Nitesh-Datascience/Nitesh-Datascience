@@ -3,12 +3,13 @@
 <img src="assets/neon-terminal/terminal.gif" width="100%" alt="Nitesh Kumar's animated neon analytics terminal — a particle portrait generated from his real photo, Data Analyst profile, BCA graduate in Delhi, Python, SQL, Excel, Power BI, and public contact information." />
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my main portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="assets/neon-terminal/tree-portfolio.svg" width="180" alt="Visit my Tree Portfolio" /></a>
   <a href="#user-content-live-projects"><img src="assets/neon-terminal/live-projects.svg" width="180" alt="Explore my live projects" /></a>
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
 </p>
 
-**[About me](#user-content-about-me)** · **[Projects](#user-content-featured-projects)** · **[Live projects](#user-content-live-projects)** · **[Skills](#user-content-skills-and-tools)** · **[GitHub stats](#user-content-github-statistics)** · **[Connect](#user-content-connect)**
+**[About me](#user-content-about-me)** · **[Portfolios](#user-content-my-portfolios)** · **[Projects](#user-content-featured-projects)** · **[Live projects](#user-content-live-projects)** · **[Skills](#user-content-skills-and-tools)** · **[GitHub stats](#user-content-github-statistics)** · **[Connect](#user-content-connect)**
 
 ## About me
 
@@ -19,6 +20,27 @@ I work through the whole analysis: **understand the question, clean the data, bu
 - **Building:** Python dashboards, Excel reports, forecasting tools and recommendation systems.
 - **Practicing:** SQL, statistics, model evaluation and business reporting through hands-on projects.
 - **Open to:** Entry-level Data Analyst, Business Analyst and MIS Executive roles, internships and analytics collaborations.
+
+## My portfolios
+
+Explore my analytics work through two different portfolio experiences.
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio-main-card.svg" width="100%" alt="Main portfolio: Data into decisions" /></a>
+      <h3>Data Analyst Portfolio</h3>
+      <p>Browse project case studies, live demos, skills and my résumé.</p>
+      <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>Open main portfolio ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/portfolio">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="assets/neon-terminal/portfolio-tree-card.svg" width="100%" alt="Tree Portfolio: A Garden of Insights" /></a>
+      <h3>Tree Portfolio</h3>
+      <p>Explore an animated tree with clickable project branches and project details.</p>
+      <p><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>Open Tree Portfolio ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio">Source code</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
@@ -44,14 +66,12 @@ The first two previews come directly from my project repositories. Explore the s
   <tr>
     <td width="50%" valign="top">
       <h3>Customer Churn Prediction</h3>
-      <p align="center"></p>
       <p>Investigate churn patterns, inspect customer risk predictions and review model performance.</p>
       <p><code>Python · Machine learning · Streamlit</code></p>
       <p><a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction#readme">Read project guide</a> · <a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><strong>Live app ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Financial Fraud Detection</h3>
-      <p align="center"></p>
       <p>Compare classifiers and anomaly-detection models, then inspect transaction predictions.</p>
       <p><code>Python · Scikit-learn · Streamlit</code></p>
       <p><a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection#readme">Read project guide</a> · <a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><strong>Live app ↗</strong></a></p>
@@ -60,14 +80,12 @@ The first two previews come directly from my project repositories. Explore the s
   <tr>
     <td width="50%" valign="top">
       <h3>FORESIGHT: Demand &amp; Inventory</h3>
-      <p align="center"></p>
       <p>Forecast weekly SKU demand with rolling backtests and analyze stockout and overstock risks.</p>
       <p><code>LightGBM · Streamlit · FastAPI</code></p>
       <p><a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/FORESIGHT_AI_Demand_Inventory_Intelligence#readme">Read project guide</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>EduPro Learner Intelligence</h3>
-      <p align="center"></p>
       <p>Segment learners with K-Means and explore explainable course recommendations and learner maps.</p>
       <p><code>Python · K-Means · Streamlit</code></p>
       <p><a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>Source code ↗</strong></a> · <a href="https://github.com/Nitesh-Datascience/EduPro_Project#readme">Read project guide</a> · <a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><strong>Live app ↗</strong></a></p>
@@ -93,6 +111,7 @@ Explore my deployed analytics apps and prototypes.
 | **Restaurant Growth Analytics** | Explore the restaurant growth analysis dashboard. | [Open app ↗](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
 | **PrivyScan AI** | Document-image sensitive text detection and redaction prototype. | [Open app ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) | — |
 | **CodeVenjar** | Career planning web prototype; choose “Use local demo” to begin. | [Open app ↗](https://nitesh-datascience.github.io/CodeVenjar/) | [Code ↗](https://github.com/Nitesh-Datascience/CodeVenjar) |
+| **Nitesh Tree Portfolio** | Interactive tree portfolio with project details, filters and animated letters. | [Open app ↗](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) | [Code ↗](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) |
 
 <!-- LIVE-PROJECTS:END -->
 
@@ -175,12 +194,13 @@ I'm interested in analytics opportunities, practical dashboard projects and coll
 <p align="center">
   <a href="mailto:ns0762005@gmail.com"><img src="assets/neon-terminal/email.svg" width="180" alt="Email Nitesh Kumar" /></a>
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Nitesh Kumar on LinkedIn" /></a>
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Nitesh Kumar's portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Nitesh Kumar's main portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="assets/neon-terminal/tree-portfolio.svg" width="180" alt="Visit my Tree Portfolio" /></a>
 </p>
 
 **Email:** [ns0762005@gmail.com](mailto:ns0762005@gmail.com)  
 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/niteshkumar-codlytic)  
-**Portfolio:** [nitesh-datascience.github.io/portfolio](https://nitesh-datascience.github.io/portfolio/)
+**Portfolios:** [Main portfolio](https://nitesh-datascience.github.io/portfolio/) · [Tree Portfolio](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/)
 
 ---
 

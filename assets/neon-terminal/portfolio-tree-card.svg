@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="title desc">
+<title id="title">Tree Portfolio — A Garden of Insights</title>
+<desc id="desc">A cream portfolio card with an illustrated branching tree and colorful project fruits.</desc>
+<rect x="1" y="1" width="458" height="208" rx="16" fill="#f7f6f0" stroke="#d5d9c9"/>
+<g font-family="DejaVu Sans, Arial, sans-serif"><text x="25" y="30" font-size="10" letter-spacing="1.2" fill="#566747">02 / TREE PORTFOLIO</text>
+<text x="25" y="148" font-size="9.5" letter-spacing=".3" fill="#66745c">PICK A PROJECT. FOLLOW A BRANCH.</text><text x="25" y="185" font-size="11" font-weight="700" fill="#425b31">EXPLORE THE GARDEN ↗</text></g>
+<g font-family="DejaVu Serif, Georgia, serif" font-size="28" fill="#242e23"><text x="25" y="82">A Garden</text><text x="25" y="116">of Insights.</text></g>
+<ellipse cx="347" cy="179" rx="65" ry="5" fill="#e5e7dc"/>
+<g fill="none" stroke="#2e382b" stroke-linecap="round"><path d="M346 180c-9-30 6-60-4-110" stroke-width="5"/><path d="M345 151c-21-13-27-31-42-42m43 31c17-17 33-29 46-52m-48 27c-15-14-25-25-28-44m28 21c12-15 13-28 12-40" stroke-width="3"/><path d="m309 116-18-1m24 8 2-20m66-1 18 1m-11-12-2-16m-68 6-15-4m14 0 3-14m33 2 13-8m-12 5-6-14M346 180l-17 5m18-5 15 6" stroke-width="1.4"/></g>
+<g><circle cx="291" cy="115" r="9" fill="#e89470"/><circle cx="317" cy="101" r="7" fill="#8caa61"/><circle cx="402" cy="103" r="9" fill="#c29dc3"/><circle cx="388" cy="75" r="7" fill="#e3b75e"/><circle cx="356" cy="51" r="8" fill="#82b8c3"/></g>
+<path d="M319 83q-13-2-14-12 13-1 14 12m39-14q2-12 14-11-2 11-14 11m-16 55q-11-1-13-10 11-2 13 10m24 11q2-10 11-9-1 9-11 9" fill="#a3b28e"/>
+<g font-family="DejaVu Serif, Georgia, serif" font-size="10" fill="#8d987d" opacity=".75"><text x="281" y="160" transform="rotate(-20 281 160)">a</text><text x="395" y="154" transform="rotate(25 395 154)">?</text><text x="316" y="184">x</text><text x="376" y="184">+</text></g>
+</svg>

@@ -70,6 +70,13 @@
       "demo": "https://nitesh-datascience.github.io/CodeVenjar/",
       "repository": "Nitesh-Datascience/CodeVenjar",
       "origin": "curated"
+    },
+    {
+      "title": "Nitesh Tree Portfolio",
+      "summary": "Interactive tree portfolio with project details, filters and animated letters.",
+      "demo": "https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/",
+      "repository": "Nitesh-Datascience/Nitesh-Tree-Portfolio",
+      "origin": "curated"
     }
   ]
 }
