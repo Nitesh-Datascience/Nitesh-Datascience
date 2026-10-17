@@ -1,7 +1,7 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "repos": [
     {
       "name": "AI-Project--loci_brand_memory_engine",
@@ -13,6 +13,12 @@
       "name": "Apple_stock_data_assignment",
       "language": "Jupyter Notebook",
       "stars": 2,
+      "forks": 0
+    },
+    {
+      "name": "Birthday-Gift",
+      "language": "JavaScript",
+      "stars": 0,
       "forks": 0
     },
     {
@@ -166,8 +172,8 @@
       "forks": 0
     },
     {
-      "name": "Nitesh_datascience",
-      "language": "Python",
+      "name": "Nitesh-Tree-Portfolio",
+      "language": "JavaScript",
       "stars": 0,
       "forks": 0
     },
