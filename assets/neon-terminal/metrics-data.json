@@ -1,7 +1,7 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "repos": [
     {
       "name": "AI-Project--loci_brand_memory_engine",
@@ -19,6 +19,18 @@
       "name": "Birthday-Gift",
       "language": "JavaScript",
       "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Birthday-special-besties",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Birthday_Surprise_Project",
+      "language": "HTML",
+      "stars": 1,
       "forks": 0
     },
     {
@@ -114,6 +126,12 @@
     {
       "name": "FORESIGHT_Retail_Inventory_End_to_End",
       "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "hbirthsdays",
+      "language": "HTML",
       "stars": 0,
       "forks": 0
     },
