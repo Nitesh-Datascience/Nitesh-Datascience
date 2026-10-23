@@ -1,8 +1,14 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "repos": [
+    {
+      "name": "3D-Sketch-Portfolio",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
     {
       "name": "AI-Project--loci_brand_memory_engine",
       "language": "Python",
@@ -65,7 +71,7 @@
     },
     {
       "name": "Customer_churn_Prediction",
-      "language": "Python",
+      "language": "Jupyter Notebook",
       "stars": 1,
       "forks": 0
     },
