@@ -44,13 +44,51 @@
 
 ## About me
 
-I'm **Nitesh Kumar**, a **BCA graduate based in Delhi, India**, building a career in data analytics and business intelligence. My projects cover sales reporting, profitability, customer behavior, forecasting and machine learning.
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h2>Hey, I'm Nitesh Kumar 👋</h2>
+      <p><strong>Data Analyst · Business Intelligence · Python Developer</strong></p>
+      <p>I turn raw data into useful stories, practical dashboards and decisions people can act on. I enjoy building end-to-end projects — from cleaning and exploring data to modeling, visualization and deployment.</p>
+      <p>
+        <a href="https://nitesh-datascience.github.io/portfolio/"><strong>Explore my portfolio ↗</strong></a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/Nitesh-Datascience?tab=repositories"><strong>Browse my projects ↗</strong></a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/Nitesh-Datascience.png" width="170" alt="Nitesh Kumar GitHub avatar" />
+      <p><strong>Delhi, India</strong><br/>BCA Graduate · Open to Opportunities</p>
+    </td>
+  </tr>
+</table>
 
-I work through the whole analysis: **understand the question, clean the data, build and evaluate, and explain the findings**. I use dashboards and clear documentation to make the results easier to explore.
+### A year of building
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=160b12&color=f9a8d4&line=ec4899&point=ffffff&area=true&area_color=831843&hide_border=true&custom_title=My%20GitHub%20Build%20Journey" width="100%" alt="Nitesh Kumar's GitHub contribution activity" />
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📊 Analytics</h3>
+      <p>Dashboards, KPIs and business reporting</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤖 Machine Learning</h3>
+      <p>Prediction, clustering and forecasting</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🚀 Live Projects</h3>
+      <p>Useful tools and interactive demos</p>
+    </td>
+  </tr>
+</table>
 
 - **Building:** Python dashboards, Excel reports, forecasting tools and recommendation systems.
-- **Practicing:** SQL, statistics, model evaluation and business reporting through hands-on projects.
-- **Open to:** Entry-level Data Analyst, Business Analyst and MIS Executive roles, internships and analytics collaborations.
+- **Growing:** SQL, statistics, model evaluation and business storytelling through hands-on projects.
+- **Open to:** Data Analyst, Business Analyst and MIS opportunities, internships and analytics collaborations.
 
 ## My portfolios
 
