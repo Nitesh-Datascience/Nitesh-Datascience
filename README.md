@@ -2,6 +2,16 @@
 
 <img src="assets/neon-terminal/terminal.gif" width="100%" alt="Nitesh Kumar's animated neon analytics terminal — a particle portrait generated from his real photo, Data Analyst profile, BCA graduate in Delhi, Python, SQL, Excel, Power BI, and public contact information." />
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence;Turning+raw+data+into+clear+decisions;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Building+dashboards%2C+ML+apps+%26+useful+tools" alt="Typing animation: Data Analyst, Business Intelligence, Python, SQL, Excel, Power BI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=9d174d&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Analytics-9d174d?style=for-the-badge" alt="Focus: Data and Analytics" />
+</p>
+
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="assets/neon-terminal/tree-portfolio.svg" width="180" alt="Visit my Tree Portfolio" /></a>
@@ -166,6 +176,12 @@ Also used across my projects: **Power Query, Pivot Tables, Seaborn, Plotly, K-Me
 ### Analytics and ML focus
 
 <img src="assets/neon-terminal/analytics-focus.svg" width="100%" alt="Exploratory analysis, KPI reporting, classification, clustering, demand forecasting, recommendations, model evaluation and data storytelling." />
+
+## GitHub contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=0d1117&color=f472b6&line=db2777&point=f9a8d4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph for Nitesh-Datascience" />
+</p>
 
 ## GitHub statistics
 
