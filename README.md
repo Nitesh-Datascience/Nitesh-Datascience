@@ -1,25 +1,46 @@
-# Hi, I'm Nitesh 👋
+<!-- HERO:START -->
+<p align="center">
+  <img src="assets/neon-terminal/hero-burgundy.svg" width="100%" alt="Nitesh Kumar — Data Analyst and Business Intelligence" />
+</p>
 
-<img src="assets/neon-terminal/terminal.gif" width="100%" alt="Nitesh Kumar's animated neon analytics terminal — a particle portrait generated from his real photo, Data Analyst profile, BCA graduate in Delhi, Python, SQL, Excel, Power BI, and public contact information." />
-
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <p><strong>DATA ANALYST · BUSINESS INTELLIGENCE</strong></p>
+      <h1>Nitesh Kumar.</h1>
+      <p><em>I turn data into decisions.</em></p>
+      <p>I build practical analytics solutions and thoughtful digital experiences — from interactive dashboards and forecasting tools to machine-learning apps.</p>
+      <p>
+        <a href="https://nitesh-datascience.github.io/portfolio/"><strong>Explore My Work ↗</strong></a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/Nitesh-Datascience?tab=repositories"><strong>View Repositories ↗</strong></a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/niteshkumar-codlytic">LinkedIn</a> ·
+        <a href="mailto:ns0762005@gmail.com">Email</a> ·
+        <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/">Tree Portfolio</a>
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://github.com/Nitesh-Datascience.png" width="240" alt="Nitesh Kumar GitHub profile avatar" />
+      <p><strong>Delhi, India</strong><br/>BCA Graduate · Open to Opportunities</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence;Turning+raw+data+into+clear+decisions;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Building+dashboards%2C+ML+apps+%26+useful+tools" alt="Typing animation: Data Analyst, Business Intelligence, Python, SQL, Excel, Power BI" />
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=be185d&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Analytics-701a3d?style=for-the-badge" alt="Focus: Data and Analytics" />
+  <img src="https://img.shields.io/badge/BUILDING-Dashboards%20%26%20ML-9d174d?style=for-the-badge" alt="Building dashboards and machine learning apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=9d174d&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Analytics-9d174d?style=for-the-badge" alt="Focus: Data and Analytics" />
-</p>
-
-<p align="center">
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="assets/neon-terminal/portfolio.svg" width="180" alt="Visit my main portfolio" /></a>
-  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="assets/neon-terminal/tree-portfolio.svg" width="180" alt="Visit my Tree Portfolio" /></a>
-  <a href="#user-content-live-projects"><img src="assets/neon-terminal/live-projects.svg" width="180" alt="Explore my live projects" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="assets/neon-terminal/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=760&lines=Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Turning+raw+data+into+clear+decisions;Dashboards+%C2%B7+Forecasting+%C2%B7+Machine+Learning" alt="Python, SQL, Excel, Power BI, dashboards, forecasting and machine learning" />
 </p>
 
 **[About me](#user-content-about-me)** · **[Portfolios](#user-content-my-portfolios)** · **[Projects](#user-content-featured-projects)** · **[Live projects](#user-content-live-projects)** · **[Skills](#user-content-skills-and-tools)** · **[GitHub stats](#user-content-github-statistics)** · **[Connect](#user-content-connect)**
+
+<!-- HERO:END -->
 
 ## About me
 
