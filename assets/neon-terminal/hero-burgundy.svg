@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Nitesh Kumar — Data Analyst</title>
+  <desc id="desc">A dark burgundy and rose editorial banner for a data analyst portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160b16"/>
+      <stop offset="0.52" stop-color="#3b102b"/>
+      <stop offset="1" stop-color="#861b4b"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f472b6" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+  <circle cx="1010" cy="80" r="260" fill="url(#glow)"/>
+  <g fill="none" stroke="#f9a8d4" stroke-opacity=".22">
+    <circle cx="1020" cy="108" r="82"/><circle cx="1020" cy="108" r="112"/><circle cx="1020" cy="108" r="143"/>
+    <path d="M780 0V230M840 0V230M900 0V230M960 0V230M1020 0V230M1080 0V230M1140 0V230"/>
+    <path d="M760 40H1200M760 80H1200M760 120H1200M760 160H1200M760 200H1200"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="62" y="54" font-size="14" font-weight="700" letter-spacing="4" fill="#f9a8d4">PORTFOLIO / 2026</text>
+    <text x="60" y="117" font-size="43" font-weight="700" fill="#fff7fb">DATA INTO</text>
+    <text x="60" y="164" font-size="43" font-weight="700" fill="#f9a8d4">DECISIONS.</text>
+    <text x="63" y="198" font-size="14" letter-spacing="2" fill="#fce7f3">ANALYTICS · DASHBOARDS · MACHINE LEARNING</text>
+    <text x="1020" y="114" text-anchor="middle" font-size="42" font-weight="700" fill="#fff7fb">NK</text>
+    <text x="1020" y="145" text-anchor="middle" font-size="10" letter-spacing="3" fill="#f9a8d4">NITESH KUMAR</text>
+  </g>
+</svg>
