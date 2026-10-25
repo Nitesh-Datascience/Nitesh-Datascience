@@ -169,9 +169,18 @@ Also used across my projects: **Power Query, Pivot Tables, Seaborn, Plotly, K-Me
 
 ## GitHub statistics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&hide_border=true&rank_icon=github&theme=radical" alt="GitHub profile statistics for Nitesh-Datascience" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Most-used programming languages across public repositories" />
+</p>
+
+<p align="center">
+  <img width="72%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=radical&hide_border=true" alt="GitHub contribution streak for Nitesh-Datascience" />
+</p>
+
 <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="assets/neon-terminal/metrics.svg" width="100%" alt="Nitesh-Datascience public GitHub statistics and primary repository language counts." /></a>
 
-Public repository statistics refresh daily. Language bars count repositories by their primary language.
+Live cards are generated from public GitHub activity and may take time to refresh. The local metrics banner shows repository-language counts.
 
 ## More from my GitHub
 
