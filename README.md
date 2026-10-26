@@ -1,4 +1,11 @@
-<!-- NITESH KUMAR | GITHUB PROFILE README | BURGUNDY / ROSE EDITION -->
+<!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-d946ef?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17091f" alt="LinkedIn" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-ff39bd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=17091f" alt="Portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-EXPLORE-d946ef?style=for-the-badge&labelColor=17091f" alt="Tree portfolio" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-ff39bd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17091f" alt="Email" /></a>
+</p>
 
 <p align="center">
   <img src="assets/neon-terminal/profile-showcase.svg" width="100%" alt="Nitesh Kumar neon purple and pink data analytics profile showcase with skills, dashboards, and featured projects" />
