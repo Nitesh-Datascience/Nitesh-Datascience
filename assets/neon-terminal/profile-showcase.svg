@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar — Neon Data Analytics Portfolio</title>
+<desc id="desc">A dark purple and neon magenta portfolio collage featuring analytics, dashboards, Python, SQL, Excel and Power BI.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10091a"/><stop offset=".52" stop-color="#21072c"/><stop offset="1" stop-color="#090b13"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff39bd"/><stop offset="1" stop-color="#a020f0"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#30083c"/><stop offset="1" stop-color="#180d27"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="680" rx="22" fill="#0c0d14"/>
+<rect x="9" y="9" width="1182" height="662" rx="18" fill="url(#bg)" stroke="#38223f" stroke-width="2"/>
+<circle cx="1010" cy="190" r="140" fill="#f018ad" opacity=".12" filter="url(#soft)"/>
+<circle cx="250" cy="510" r="170" fill="#8d20e8" opacity=".12" filter="url(#soft)"/>
+<text x="38" y="38" fill="#b7a8c4" font-family="monospace" font-size="12">NITESH-DATASCIENCE / README.md</text>
+<circle cx="1140" cy="32" r="4" fill="#ff39bd"/><circle cx="1155" cy="32" r="4" fill="#a020f0"/><circle cx="1170" cy="32" r="4" fill="#5ce1e6"/>
+<!-- social navigation -->
+<g font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#ffe5f7" text-anchor="middle">
+  <g filter="url(#glow)"><rect x="38" y="57" width="205" height="57" rx="13" fill="#1a1024" stroke="#e82eae"/><rect x="257" y="57" width="205" height="57" rx="13" fill="#1a1024" stroke="#e82eae"/><rect x="476" y="57" width="205" height="57" rx="13" fill="#1a1024" stroke="#e82eae"/><rect x="695" y="57" width="205" height="57" rx="13" fill="#1a1024" stroke="#e82eae"/><rect x="914" y="57" width="248" height="57" rx="13" fill="#1a1024" stroke="#e82eae"/></g>
+  <text x="140" y="92">⌘  GitHub</text><text x="359" y="92">in  LinkedIn</text><text x="578" y="92">↗  Portfolio</text><text x="797" y="92">▣  Live Projects</text><text x="1038" y="92">✉  Contact</text>
+</g>
+<!-- hero panel -->
+<rect x="38" y="132" width="1124" height="260" rx="14" fill="#100c19" stroke="#38213f"/>
+<rect x="38" y="132" width="1124" height="260" rx="14" fill="url(#card)" opacity=".6"/>
+<path d="M70 166 H570" stroke="#f52ab5" stroke-width="2" opacity=".7"/>
+<text x="72" y="193" fill="#f78bdc" font-family="monospace" font-size="14" letter-spacing="3">DATA ANALYST  /  BUSINESS INTELLIGENCE</text>
+<text x="72" y="243" fill="#fff1fb" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="45">Hi, I'm Nitesh.</text>
+<text x="72" y="279" fill="#e9d7ee" font-family="Arial,Helvetica,sans-serif" font-size="21">I turn raw data into clear insights,</text>
+<text x="72" y="307" fill="#e9d7ee" font-family="Arial,Helvetica,sans-serif" font-size="21">useful dashboards &amp; smarter decisions.</text>
+<g font-family="monospace" font-size="13" fill="#ffc7f0">
+  <rect x="72" y="331" width="105" height="31" rx="7" fill="#35103f" stroke="#e72aaf"/><text x="124" y="351" text-anchor="middle">PYTHON</text>
+  <rect x="187" y="331" width="77" height="31" rx="7" fill="#35103f" stroke="#e72aaf"/><text x="225" y="351" text-anchor="middle">SQL</text>
+  <rect x="274" y="331" width="91" height="31" rx="7" fill="#35103f" stroke="#e72aaf"/><text x="319" y="351" text-anchor="middle">EXCEL</text>
+  <rect x="375" y="331" width="111" height="31" rx="7" fill="#35103f" stroke="#e72aaf"/><text x="430" y="351" text-anchor="middle">POWER BI</text>
+</g>
+<!-- speech bubble -->
+<g filter="url(#glow)">
+  <path d="M600 169 Q600 154 618 154 H813 Q832 154 832 174 V230 Q832 248 813 248 H700 L676 270 L683 248 H618 Q600 248 600 230 Z" fill="#160d22" stroke="#ff32bd" stroke-width="3"/>
+</g>
+<text x="716" y="185" fill="#ffe4f7" font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle">Let's make data</text>
+<text x="716" y="208" fill="#ffe4f7" font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle">tell a story!</text>
+<!-- dashboard illustration -->
+<g transform="translate(865 151)">
+  <rect width="263" height="218" rx="12" fill="#100b18" stroke="#7d276f" stroke-width="1.5"/>
+  <text x="18" y="26" fill="#fca6e6" font-family="monospace" font-size="12">ANALYTICS OVERVIEW</text>
+  <rect x="17" y="41" width="105" height="47" rx="6" fill="#2a1037" stroke="#54205d"/><text x="28" y="59" fill="#c7a9d5" font-size="10" font-family="Arial">TOTAL SALES</text><text x="28" y="78" fill="#fff0fc" font-size="20" font-weight="700" font-family="Arial">$128.4K</text>
+  <rect x="133" y="41" width="112" height="47" rx="6" fill="#2a1037" stroke="#54205d"/><text x="144" y="59" fill="#c7a9d5" font-size="10" font-family="Arial">GROWTH</text><text x="144" y="78" fill="#ff69d0" font-size="20" font-weight="700" font-family="Arial">+24.8%</text>
+  <path d="M20 177 H245 M20 148 H245 M20 119 H245" stroke="#3d2348" stroke-width="1"/>
+  <path d="M23 164 L56 147 L85 155 L115 119 L145 134 L177 100 L207 114 L240 93" fill="none" stroke="#ff3cbe" stroke-width="3" filter="url(#glow)"/>
+  <path d="M23 164 L56 147 L85 155 L115 119 L145 134 L177 100 L207 114 L240 93 L240 188 L23 188 Z" fill="#e92db3" opacity=".13"/>
+  <g fill="#ff6bd0"><circle cx="56" cy="147" r="3"/><circle cx="115" cy="119" r="3"/><circle cx="177" cy="100" r="3"/><circle cx="240" cy="93" r="3"/></g>
+</g>
+<!-- lower panels -->
+<g>
+  <rect x="38" y="410" width="356" height="218" rx="12" fill="url(#card)" stroke="#4b1b53"/>
+  <rect x="406" y="410" width="356" height="218" rx="12" fill="url(#card)" stroke="#4b1b53"/>
+  <rect x="774" y="410" width="388" height="218" rx="12" fill="url(#card)" stroke="#4b1b53"/>
+  <path d="M38 453 H394 M406 453 H762 M774 453 H1162" stroke="#ed2ab1" stroke-width="2" opacity=".7"/>
+  <text x="59" y="441" fill="#ffb4e9" font-family="Arial" font-size="23" font-weight="700">MY TOOLKIT</text>
+  <text x="428" y="441" fill="#ffb4e9" font-family="Arial" font-size="23" font-weight="700">FEATURED PROJECTS</text>
+  <text x="796" y="441" fill="#ffb4e9" font-family="Arial" font-size="23" font-weight="700">BUILDING IN PUBLIC</text>
+  <!-- toolkit chips -->
+  <g font-family="monospace" font-size="13" fill="#fce6fa" text-anchor="middle">
+    <rect x="59" y="475" width="142" height="36" rx="7" fill="#45114a" stroke="#ed2ab1"/><text x="130" y="498">Python + Pandas</text>
+    <rect x="211" y="475" width="153" height="36" rx="7" fill="#45114a" stroke="#ed2ab1"/><text x="287" y="498">SQL Analytics</text>
+    <rect x="59" y="522" width="142" height="36" rx="7" fill="#45114a" stroke="#ed2ab1"/><text x="130" y="545">Power BI</text>
+    <rect x="211" y="522" width="153" height="36" rx="7" fill="#45114a" stroke="#ed2ab1"/><text x="287" y="545">Excel Dashboards</text>
+  </g>
+  <text x="59" y="590" fill="#cbb5d4" font-family="Arial" font-size="14">Clean data. Find patterns.</text><text x="59" y="610" fill="#cbb5d4" font-family="Arial" font-size="14">Communicate the outcome.</text>
+  <!-- project bars -->
+  <g font-family="Arial" fill="#f8e7f6">
+    <rect x="428" y="474" width="312" height="37" rx="7" fill="#291134" stroke="#6f286e"/><circle cx="447" cy="492" r="5" fill="#ff3cbe"/><text x="462" y="497" font-size="14">Customer Churn Prediction</text>
+    <rect x="428" y="520" width="312" height="37" rx="7" fill="#291134" stroke="#6f286e"/><circle cx="447" cy="538" r="5" fill="#ff3cbe"/><text x="462" y="543" font-size="14">Financial Fraud Detection</text>
+    <rect x="428" y="566" width="312" height="37" rx="7" fill="#291134" stroke="#6f286e"/><circle cx="447" cy="584" r="5" fill="#ff3cbe"/><text x="462" y="589" font-size="14">Sales &amp; Profit Dashboards</text>
+  </g>
+  <!-- orbit + data nodes -->
+  <circle cx="968" cy="529" r="62" fill="none" stroke="#ec2ab2" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="968" cy="529" r="48" fill="#290e36" stroke="#85318a"/>
+  <path d="M935 548 L951 528 L965 538 L988 501 L1005 513" fill="none" stroke="#ff7ad5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#fff0fb"><circle cx="935" cy="548" r="4"/><circle cx="951" cy="528" r="4"/><circle cx="965" cy="538" r="4"/><circle cx="988" cy="501" r="4"/><circle cx="1005" cy="513" r="4"/></g>
+  <text x="1040" y="501" fill="#f8d4f0" font-family="Arial" font-size="14">Learn</text><text x="1040" y="523" fill="#f8d4f0" font-family="Arial" font-size="14">Analyze</text><text x="1040" y="545" fill="#f8d4f0" font-family="Arial" font-size="14">Build</text><text x="1040" y="567" fill="#f8d4f0" font-family="Arial" font-size="14">Improve</text>
+  <text x="796" y="605" fill="#f78bdc" font-family="monospace" font-size="12">CURIOUS BY DESIGN / DATA WITH PURPOSE</text>
+</g>
+<text x="600" y="653" text-anchor="middle" fill="#b99bbd" font-family="monospace" font-size="11">PYTHON  •  SQL  •  EXCEL  •  POWER BI  •  AI / ML</text>
+</svg>
