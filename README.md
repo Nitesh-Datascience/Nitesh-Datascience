@@ -1,7 +1,7 @@
 <!-- NITESH KUMAR | GITHUB PROFILE README | BURGUNDY / ROSE EDITION -->
 
 <p align="center">
-  <img src="assets/neon-terminal/hero-burgundy.svg" width="100%" alt="Nitesh Kumar — Data Analyst, Python, SQL, Excel and Power BI" />
+  <img src="assets/neon-terminal/profile-showcase.svg" width="100%" alt="Nitesh Kumar neon purple and pink data analytics profile showcase with skills, dashboards, and featured projects" />
 </p>
 
 <p align="center">
