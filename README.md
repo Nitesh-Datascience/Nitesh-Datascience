@@ -41,7 +41,15 @@
   </tr>
 </table>
 
-## 02 / TOOLKIT
+## 02 / NEON ANALYTICS DASHBOARD
+
+<p align="center">
+  <img src="assets/neon-terminal/analytics-dashboard.svg" width="100%" alt="Neon dashboard with area charts, KPI donut, bar charts, and trend lines" />
+</p>
+
+<p align="center"><em>Data storytelling through trends, KPIs, comparisons, and predictive signals.</em></p>
+
+## 03 / TOOLKIT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
@@ -58,7 +66,7 @@
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 03 / FEATURED PROJECTS
+## 04 / FEATURED PROJECTS
 
 <table>
   <tr>
@@ -91,14 +99,14 @@
   </tr>
 </table>
 
-## 04 / MY PORTFOLIOS
+## 05 / MY PORTFOLIOS
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 05 / GITHUB ACTIVITY
+## 06 / GITHUB ACTIVITY
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=10051b&color=f9a8d4&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="100%" alt="GitHub activity graph" /></p>
 <p align="center">
@@ -106,7 +114,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&hide_border=true&bg_color=10051b&title_color=f9a8d4&text_color=f8dce9" alt="Top languages" />
 </p>
 
-## 06 / LET'S CONNECT
+## 07 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
