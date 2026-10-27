@@ -34,8 +34,9 @@
       <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> · <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar GitHub profile photo" />
-      <p><strong>NITESH KUMAR</strong><br/>Data Analyst<br/>India</p>
+      <a href="https://github.com/Nitesh-Datascience"><img src="https://github.com/Nitesh-Datascience.png" width="220" alt="Nitesh Kumar profile photo" /></a>
+      <p><strong>NITESH KUMAR</strong><br/>Data Analyst · India</p>
+      <p><a href="https://github.com/Nitesh-Datascience">GitHub profile ↗</a></p>
     </td>
   </tr>
 </table>
