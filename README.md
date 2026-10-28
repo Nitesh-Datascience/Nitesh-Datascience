@@ -25,31 +25,24 @@
 ## 01 / ABOUT ME — DATA WITH PURPOSE
 
 <table>
-  <tr>
-    <td width="67%" valign="middle">
-      <h2>👋 Hi, I'm Nitesh Kumar</h2>
-      <p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</strong></p>
-      <p>✨ I transform raw data into dashboards, predictive models, and actionable business insights.</p>
-      <p>🔎 I enjoy exploring data, uncovering patterns, building useful visualizations, and turning analysis into clear recommendations.</p>
-      <p>🧰 My workflow includes data cleaning, exploratory data analysis, SQL querying, KPI reporting, dashboard design, and machine-learning model evaluation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/INSIGHT-DRIVEN-ec4899?style=for-the-badge&labelColor=17091f" alt="Insight driven" />
-        <img src="https://img.shields.io/badge/ALWAYS-LEARNING-a855f7?style=for-the-badge&labelColor=17091f" alt="Always learning" />
-        <img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-06b6d4?style=for-the-badge&labelColor=17091f" alt="Building in public" />
-      </p>
-      <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ EXPLORE MY MAIN PORTFOLIO</strong></a><br/>
-      <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ OPEN MY INTERACTIVE TREE PORTFOLIO</strong></a></p>
-    </td>
-    <td width="33%" align="center" valign="middle">
-      <img src="https://github.com/Nitesh-Datascience.png" width="200" alt="Nitesh Kumar GitHub avatar" />
-      <h3>NITESH KUMAR</h3>
-      <p>Data Analyst | India</p>
-      <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17091f" alt="Connect on LinkedIn" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="70%" valign="middle">
+<h2>✦ Hello, I'm Nitesh Kumar</h2>
+<p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</strong></p>
+<p>I turn raw data into clear stories, useful dashboards, predictive models, and actionable business insights. I enjoy exploring patterns, answering practical questions, and communicating findings in a way that supports better decisions.</p>
+<p><strong>MY WORKFLOW</strong><br/>01 · Clean and prepare data<br/>02 · Explore patterns and trends<br/>03 · Build dashboards and predictive models<br/>04 · Communicate insights and recommendations</p>
+<p><img src="https://img.shields.io/badge/DRIVEN_BY-CURIOSITY-f472b6?style=for-the-badge&labelColor=180b24" alt="Curiosity"/> <img src="https://img.shields.io/badge/FOCUS-REAL--WORLD_IMPACT-a855f7?style=for-the-badge&labelColor=180b24" alt="Real world impact"/></p>
+<p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ EXPLORE MAIN PORTFOLIO</strong></a><br/><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ TRY INTERACTIVE TREE PORTFOLIO</strong></a></p>
+</td>
+<td width="30%" align="center" valign="middle">
+<img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar GitHub profile photo"/>
+<h3>NITESH KUMAR</h3><p><sub>DATA ANALYST · INDIA</sub></p>
+<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=180b24" alt="Connect on LinkedIn"/></a>
+</td>
+</tr>
 </table>
+<p align="center"><strong>「 Turn data into clarity. Turn clarity into action. 」</strong></p>
 
-<p align="center"><em>“Turn data into clarity. Turn clarity into action.”</em></p>
 
 ## 02 / NEON ANALYTICS DASHBOARD
 
@@ -76,53 +69,51 @@
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 04 / FEATURED PROJECTS
+## 04 / FEATURED PROJECTS — BUILT TO SOLVE PROBLEMS
 
+<p align="center"><em>Selected analytics and machine-learning projects. Explore the source code or launch a live demo.</em></p>
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Nassau Candy Sales &amp; Profitability</h3>
-      <p>Analyze sales, margins, and business performance through a dashboard-driven workflow.</p>
-      <code>Python</code> <code>Pandas</code> <code>Streamlit</code><br/><br/>
-      <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>SOURCE ↗</strong></a> · <a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><strong>LIVE DEMO ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Customer Churn Prediction</h3>
-      <p>Explore churn patterns and customer-risk predictions with classification models.</p>
-      <code>Python</code> <code>ML</code> <code>Streamlit</code><br/><br/>
-      <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>SOURCE ↗</strong></a> · <a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><strong>LIVE DEMO ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Financial Fraud Detection</h3>
-      <p>Explore transaction-risk classification and anomaly detection.</p>
-      <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code><br/><br/>
-      <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>SOURCE ↗</strong></a> · <a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><strong>LIVE DEMO ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 EduPro Learner Intelligence</h3>
-      <p>Student segmentation and personalized course recommendation.</p>
-      <code>Python</code> <code>Clustering</code> <code>Streamlit</code><br/><br/>
-      <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>SOURCE ↗</strong></a> · <a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><strong>LIVE DEMO ↗</strong></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Nassau Candy Sales Analysis</h3>
+<img src="https://img.shields.io/badge/ANALYTICS-BUSINESS_INSIGHTS-ec4899?style=flat-square" alt="Analytics"/>
+<p>Explore sales performance, profitability patterns, and business KPIs with a data-first approach.</p>
+<a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 Customer Churn Prediction</h3>
+<img src="https://img.shields.io/badge/PYTHON-MACHINE_LEARNING-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<p>Explore churn patterns and customer-risk predictions with a classification workflow.</p>
+<a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Financial Fraud Detection</h3>
+<img src="https://img.shields.io/badge/ML-RISK_CLASSIFICATION-a855f7?style=flat-square" alt="Machine learning"/>
+<p>Analyze transactions and surface suspicious patterns with machine-learning techniques.</p>
+<a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 EduPro Learner Intelligence</h3>
+<img src="https://img.shields.io/badge/LEARNER_INSIGHTS-PERSONALIZATION-ec4899?style=flat-square" alt="Learner insights"/>
+<p>Segment learners and recommend personalized courses based on learning goals.</p>
+<a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
+</td>
+</tr>
 </table>
+<p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_GITHUB_PROJECTS-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=180b24" alt="All projects"/></a></p>
 
-## 05 / GITHUB STATS & CONTRIBUTIONS
 
-<p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=github&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&icon_color=ec4899&border_radius=12" alt="Nitesh's GitHub statistics" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&border_radius=12" alt="Most used programming languages" />
-</p>
+## 05 / GITHUB STATS — OPEN SOURCE ACTIVITY
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=dark&hide_border=true&background=160817&ring=ec4899&fire=ff9bd7&currStreakLabel=ff9bd7&sideLabels=f7e8f5&currStreakNum=ffffff&sideNums=ffffff&dates=c9a8d8" alt="GitHub contribution streak" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=github&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&icon_color=ec4899&border_radius=12" alt="GitHub stars, commits and activity statistics"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&border_radius=12" alt="Most used programming languages"/>
 </p>
+<p align="center"><img width="88%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=dark&hide_border=true&background=160817&ring=ec4899&fire=ff9bd7&currStreakLabel=ff9bd7&sideLabels=f7e8f5&currStreakNum=ffffff&sideNums=ffffff&dates=c9a8d8" alt="GitHub contribution streak"/></p>
+<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=160817&color=ff9bd7&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/></p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=160817&color=ff9bd7&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
-</p>
 
 ## 06 / MY PORTFOLIOS
 
@@ -131,13 +122,6 @@
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 07 / GITHUB ACTIVITY
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=10051b&color=f9a8d4&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="100%" alt="GitHub activity graph" /></p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&hide_border=true&bg_color=10051b&title_color=f9a8d4&text_color=f8dce9&icon_color=ec4899" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&hide_border=true&bg_color=10051b&title_color=f9a8d4&text_color=f8dce9" alt="Top languages" />
-</p>
 
 ## 08 / LET'S CONNECT
 
