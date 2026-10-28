@@ -22,24 +22,34 @@
 
 ---
 
-## 01 / ABOUT ME
+## 01 / ABOUT ME — DATA WITH PURPOSE
 
 <table>
   <tr>
-    <td width="68%" valign="middle">
-      <h2>Turning data into decisions.</h2>
-      <p><strong>Nitesh Kumar — Data Analyst | Python | SQL | Excel | Power BI | AI &amp; ML</strong></p>
-      <p>I transform raw data into dashboards, predictive models, and actionable business insights. My work combines analytics, machine learning, data visualization, and practical problem-solving.</p>
-      <p>I enjoy the end-to-end workflow: data cleaning, exploratory analysis, SQL queries, KPI dashboards, model evaluation, and communicating results clearly.</p>
-      <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> · <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
+    <td width="67%" valign="middle">
+      <h2>👋 Hi, I'm Nitesh Kumar</h2>
+      <p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</strong></p>
+      <p>✨ I transform raw data into dashboards, predictive models, and actionable business insights.</p>
+      <p>🔎 I enjoy exploring data, uncovering patterns, building useful visualizations, and turning analysis into clear recommendations.</p>
+      <p>🧰 My workflow includes data cleaning, exploratory data analysis, SQL querying, KPI reporting, dashboard design, and machine-learning model evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/INSIGHT-DRIVEN-ec4899?style=for-the-badge&labelColor=17091f" alt="Insight driven" />
+        <img src="https://img.shields.io/badge/ALWAYS-LEARNING-a855f7?style=for-the-badge&labelColor=17091f" alt="Always learning" />
+        <img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-06b6d4?style=for-the-badge&labelColor=17091f" alt="Building in public" />
+      </p>
+      <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ EXPLORE MY MAIN PORTFOLIO</strong></a><br/>
+      <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ OPEN MY INTERACTIVE TREE PORTFOLIO</strong></a></p>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <a href="https://github.com/Nitesh-Datascience"><img src="https://github.com/Nitesh-Datascience.png" width="220" alt="Nitesh Kumar profile photo" /></a>
-      <p><strong>NITESH KUMAR</strong><br/>Data Analyst · India</p>
-      <p><a href="https://github.com/Nitesh-Datascience">GitHub profile ↗</a></p>
+    <td width="33%" align="center" valign="middle">
+      <img src="https://github.com/Nitesh-Datascience.png" width="200" alt="Nitesh Kumar GitHub avatar" />
+      <h3>NITESH KUMAR</h3>
+      <p>Data Analyst | India</p>
+      <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17091f" alt="Connect on LinkedIn" /></a>
     </td>
   </tr>
 </table>
+
+<p align="center"><em>“Turn data into clarity. Turn clarity into action.”</em></p>
 
 ## 02 / NEON ANALYTICS DASHBOARD
 
@@ -99,14 +109,29 @@
   </tr>
 </table>
 
-## 05 / MY PORTFOLIOS
+## 05 / GITHUB STATS & CONTRIBUTIONS
+
+<p align="center">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=github&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&icon_color=ec4899&border_radius=12" alt="Nitesh's GitHub statistics" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&hide_border=true&bg_color=160817&title_color=ff9bd7&text_color=f7e8f5&border_radius=12" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=dark&hide_border=true&background=160817&ring=ec4899&fire=ff9bd7&currStreakLabel=ff9bd7&sideLabels=f7e8f5&currStreakNum=ffffff&sideNums=ffffff&dates=c9a8d8" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=160817&color=ff9bd7&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
+</p>
+
+## 06 / MY PORTFOLIOS
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 06 / GITHUB ACTIVITY
+## 07 / GITHUB ACTIVITY
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=10051b&color=f9a8d4&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="100%" alt="GitHub activity graph" /></p>
 <p align="center">
@@ -114,7 +139,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&hide_border=true&bg_color=10051b&title_color=f9a8d4&text_color=f8dce9" alt="Top languages" />
 </p>
 
-## 07 / LET'S CONNECT
+## 08 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
