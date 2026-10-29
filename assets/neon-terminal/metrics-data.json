@@ -1,7 +1,7 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-29",
   "repos": [
     {
       "name": "3D-Sketch-Portfolio",
@@ -136,6 +136,12 @@
       "forks": 0
     },
     {
+      "name": "gpt",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
       "name": "hbirthsdays",
       "language": "HTML",
       "stars": 1,
@@ -163,6 +169,12 @@
       "name": "https---github.com-Nitesh-Datascience-VisionGuard-AI-2.0",
       "language": "Python",
       "stars": 2,
+      "forks": 0
+    },
+    {
+      "name": "I-create-codespace",
+      "language": "Python",
+      "stars": 0,
       "forks": 0
     },
     {

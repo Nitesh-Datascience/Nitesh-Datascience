@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="316" viewBox="0 0 1000 316" role="img" aria-labelledby="title desc">
 <title id="title">Nitesh-Datascience — public GitHub statistics</title>
-<desc id="desc">44 public repositories, 66 received stars, 11 featured projects and 3 followers. Primary languages are counts of public repositories, not skill ratings. Updated 25 Oct 2026.</desc><defs><linearGradient id="edge"><stop stop-color="#885dff"/><stop offset=".5" stop-color="#35deff"/><stop offset="1" stop-color="#65efbc"/></linearGradient></defs>
+<desc id="desc">46 public repositories, 66 received stars, 5 featured projects and 3 followers. Primary languages are counts of public repositories, not skill ratings. Updated 29 Oct 2026.</desc><defs><linearGradient id="edge"><stop stop-color="#885dff"/><stop offset=".5" stop-color="#35deff"/><stop offset="1" stop-color="#65efbc"/></linearGradient></defs>
 <rect width="1000" height="316" rx="16" fill="#071024"/>
 <rect x="1" y="1" width="998" height="314" rx="15" fill="none" stroke="#345185"/>
 <path d="M18 2H982" stroke="url(#edge)" stroke-width="3"/>
@@ -8,27 +8,30 @@
 <text x="26" y="38" fill="#78e7ff" font-size="17" font-weight="700">GITHUB / PUBLIC PROFILE</text>
 <path d="M490 22V286" stroke="#283960"/>
 <text x="517" y="38" fill="#78e7ff" font-size="17" font-weight="700">PRIMARY REPOSITORY LANGUAGES</text><rect x="27" y="61" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
-<text x="45" y="108" fill="#f0f5ff" font-size="34" font-weight="700">44</text>
+<text x="45" y="108" fill="#f0f5ff" font-size="34" font-weight="700">46</text>
 <text x="45" y="134" fill="#a9b8d9" font-size="11">PUBLIC REPOSITORIES</text><rect x="257" y="61" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
 <text x="275" y="108" fill="#f0f5ff" font-size="34" font-weight="700">66</text>
 <text x="275" y="134" fill="#a9b8d9" font-size="11">STARS RECEIVED</text><rect x="27" y="169" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
-<text x="45" y="216" fill="#f0f5ff" font-size="34" font-weight="700">11</text>
+<text x="45" y="216" fill="#f0f5ff" font-size="34" font-weight="700">5</text>
 <text x="45" y="242" fill="#a9b8d9" font-size="11">FEATURED PROJECTS</text><rect x="257" y="169" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
 <text x="275" y="216" fill="#f0f5ff" font-size="34" font-weight="700">3</text>
 <text x="275" y="242" fill="#a9b8d9" font-size="11">FOLLOWERS</text><text x="517" y="77" fill="#cfdbf4" font-size="13">Python</text>
 <rect x="695" y="67" width="220" height="10" rx="5" fill="#1a2847"/>
 <rect x="695" y="67" width="220.0" height="10" rx="5" fill="#41d7ff"/>
-<text x="961" y="77" text-anchor="end" fill="#edf3ff" font-size="14">16</text><text x="517" y="112" fill="#cfdbf4" font-size="13">Jupyter Notebook</text>
+<text x="961" y="77" text-anchor="end" fill="#edf3ff" font-size="14">17</text><text x="517" y="112" fill="#cfdbf4" font-size="13">Jupyter Notebook</text>
 <rect x="695" y="102" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="102" width="165.0" height="10" rx="5" fill="#a483ff"/>
+<rect x="695" y="102" width="155.29" height="10" rx="5" fill="#a483ff"/>
 <text x="961" y="112" text-anchor="end" fill="#edf3ff" font-size="14">12</text><text x="517" y="147" fill="#cfdbf4" font-size="13">HTML</text>
 <rect x="695" y="137" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="137" width="96.25" height="10" rx="5" fill="#66e9bd"/>
+<rect x="695" y="137" width="90.59" height="10" rx="5" fill="#66e9bd"/>
 <text x="961" y="147" text-anchor="end" fill="#edf3ff" font-size="14">7</text><text x="517" y="182" fill="#cfdbf4" font-size="13">JavaScript</text>
 <rect x="695" y="172" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="172" width="41.25" height="10" rx="5" fill="#ffcf68"/>
+<rect x="695" y="172" width="38.82" height="10" rx="5" fill="#ffcf68"/>
 <text x="961" y="182" text-anchor="end" fill="#edf3ff" font-size="14">3</text><text x="517" y="217" fill="#cfdbf4" font-size="13">PLpgSQL</text>
 <rect x="695" y="207" width="220" height="10" rx="5" fill="#1a2847"/>
-<rect x="695" y="207" width="13.75" height="10" rx="5" fill="#e982cf"/>
-<text x="961" y="217" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="251" fill="#899abf" font-size="11">Repository counts · Unspecified: 5</text>
-<text x="27" y="295" fill="#8fa4c9" font-size="11">Public data · Updated 25 Oct 2026</text></g></svg>
+<rect x="695" y="207" width="12.94" height="10" rx="5" fill="#e982cf"/>
+<text x="961" y="217" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="252" fill="#cfdbf4" font-size="13">TypeScript</text>
+<rect x="695" y="242" width="220" height="10" rx="5" fill="#1a2847"/>
+<rect x="695" y="242" width="12.94" height="10" rx="5" fill="#96acff"/>
+<text x="961" y="252" text-anchor="end" fill="#edf3ff" font-size="14">1</text><text x="517" y="278" fill="#899abf" font-size="11">Repository counts · Unspecified: 5</text>
+<text x="27" y="295" fill="#8fa4c9" font-size="11">Public data · Updated 29 Oct 2026</text></g></svg>
