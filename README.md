@@ -147,17 +147,19 @@
 
 ## 05 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><img src="assets/neon-terminal/github-metrics-dashboard.svg" width="100%" alt="Neon GitHub analytics dashboard illustration"/></p>
+<p align="center">
+  <img src="assets/neon-terminal/metrics.svg" width="100%" alt="Live public GitHub metrics: repository count, stars, featured projects, followers, and primary repository languages"/>
+</p>
 
-<p align="center"><em>Live cards below show your public repository stats, language mix, and contribution streak. Counts can change as GitHub updates.</em></p>
+<p align="center"><em>Neon analytics panel refreshed by the repository's GitHub Actions workflow. Language bars show repository counts, not skill ratings.</em></p>
 
 <p align="center">
-  <a href="https://ghstats.dev/"><img width="49%" src="https://ghstats.dev/api/card?username=Nitesh-Datascience&theme=midnight_sakura" alt="GitHub statistics card"/></a>
-  <a href="https://ghstats.dev/"><img width="49%" src="https://ghstats.dev/api/languages?username=Nitesh-Datascience&theme=midnight_sakura&layout=bar&max_langs=8" alt="Most used programming languages"/></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-EXPLORE-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="Explore public repositories"/></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=stars"><img src="https://img.shields.io/badge/STARS-ON%20GITHUB-bb63f5?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="Explore starred repositories"/></a>
 </p>
 
 <p align="center">
-  <img width="88%" src="https://streak-stats.demolab.com/?user=Nitesh-Datascience&theme=dark&hide_border=true&background=160817&ring=ec4899&fire=ff9bd7&currStreakLabel=ff9bd7&sideLabels=f7e8f5&currStreakNum=ffffff&sideNums=ffffff&dates=c9a8d8" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Nitesh-Datascience&theme=dark&hide_border=true&background=071024&ring=885dff&fire=35deff&currStreakLabel=78e7ff&sideLabels=a9b8d9&currStreakNum=f0f5ff&sideNums=f0f5ff&dates=8fa4c9" width="88%" alt="GitHub contribution streak"/>
 </p>
 
 ## 06 / MY PORTFOLIOS
