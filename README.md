@@ -122,7 +122,7 @@
 <p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_GITHUB_PROJECTS-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=180b24" alt="All projects"/></a></p>
 
 
-## 05 / LIVE PROJECT DIRECTORY
+## 04 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
 
 <p align="center"><em>Verified deployment links discovered from public repositories and curated project records.</em></p>
 
@@ -145,7 +145,7 @@
 <!-- LIVE-PROJECTS:END -->
 
 
-## 06 / GITHUB STATS — LIVE ACTIVITY
+## 05 / GITHUB STATS — LIVE ACTIVITY
 
 <p align="center"><img src="assets/neon-terminal/github-metrics-dashboard.svg" width="100%" alt="Neon GitHub analytics dashboard illustration"/></p>
 
