@@ -116,18 +116,41 @@ def cell(text):
 
 
 def render_catalog(projects, owner):
-    lines = ['| Project | Explore | Demo | Source |', '| --- | --- | --- | --- |']
-    for p in projects:
+    # GitHub-flavored HTML table creates compact, responsive-looking project cards.
+    cards = []
+    for index, p in enumerate(projects):
         url = safe_demo_url(p['demo'], owner)
         if not url:
             raise ValueError('Invalid deployment URL in catalog: ' + p['title'])
-        label = 'Access required ↗' if p.get('access') == 'restricted' else 'Open app ↗'
         source = p.get('repository', '')
         if source and not re.fullmatch(re.escape(owner) + r'/[A-Za-z0-9_.-]+', source, re.I):
             raise ValueError('Catalog source must belong to the profile owner.')
-        code = f'[Code ↗](https://github.com/{quote(source, safe="/")})' if source else '—'
-        lines.append(f"| **{cell(p['title'])}** | {cell(p['summary'])} | [{label}]({url}) | {code} |")
-    return '\n'.join(lines)
+        title = escape(str(p['title']))
+        summary = escape(str(p['summary']))
+        label = 'ACCESS REQUIRED ↗' if p.get('access') == 'restricted' else 'LAUNCH LIVE DEMO ↗'
+        demo_badge = 'https://img.shields.io/badge/' + quote(label.replace(' ', '_'), safe='') + '-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817'
+        actions = f'<a href="{url}"><img src="{demo_badge}" alt="{escape(label)}"/></a>'
+        if source:
+            source_url = 'https://github.com/' + quote(source, safe='/')
+            actions += f'&nbsp; <a href="{source_url}"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a>'
+        else:
+            actions += '<br/><sub>Source repository not listed</sub>'
+        accent = '#EC4899' if index % 2 == 0 else '#8B5CF6'
+        card = (f'<td width="50%" valign="top"><div align="left">\n'
+                f'<sub>✦ PROJECT {index + 1:02d} · DATA / AI</sub>\n'
+                f'<h3>{title}</h3>\n'
+                f'<p>{summary}</p>\n'
+                f'<p>{actions}</p>\n'
+                f'<hr/><sub><span style="color:{accent}">●</span> LIVE PROJECT DIRECTORY</sub>\n'
+                f'</div></td>')
+        cards.append(card)
+    rows = []
+    for i in range(0, len(cards), 2):
+        row = cards[i:i + 2]
+        if len(row) == 1:
+            row.append('<td width="50%"></td>')
+        rows.append('<tr>\n' + '\n'.join(row) + '\n</tr>')
+    return '<table>\n' + '\n'.join(rows) + '\n</table>'
 
 
 def update_readme(text, projects, owner):
