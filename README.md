@@ -128,11 +128,15 @@
   <img src="assets/neon-terminal/profile-showcase.svg" width="100%" alt="Neon analytics portfolio banner"/>
 </p>
 
-<p align="center"><strong>✦ REAL PROJECTS · LIVE DEMOS · OPEN SOURCE ✦</strong></p>
+<p align="center">
+  <img src="assets/neon-terminal/analytics-dashboard.svg" width="100%" alt="Neon data analytics dashboard with charts and visualizations"/>
+</p>
+
+<p align="center"><strong>✦ 11 FEATURED PROJECTS · NEON ANALYTICS · LIVE DEMOS · OPEN SOURCE ✦</strong></p>
 <p align="center"><em>Explore analytics dashboards, predictive models, learner intelligence and interactive portfolio builds. Launch a demo or inspect the source code.</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-11%2B-EC4899?style=for-the-badge&labelColor=160817" alt="Project count"/>
+  <img src="https://img.shields.io/badge/11-FEATURED%20PROJECTS-EC4899?style=for-the-badge&labelColor=160817" alt="11 featured projects"/>
   <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20AI-8B5CF6?style=for-the-badge&labelColor=160817" alt="Data and AI"/>
   <img src="https://img.shields.io/badge/ACCESS-LIVE%20DEMOS-06B6D4?style=for-the-badge&labelColor=160817" alt="Live demos"/>
 </p>
