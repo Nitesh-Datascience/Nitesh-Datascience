@@ -122,7 +122,29 @@
 <p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_GITHUB_PROJECTS-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=180b24" alt="All projects"/></a></p>
 
 
-## 05 / GITHUB STATS — LIVE ACTIVITY
+## 05 / LIVE PROJECT DIRECTORY
+
+<p align="center"><em>Verified deployment links discovered from public repositories and curated project records.</em></p>
+
+<!-- LIVE-PROJECTS:START -->
+
+| Project | Explore | Demo | Source |
+| --- | --- | --- | --- |
+| **Care Transition Analytics** | Care pipeline, transfer efficiency and placement outcomes. | [Open app ↗](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) |
+| **Customer Churn Prediction** | Customer segments, churn risk and model performance. | [Open app ↗](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) |
+| **EduPro Learner Intelligence** | Learner clusters, course recommendations and model comparisons. | [Open app ↗](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/EduPro_Project) |
+| **Financial Fraud Detection** | Transaction risk, anomaly patterns and classifier comparisons. | [Open app ↗](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) |
+| **FORESIGHT · NorthBay Living** | Demand forecasts, inventory risks and replenishment planning. | [Open app ↗](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/foresight_northbay) |
+| **Nassau Candy Profitability** | Product economics, margin risk and division performance. | [Open app ↗](https://87v6ndywgm2xvutswekgjm.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
+| **Restaurant Growth Analytics** | Explore the restaurant growth analysis dashboard. | [Open app ↗](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) | [Code ↗](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
+| **PrivyScan AI** | Document-image sensitive text detection and redaction prototype. | [Open app ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) | — |
+| **CodeVenjar** | Career planning web prototype; choose “Use local demo” to begin. | [Open app ↗](https://nitesh-datascience.github.io/CodeVenjar/) | [Code ↗](https://github.com/Nitesh-Datascience/CodeVenjar) |
+| **Nitesh Tree Portfolio** | Interactive tree portfolio with project details, filters and animated letters. | [Open app ↗](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) | [Code ↗](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) |
+
+<!-- LIVE-PROJECTS:END -->
+
+
+## 06 / GITHUB STATS — LIVE ACTIVITY
 
 <p align="center"><img src="assets/neon-terminal/github-metrics-dashboard.svg" width="100%" alt="Neon GitHub analytics dashboard illustration"/></p>
 
