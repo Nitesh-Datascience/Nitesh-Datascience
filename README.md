@@ -1,8 +1,10 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://github.com/Nitesh-Datascience.png" width="285" alt="Nitesh Kumar profile portrait"/>
+  <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar profile portrait"/>
 </p>
+
+<p align="center"><strong><samp>NITESH KUMAR</samp></strong><br/><sub>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-d946ef?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
@@ -61,7 +63,7 @@
 
 <p align="center"><strong>✦ TURN DATA INTO CLARITY · TURN CLARITY INTO ACTION ✦</strong></p>
 
-## 03 / TOOLKIT
+## 02 / TOOLKIT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
@@ -78,7 +80,7 @@
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 04 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
+## 03 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
 
 <p align="center">
   <img src="assets/neon-terminal/featured-projects-directory.svg" width="100%" alt="Unified neon featured projects directory with analytics visual, 11-project collection, and live demo and source-code links"/>
@@ -184,7 +186,7 @@
 
 <!-- LIVE-PROJECTS:END -->
 
-## 05 / GITHUB STATS — LIVE ACTIVITY
+## 04 / GITHUB STATS — LIVE ACTIVITY
 
 <p align="center">
   <img src="assets/neon-terminal/metrics.svg" width="100%" alt="Live public GitHub metrics: repository count, stars, featured projects, followers, and primary repository languages"/>
@@ -201,14 +203,14 @@
   <img src="https://streak-stats.demolab.com/?user=Nitesh-Datascience&theme=dark&hide_border=true&background=071024&ring=885dff&fire=35deff&currStreakLabel=78e7ff&sideLabels=a9b8d9&currStreakNum=f0f5ff&sideNums=f0f5ff&dates=8fa4c9" width="88%" alt="GitHub contribution streak"/>
 </p>
 
-## 06 / MY PORTFOLIOS
+## 05 / MY PORTFOLIOS
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 08 / LET'S CONNECT
+## 06 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
