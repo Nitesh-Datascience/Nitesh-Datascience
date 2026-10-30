@@ -1,11 +1,5 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
-<p align="center">
-  <img src="https://github.com/Nitesh-Datascience.png" width="150" alt="Nitesh Kumar profile picture"/>
-</p>
-<h2 align="center">NITESH KUMAR</h2>
-<p align="center"><strong>DATA ANALYST · PYTHON · SQL · BI</strong></p>
-<p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
 </p>
@@ -46,7 +40,10 @@
 </p>
 
 <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> &nbsp; · &nbsp; <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
-</td>
+</td> 
+<p align="right-side ">
+  <img src="https://github.com/Nitesh-Datascience.png" width="150" alt="Nitesh Kumar profile picture"/>
+</p>
 <td width="32%" align="center" valign="middle">
 <h3>DATA &amp; BUSINESS INTELLIGENCE</h3>
 <p><sub>Turning raw data into clear insights and practical decisions.</sub></p>
