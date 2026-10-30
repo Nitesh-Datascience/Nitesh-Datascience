@@ -86,42 +86,6 @@
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 04 / FEATURED PROJECTS — BUILT TO SOLVE PROBLEMS
-
-<p align="center"><em>Selected analytics and machine-learning projects. Explore the source code or launch a live demo.</em></p>
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>📊 Nassau Candy Sales Analysis</h3>
-<img src="https://img.shields.io/badge/ANALYTICS-BUSINESS_INSIGHTS-ec4899?style=flat-square" alt="Analytics"/>
-<p>Explore sales performance, profitability patterns, and business KPIs with a data-first approach.</p>
-<a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🧠 Customer Churn Prediction</h3>
-<img src="https://img.shields.io/badge/PYTHON-MACHINE_LEARNING-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<p>Explore churn patterns and customer-risk predictions with a classification workflow.</p>
-<a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🛡️ Financial Fraud Detection</h3>
-<img src="https://img.shields.io/badge/ML-RISK_CLASSIFICATION-a855f7?style=flat-square" alt="Machine learning"/>
-<p>Analyze transactions and surface suspicious patterns with machine-learning techniques.</p>
-<a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🎓 EduPro Learner Intelligence</h3>
-<img src="https://img.shields.io/badge/LEARNER_INSIGHTS-PERSONALIZATION-ec4899?style=flat-square" alt="Learner insights"/>
-<p>Segment learners and recommend personalized courses based on learning goals.</p>
-<a href="https://github.com/Nitesh-Datascience/EduPro_Project"><strong>⌘ SOURCE CODE ↗</strong></a> · <a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><strong>▶ LIVE DEMO ↗</strong></a>
-</td>
-</tr>
-</table>
-<p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_GITHUB_PROJECTS-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=180b24" alt="All projects"/></a></p>
-
-
 ## 04 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
 
 <p align="center">
