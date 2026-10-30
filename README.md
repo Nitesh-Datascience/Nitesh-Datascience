@@ -1,16 +1,17 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar profile portrait"/>
+  <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar profile picture"/>
 </p>
 
-<p align="center"><strong><samp>NITESH KUMAR</samp></strong><br/><sub>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</sub></p>
+<p align="center">
+  <strong><samp>NITESH KUMAR</samp></strong><br/>
+  <sub>DATA ANALYST · PYTHON · SQL · BI</sub>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-d946ef?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-ff39bd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=10051b" alt="Portfolio" /></a>
-  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-EXPLORE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-ff39bd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10051b" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
 </p>
 
 
