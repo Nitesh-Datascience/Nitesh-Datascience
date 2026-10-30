@@ -1,7 +1,7 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="assets/neon-terminal/nitesh-profile-photo.svg" width="285" alt="Nitesh Kumar profile portrait"/>
+  <img src="https://github.com/Nitesh-Datascience.png" width="285" alt="Nitesh Kumar profile portrait"/>
 </p>
 
 <p align="center">
