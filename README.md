@@ -49,7 +49,7 @@
 <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> &nbsp; · &nbsp; <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
 </td>
 <td width="32%" align="center" valign="middle">
-<img src="https://github.com/Nitesh-Datascience.png" width="285" alt="Portrait of Nitesh Kumar"/>
+<img src="assets/neon-terminal/nitesh-profile-photo.svg" width="285" alt="Nitesh Kumar profile portrait"/>
 <h3>NITESH KUMAR</h3>
 <p><sub>DATA ANALYST · PYTHON · SQL · BI</sub></p>
 <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
