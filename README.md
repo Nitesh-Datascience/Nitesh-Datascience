@@ -41,7 +41,7 @@
 
 <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> &nbsp; · &nbsp; <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
 </td> 
-<p align="right-side ">
+<p align="left-side ">
   <img src="https://github.com/Nitesh-Datascience.png" width="150" alt="Nitesh Kumar profile picture"/>
 </p>
 <td width="32%" align="center" valign="middle">
