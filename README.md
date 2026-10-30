@@ -1,15 +1,6 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar profile picture"/>
-</p>
-
-<p align="center">
-  <strong><samp>NITESH KUMAR</samp></strong><br/>
-  <sub>DATA ANALYST · PYTHON · SQL · BI</sub>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
 </p>
@@ -33,6 +24,9 @@
 <td width="68%" valign="middle">
 
 <h2>Hey, I'm Nitesh Kumar 👋</h2>
+<p align="center">
+  <img src="https://github.com/Nitesh-Datascience.png" width="180" alt="Nitesh Kumar profile picture"/>
+</p>
 
 <p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI / ML</strong></p>
 
