@@ -61,14 +61,6 @@
 
 <p align="center"><strong>✦ TURN DATA INTO CLARITY · TURN CLARITY INTO ACTION ✦</strong></p>
 
-## 02 / NEON ANALYTICS DASHBOARD
-
-<p align="center">
-  <img src="assets/neon-terminal/analytics-dashboard.svg" width="100%" alt="Neon dashboard with area charts, KPI donut, bar charts, and trend lines" />
-</p>
-
-<p align="center"><em>Data storytelling through trends, KPIs, comparisons, and predictive signals.</em></p>
-
 ## 03 / TOOLKIT
 
 <p align="center">
@@ -192,7 +184,6 @@
 
 <!-- LIVE-PROJECTS:END -->
 
-
 ## 05 / GITHUB STATS — LIVE ACTIVITY
 
 <p align="center">
@@ -216,7 +207,6 @@
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
-
 
 ## 08 / LET'S CONNECT
 
