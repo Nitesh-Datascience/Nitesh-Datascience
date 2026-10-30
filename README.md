@@ -11,9 +11,6 @@
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-ff39bd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10051b" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/neon-terminal/profile-showcase.svg" width="100%" alt="Neon magenta and purple data analytics showcase" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=16&duration=2400&pause=700&color=F9A8D4&center=true&vCenter=true&width=820&lines=DATA+ANALYST+%2F%2F+BUSINESS+INTELLIGENCE;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;FROM+RAW+DATA+TO+ACTIONABLE+INSIGHTS;ANALYTICS+%7C+VISUALIZATION+%7C+APPLIED+AI%2FML" alt="Animated data analytics headline" />
