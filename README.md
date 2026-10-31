@@ -10,9 +10,6 @@
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=16&duration=2400&pause=700&color=F9A8D4&center=true&vCenter=true&width=820&lines=DATA+ANALYST+%2F%2F+BUSINESS+INTELLIGENCE;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;FROM+RAW+DATA+TO+ACTIONABLE+INSIGHTS;ANALYTICS+%7C+VISUALIZATION+%7C+APPLIED+AI%2FML" alt="Animated data analytics headline" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=flat-square&color=9D174D&label=PROFILE+VIEWS" alt="Profile views" />
@@ -72,7 +69,7 @@
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 03 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
+## 04 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
 
 <p align="center">
   <img src="assets/neon-terminal/featured-projects-directory.svg" width="100%" alt="Unified neon featured projects directory with analytics visual, 11-project collection, and live demo and source-code links"/>
@@ -158,7 +155,7 @@
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 10 · DATA / AI</sub>
-<h3>CodeVenjar</h3>
+<h3>Codevanjar</h3>
 <p>Career planning web prototype; choose “Use local demo” to begin.</p>
 <p><a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/CodeVenjar"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
@@ -178,31 +175,20 @@
 
 <!-- LIVE-PROJECTS:END -->
 
-## 04 / GITHUB STATS — LIVE ACTIVITY
+## 05 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center">
-  <img src="assets/neon-terminal/metrics.svg" width="100%" alt="Live public GitHub metrics: repository count, stars, featured projects, followers, and primary repository languages"/>
-</p>
+<p align="center"><strong>Consistent learning, building, and sharing through public repositories.</strong></p>
+<p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories">Explore my public repositories ↗</a> &nbsp; · &nbsp; <a href="https://github.com/Nitesh-Datascience?tab=stars">Explore my starred repositories ↗</a></p>
+<p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-<p align="center"><em>Neon analytics panel refreshed by the repository's GitHub Actions workflow. Language bars show repository counts, not skill ratings.</em></p>
-
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-EXPLORE-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="Explore public repositories"/></a>
-  <a href="https://github.com/Nitesh-Datascience?tab=stars"><img src="https://img.shields.io/badge/STARS-ON%20GITHUB-bb63f5?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="Explore starred repositories"/></a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nitesh-Datascience&theme=dark&hide_border=true&background=071024&ring=885dff&fire=35deff&currStreakLabel=78e7ff&sideLabels=a9b8d9&currStreakNum=f0f5ff&sideNums=f0f5ff&dates=8fa4c9" width="88%" alt="GitHub contribution streak"/>
-</p>
-
-## 05 / MY PORTFOLIOS
+## 06 / MY PORTFOLIOS
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 06 / LET'S CONNECT
+## 07 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
