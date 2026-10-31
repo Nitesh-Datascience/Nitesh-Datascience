@@ -1,7 +1,10 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
 <h2 align="center">NITESH KUMAR</h2>
-<p align="center"><strong>DATA ANALYST · PYTHON · SQL · BI</strong></p>
+<p align="center"><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI &amp; ML</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Turning+Data+into+Actionable+Insights;Building+Dashboards+with+Power+BI+%26+Excel;Python+%7C+SQL+%7C+Machine+Learning" alt="Animated introduction" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
