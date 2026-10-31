@@ -19,36 +19,35 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
-
-<h3>Hey, I'm Nitesh Kumar</h3>
-<p><strong>DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | AI &amp; ML</strong></p>
-<p>I transform raw data into clear dashboards, predictive models, and actionable business insights. I enjoy turning complex datasets into practical solutions that support better decisions.</p>
-
-<strong>WHAT I DO</strong><br/>
-• Clean, explore, and analyze real-world datasets<br/>
-• Build KPI dashboards and interactive business reports<br/>
-• Use Python, SQL, and Excel to uncover useful patterns<br/>
-• Develop and evaluate machine-learning models
-
+<td width="30%" align="center" valign="middle">
+<img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar profile picture"/>
+<br/><br/>
+<strong>NITESH KUMAR</strong><br/>
+<sub>DATA ANALYST</sub>
 </td>
-<td width="38%" valign="top">
+<td width="70%" valign="middle">
+
+<h3>Hey, I'm Nitesh Kumar 👋</h3>
+<p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI &amp; ML</strong></p>
+
+<p>I turn raw data into clear insights, interactive dashboards, and practical machine-learning solutions. I enjoy exploring datasets, finding meaningful patterns, and communicating results that support better decisions.</p>
+
+<strong>WHAT I DO</strong>
+<ul>
+<li>Clean, explore, and analyse real-world datasets.</li>
+<li>Use Python, SQL, and Excel to uncover trends and answer business questions.</li>
+<li>Create Power BI dashboards, KPI reports, and data visualisations.</li>
+<li>Build and evaluate machine-learning models for practical use cases.</li>
+</ul>
 
 <strong>CORE TOOLKIT</strong><br/>
-Python · SQL · Excel<br/>
-Power BI · Pandas · NumPy<br/>
-Scikit-learn · Streamlit · Git
+Python · SQL · Excel · Power BI<br/>
+Pandas · NumPy · Scikit-learn · Streamlit
 
 <br/><br/>
-<strong>CAREER FOCUS</strong><br/>
-Data Analytics<br/>
-Business Intelligence<br/>
-Applied AI &amp; Machine Learning
-
-<br/><br/>
-<strong>EXPLORE MY WORK</strong><br/>
-<a href="https://nitesh-datascience.github.io/portfolio/">Main Portfolio ↗</a><br/>
-<a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/">Interactive Tree Portfolio ↗</a>
+<a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a>
+&nbsp; · &nbsp;
+<a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a>
 
 </td>
 </tr>
