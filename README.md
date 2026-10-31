@@ -19,29 +19,37 @@
 
 <table>
 <tr>
-<td width="30%" align="center" valign="middle">
-<img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar profile picture"/>
+<td width="62%" valign="top">
+
+<h3>Hey, I'm Nitesh Kumar</h3>
+<p><strong>DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | AI &amp; ML</strong></p>
+<p>I transform raw data into clear dashboards, predictive models, and actionable business insights. I enjoy turning complex datasets into practical solutions that support better decisions.</p>
+
+<strong>WHAT I DO</strong><br/>
+• Clean, explore, and analyze real-world datasets<br/>
+• Build KPI dashboards and interactive business reports<br/>
+• Use Python, SQL, and Excel to uncover useful patterns<br/>
+• Develop and evaluate machine-learning models
+
 </td>
-<td width="70%" valign="middle">
+<td width="38%" valign="top">
 
-<h2>Hey, I'm Nitesh Kumar 👋</h2>
-<p><strong>DATA ANALYST · PYTHON · SQL · BI</strong></p>
+<strong>CORE TOOLKIT</strong><br/>
+Python · SQL · Excel<br/>
+Power BI · Pandas · NumPy<br/>
+Scikit-learn · Streamlit · Git
 
-<p>I transform raw data into dashboards, predictive models, and actionable business insights. My work combines analytics, machine learning, data visualization, and practical problem-solving.</p>
+<br/><br/>
+<strong>CAREER FOCUS</strong><br/>
+Data Analytics<br/>
+Business Intelligence<br/>
+Applied AI &amp; Machine Learning
 
-<p><strong>✦ WHAT I DO</strong><br/>
-▸ Clean, explore, and interpret real-world data<br/>
-▸ Build clear KPI dashboards and business reports<br/>
-▸ Use Python and SQL to find patterns and answer questions<br/>
-▸ Experiment with machine-learning models and evaluate results</p>
+<br/><br/>
+<strong>EXPLORE MY WORK</strong><br/>
+<a href="https://nitesh-datascience.github.io/portfolio/">Main Portfolio ↗</a><br/>
+<a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/">Interactive Tree Portfolio ↗</a>
 
-<p>
-<img src="https://img.shields.io/badge/ANALYZE-FF4FA3?style=for-the-badge&labelColor=21101f" alt="Analyze"/>
-<img src="https://img.shields.io/badge/VISUALIZE-BB63F5?style=for-the-badge&labelColor=21101f" alt="Visualize"/>
-<img src="https://img.shields.io/badge/PREDICT-5BDAE8?style=for-the-badge&labelColor=21101f" alt="Predict"/>
-</p>
-
-<p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> &nbsp; · &nbsp; <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
 </td>
 </tr>
 </table>
