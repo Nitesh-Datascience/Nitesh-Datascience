@@ -1,8 +1,5 @@
 <!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
 
-<p align="center">
-  <img src="https://github.com/Nitesh-Datascience.png" width="150" alt="Nitesh Kumar profile picture"/>
-</p>
 <h2 align="center">NITESH KUMAR</h2>
 <p align="center"><strong>DATA ANALYST · PYTHON · SQL · BI</strong></p>
 <p align="center">
@@ -22,7 +19,10 @@
 
 <table>
 <tr>
-<td width="68%" valign="middle">
+<td width="30%" align="center" valign="middle">
+<img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar profile picture"/>
+</td>
+<td width="70%" valign="middle">
 
 <h2>Hey, I'm Nitesh Kumar 👋</h2>
 <p><strong>DATA ANALYST · PYTHON · SQL · BI</strong></p>
@@ -42,10 +42,6 @@
 </p>
 
 <p><a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a> &nbsp; · &nbsp; <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a></p>
-</td>
-<td width="32%" align="center" valign="middle">
-<h3>DATA &amp; BUSINESS INTELLIGENCE</h3>
-<p><sub>Turning raw data into clear insights and practical decisions.</sub></p>
 </td>
 </tr>
 </table>
