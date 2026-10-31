@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="316" viewBox="0 0 1000 316" role="img" aria-labelledby="title desc">
 <title id="title">Nitesh-Datascience — public GitHub statistics</title>
-<desc id="desc">47 public repositories, 66 received stars, 11 featured projects and 3 followers. Primary languages are counts of public repositories, not skill ratings. Updated 31 Oct 2026.</desc><defs><linearGradient id="edge"><stop stop-color="#885dff"/><stop offset=".5" stop-color="#35deff"/><stop offset="1" stop-color="#65efbc"/></linearGradient></defs>
+<desc id="desc">47 public repositories, 66 received stars, 12 featured projects and 3 followers. Primary languages are counts of public repositories, not skill ratings. Updated 31 Oct 2026.</desc><defs><linearGradient id="edge"><stop stop-color="#885dff"/><stop offset=".5" stop-color="#35deff"/><stop offset="1" stop-color="#65efbc"/></linearGradient></defs>
 <rect width="1000" height="316" rx="16" fill="#071024"/>
 <rect x="1" y="1" width="998" height="314" rx="15" fill="none" stroke="#345185"/>
 <path d="M18 2H982" stroke="url(#edge)" stroke-width="3"/>
@@ -12,7 +12,7 @@
 <text x="45" y="134" fill="#a9b8d9" font-size="11">PUBLIC REPOSITORIES</text><rect x="257" y="61" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
 <text x="275" y="108" fill="#f0f5ff" font-size="34" font-weight="700">66</text>
 <text x="275" y="134" fill="#a9b8d9" font-size="11">STARS RECEIVED</text><rect x="27" y="169" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
-<text x="45" y="216" fill="#f0f5ff" font-size="34" font-weight="700">11</text>
+<text x="45" y="216" fill="#f0f5ff" font-size="34" font-weight="700">12</text>
 <text x="45" y="242" fill="#a9b8d9" font-size="11">FEATURED PROJECTS</text><rect x="257" y="169" width="210" height="91" rx="9" fill="#101b36" stroke="#263d6c"/>
 <text x="275" y="216" fill="#f0f5ff" font-size="34" font-weight="700">3</text>
 <text x="275" y="242" fill="#a9b8d9" font-size="11">FOLLOWERS</text><text x="517" y="77" fill="#cfdbf4" font-size="13">Python</text>
