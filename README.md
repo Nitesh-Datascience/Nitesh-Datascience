@@ -155,7 +155,7 @@
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 10 · DATA / AI</sub>
-<h3>Codevanjar</h3>
+<h3>CodeVenjar</h3>
 <p>Career planning web prototype; choose “Use local demo” to begin.</p>
 <p><a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/CodeVenjar"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
