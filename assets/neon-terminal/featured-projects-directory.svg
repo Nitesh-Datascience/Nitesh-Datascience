@@ -2,13 +2,25 @@
 <title id="title">Nitesh — Featured Projects Neon Directory</title>
 <desc id="desc">A unified neon pink, violet and cyan portfolio header for eleven featured data analytics and AI projects.</desc>
 <defs>
+ <style><![CDATA[
+  @keyframes pulse { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+  @keyframes rise { from { transform:translateY(22px); opacity:.35 } to { transform:translateY(0); opacity:1 } }
+  .pulse { animation:pulse 2.8s ease-in-out infinite }
+  .bar { transform-box:fill-box; transform-origin:bottom; animation:rise 1.8s ease-out both }
+  .bar:nth-of-type(2) { animation-delay:.15s }
+  .bar:nth-of-type(3) { animation-delay:.3s }
+  .bar:nth-of-type(4) { animation-delay:.45s }
+  .bar:nth-of-type(5) { animation-delay:.6s }
+  .bar:nth-of-type(6) { animation-delay:.75s }
+  .bar:nth-of-type(7) { animation-delay:.9s }
+ ]]></style>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090916"/><stop offset=".55" stop-color="#19102c"/><stop offset="1" stop-color="#071b2a"/></linearGradient>
  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff4fba"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#42e8ff"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
 <rect x="2" y="2" width="1196" height="426" rx="22" fill="none" stroke="url(#neon)" stroke-width="2"/>
-<path d="M28 5H1172" stroke="url(#neon)" stroke-width="5" filter="url(#glow)"/>
+<path class="pulse" d="M28 5H1172" stroke="url(#neon)" stroke-width="5" filter="url(#glow)"/>
 <g opacity=".22" stroke="#7f6cba" stroke-width="1"><path d="M0 70H1200M0 130H1200M0 190H1200M0 250H1200M0 310H1200M0 370H1200"/><path d="M80 0V430M160 0V430M240 0V430M320 0V430M400 0V430M480 0V430M560 0V430M640 0V430M720 0V430M800 0V430M880 0V430M960 0V430M1040 0V430M1120 0V430"/></g>
 <g font-family="Arial,Helvetica,sans-serif">
  <text x="54" y="60" fill="#5ceaff" font-size="17" font-weight="700" letter-spacing="4">NITESH / PROJECT DIRECTORY</text>
@@ -28,7 +40,7 @@
   <circle cx="21" cy="20" r="4" fill="#ff5da8"/><circle cx="36" cy="20" r="4" fill="#b99aff"/><circle cx="51" cy="20" r="4" fill="#42e8ff"/>
   <text x="20" y="52" fill="#d7d5f6" font-size="12" font-weight="700">ANALYTICS OVERVIEW</text>
   <path d="M20 185H266M20 145H266M20 105H266M20 65H266" stroke="#292b4c" stroke-width="1"/>
-  <rect x="34" y="137" width="23" height="48" rx="4" fill="#f64ab8"/><rect x="68" y="113" width="23" height="72" rx="4" fill="#b78bff"/><rect x="102" y="91" width="23" height="94" rx="4" fill="#42e8ff"/><rect x="136" y="120" width="23" height="65" rx="4" fill="#f64ab8"/><rect x="170" y="77" width="23" height="108" rx="4" fill="#b78bff"/><rect x="204" y="59" width="23" height="126" rx="4" fill="#42e8ff"/>
+  <g class="pulse"><rect class="bar" x="34" y="137" width="23" height="48" rx="4" fill="#f64ab8"/><rect class="bar" x="68" y="113" width="23" height="72" rx="4" fill="#b78bff"/><rect class="bar" x="102" y="91" width="23" height="94" rx="4" fill="#42e8ff"/><rect class="bar" x="136" y="120" width="23" height="65" rx="4" fill="#f64ab8"/><rect class="bar" x="170" y="77" width="23" height="108" rx="4" fill="#b78bff"/><rect class="bar" x="204" y="59" width="23" height="126" rx="4" fill="#42e8ff"/></g>
   <path d="M31 98C65 112 77 73 110 85S165 60 193 72S232 45 257 54" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)"/>
   <circle cx="257" cy="54" r="5" fill="#fff"/>
  </g>
