@@ -31,19 +31,19 @@
 <td width="70%" valign="middle">
 
 <h3>Hey, I'm Nitesh Kumar 👋</h3>
-<p><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI &amp; ML</strong></p>
+<p><strong>DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | AI &amp; ML</strong></p>
 
-<p>I turn raw data into clear insights, interactive dashboards, and practical machine-learning solutions. I enjoy exploring datasets, finding meaningful patterns, and communicating results that support better decisions.</p>
+<p>I transform raw data into meaningful insights, interactive dashboards, and practical machine-learning solutions. I focus on turning business questions into clear, data-driven answers.</p>
 
 <strong>WHAT I DO</strong>
 <ul>
 <li>Clean, explore, and analyse real-world datasets.</li>
-<li>Use Python, SQL, and Excel to uncover trends and answer business questions.</li>
-<li>Create Power BI dashboards, KPI reports, and data visualisations.</li>
-<li>Build and evaluate machine-learning models for practical use cases.</li>
+<li>Write Python and SQL queries to identify trends and patterns.</li>
+<li>Build Power BI dashboards, KPI reports, and visual stories.</li>
+<li>Train and evaluate machine-learning models for practical problems.</li>
 </ul>
 
-<strong>CORE TOOLKIT</strong><br/>
+<strong>TOOLS I USE</strong><br/>
 Python · SQL · Excel · Power BI<br/>
 Pandas · NumPy · Scikit-learn · Streamlit
 
