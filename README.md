@@ -62,6 +62,22 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 ## 02 / TOOLKIT
 
+### LANGUAGES USED ON GITHUB
+
+<p align="center"><strong>Programming and markup languages detected across my public repositories</strong></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's public GitHub repositories" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<p align="center"><sub>The chart is generated from public GitHub repository data and may change as repositories are updated.</sub></p>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
 </p>
