@@ -207,6 +207,14 @@ Pandas · NumPy · Scikit-learn · Streamlit
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
+
+### LANGUAGES USED ON GITHUB
+
+<p align="center">A live breakdown of the programming languages detected across my public GitHub repositories.</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's GitHub repositories" />
+</p>
+
 ## 06 / MY PORTFOLIOS
 
 <p align="center"><strong>Explore my dedicated Data Analyst portfolio, project case studies, and interactive work.</strong></p>
