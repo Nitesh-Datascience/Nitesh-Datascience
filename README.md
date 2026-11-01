@@ -48,6 +48,8 @@ Python · SQL · Excel · Power BI<br/>
 Pandas · NumPy · Scikit-learn · Streamlit
 
 <br/><br/>
+<a href="https://nitesh-datascience.github.io/Nitesh-Data-Analyst-Portfolio/"><strong>↗ DATA ANALYST PORTFOLIO</strong></a>
+&nbsp; · &nbsp;
 <a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a>
 &nbsp; · &nbsp;
 <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a>
@@ -189,7 +191,9 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 ## 06 / MY PORTFOLIOS
 
+<p align="center"><strong>Explore my dedicated Data Analyst portfolio, project case studies, and interactive work.</strong></p>
 <p align="center">
+  <a href="https://nitesh-datascience.github.io/Nitesh-Data-Analyst-Portfolio/"><img src="https://img.shields.io/badge/DATA%20ANALYST%20PORTFOLIO-PROJECTS%20%26%20DASHBOARDS-EC4899?style=for-the-badge&labelColor=10051b" alt="Data Analyst Portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
