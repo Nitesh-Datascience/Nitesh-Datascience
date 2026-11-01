@@ -189,7 +189,12 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="Nitesh Kumar GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages" />
+</p>
+
+<h3 align="center">MOST USED LANGUAGES ON GITHUB</h3>
+<p align="center"><sub>Automatically generated from the languages detected in my public repositories.</sub></p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages across public GitHub repositories" />
 </p>
 
 <p align="center">
