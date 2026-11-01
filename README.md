@@ -185,22 +185,22 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 ## 05 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><strong>My coding activity, repository growth, and most-used languages.</strong></p>
+<p align="center"><strong>Consistent learning, building, and sharing through public repositories.</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Nitesh Kumar GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Datascience&theme=radical&hide_border=true" height="165" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="Nitesh Kumar GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Most used programming languages" />
+  <img src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories">Explore my public repositories ↗</a>
-  &nbsp; · &nbsp;
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories">Explore my public repositories ↗</a> &nbsp; · &nbsp;
   <a href="https://github.com/Nitesh-Datascience?tab=stars">Explore my starred repositories ↗</a>
 </p>
+<p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
 ## 06 / MY PORTFOLIOS
 
