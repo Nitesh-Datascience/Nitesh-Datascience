@@ -1,12 +1,12 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "repos": [
     {
       "name": "3D-Sketch-Portfolio",
       "language": "HTML",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -138,13 +138,13 @@
     {
       "name": "gpt",
       "language": "TypeScript",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
       "name": "Happy-Diwali",
       "language": "JavaScript",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -180,7 +180,7 @@
     {
       "name": "I-create-codespace",
       "language": "Python",
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     {
@@ -205,12 +205,6 @@
       "name": "NIFTY-PREDICTION-USING-LSTM-AND-MACHINE-LEARNING-ALGORITHMS-FROM-2001-TO-12TH-JULY-2024",
       "language": "Jupyter Notebook",
       "stars": 3,
-      "forks": 0
-    },
-    {
-      "name": "Nitesh-Data-Analyst-Portfolio",
-      "language": "HTML",
-      "stars": 0,
       "forks": 0
     },
     {
