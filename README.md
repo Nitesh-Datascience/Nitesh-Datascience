@@ -20,15 +20,15 @@
 
 ## 01 / ABOUT ME — DATA WITH PURPOSE
 
-<table>
+<table width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 <img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar profile picture"/>
 <br/><br/>
 <strong>NITESH KUMAR</strong><br/>
 <sub>DATA ANALYST</sub>
 </td>
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 
 <h3>Hey, I'm Nitesh Kumar 👋</h3>
 <p><strong>DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | AI &amp; ML</strong></p>
@@ -66,7 +66,7 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <p align="center"><strong>Programming and markup languages detected across my public repositories</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's public GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's public GitHub repositories" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -104,7 +104,7 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <!-- LIVE-PROJECTS:START -->
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 01 · DATA / AI</sub>
@@ -204,17 +204,17 @@ Pandas · NumPy · Scikit-learn · Streamlit
 <p align="center"><strong>Consistent learning, building, and sharing through public repositories.</strong></p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="Nitesh Kumar GitHub statistics" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="Nitesh Kumar GitHub statistics" />
 </p>
 
 <h3 align="center">MOST USED LANGUAGES ON GITHUB</h3>
 <p align="center"><sub>Automatically generated from the languages detected in my public repositories.</sub></p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages across public GitHub repositories" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages across public GitHub repositories" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" alt="GitHub contribution streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -228,7 +228,7 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <p align="center">A live breakdown of the programming languages detected across my public GitHub repositories.</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's GitHub repositories" />
 </p>
 
 ## 06 / MY PORTFOLIOS
