@@ -102,7 +102,7 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <!-- LIVE-PROJECTS:START -->
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 01 · DATA / AI</sub>
