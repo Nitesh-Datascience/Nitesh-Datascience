@@ -240,7 +240,69 @@ Pandas · NumPy · Scikit-learn · Streamlit
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 07 / LET'S CONNECT
+## 07 / CERTIFICATIONS &amp; JOB SIMULATIONS
+
+<p align="center"><strong>CONTINUOUS LEARNING · INDUSTRY-ALIGNED EXPERIENCE · PROFESSIONAL DEVELOPMENT</strong></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### QUANTITATIVE RESEARCH &amp; DATA ANALYTICS
+
+**J.P. Morgan — Quantitative Research Job Simulation**  
+Forage · Issued Jan 2026  
+Credential ID: `EHKW2tShz7KYgf565`
+
+**Commonwealth Bank — Introduction to Data Science Job Simulation**  
+Forage · Issued Jan 2026  
+Credential ID: `tj5K6zabsnJiNgXkN`
+
+**Tata — GenAI Powered Data Analytics Job Simulation**  
+Forage · Issued Jan 2026  
+Credential ID: `Cfk328SFy3pswneyo`
+
+**Deloitte Australia — Data Analytics Job Simulation**  
+Forage · Issued Jul 2025  
+Credential ID: `H9GpEgwr3scGTJKGZ`
+
+</td>
+<td width="50%" valign="top">
+
+### TECHNOLOGY &amp; PROFESSIONAL SKILLS
+
+**AWS — Solutions Architecture Job Simulation**  
+Forage · Issued Jan 2026  
+Credential ID: `thyTv3SM9z6LMnHRR`
+
+**Forage Academy — Data Labeling Job Simulation**  
+Forage · Issued Jan 2026  
+Credential ID: `KBxCEfzfqigNR73Xj`
+
+**Microsoft Excel with A.I Masterclass (Self Learning)**  
+SkillCourse · Issued Jan 2026  
+Credential ID: `SC-1C2DD33A41`
+
+**Artificial Intelligence Fundamentals**  
+IBM SkillsBuild
+
+**Canva Essentials**  
+Canva · Issued Nov 2024  
+Credential ID: `74b50f`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://www.theforage.com/"><img src="https://img.shields.io/badge/FORAGE-JOB%20SIMULATIONS-EC4899?style=for-the-badge&labelColor=160817" alt="Forage job simulations" /></a>
+  <a href="https://skillsbuild.org/"><img src="https://img.shields.io/badge/IBM-SKILLSBUILD-8B5CF6?style=for-the-badge&labelColor=160817" alt="IBM SkillsBuild" /></a>
+  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/CANVA-ESSENTIALS-EC4899?style=for-the-badge&labelColor=160817" alt="Canva Essentials" /></a>
+</p>
+
+<p align="center"><sub>Credential IDs are listed for reference. Add the individual “Show credential” URLs to each item when available so visitors can verify the certificates directly.</sub></p>
+
+## 08 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
