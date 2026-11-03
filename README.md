@@ -52,6 +52,8 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <br/><br/>
 &nbsp; · &nbsp;
+<a href="https://nitesh-datascience.github.io/universe-portfolio/"><strong>↗ UNIVERSE PORTFOLIO</strong></a>
+&nbsp; · &nbsp;
 <a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a>
 &nbsp; · &nbsp;
 <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a>
