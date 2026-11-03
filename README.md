@@ -375,17 +375,17 @@ Canva · Issued November 2024
 `74b50f`
 
 </td>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top">
 
-<p><img src="https://img.shields.io/badge/CAREER%20DEVELOPMENT-EC4899?style=flat-square&labelColor=2B1230" alt="Career development" /></p>
+<p><img src="https://img.shields.io/badge/DESIGN%20%26%20CREATIVITY-14B8A6?style=flat-square&labelColor=10312E" alt="Design and creativity" /></p>
 
-### Learning in Progress
-**Building practical skills through projects and simulations**
+### Canva
+**Canva Essentials**
 
-Python · SQL · Excel · Power BI · AI
+Canva · Issued November 2024
 
-<sub>FOCUS AREAS</sub>  
-Analytics · Visualization · Problem-solving
+<sub>CREDENTIAL ID</sub>  
+`74b50f`
 
 </td>
 </tr>
