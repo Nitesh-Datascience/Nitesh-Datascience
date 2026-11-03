@@ -229,8 +229,10 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 ## 06 / MY PORTFOLIOS
 
-<p align="center"><strong>Explore my dedicated Data Analyst portfolio, project case studies, and interactive work.</strong></p>
+<p align="center"><strong>Explore my dedicated Data Analyst portfolio, Universe portfolio, project case studies, and interactive work.</strong></p>
 <p align="center">
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE%20PORTFOLIO-EXPLORE%20MY%20WORK-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=10051b" alt="Universe Portfolio" /></a>
+  <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/UNIVERSE%20SOURCE-GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=10051b" alt="Universe Portfolio source code" /></a>
   <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff39bd?style=for-the-badge&labelColor=10051b" alt="Main portfolio" /></a>
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
