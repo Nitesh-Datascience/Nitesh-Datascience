@@ -77,6 +77,13 @@
       "demo": "https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/",
       "repository": "Nitesh-Datascience/Nitesh-Tree-Portfolio",
       "origin": "curated"
+    },
+    {
+      "title": "universe portfolio",
+      "summary": "Explore the deployed project and its source code.",
+      "demo": "https://nitesh-datascience.github.io/Codlytic-portfolio/",
+      "repository": "Nitesh-Datascience/universe-portfolio",
+      "origin": "discovered"
     }
   ]
 }

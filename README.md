@@ -190,7 +190,13 @@ Pandas · NumPy · Scikit-learn · Streamlit
 <p><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><div align="left">
+<sub>✦ PROJECT 12 · DATA / AI</sub>
+<h3>universe portfolio</h3>
+<p>Explore the deployed project and its source code.</p>
+<p><a href="https://nitesh-datascience.github.io/Codlytic-portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+</div></td>
 </tr>
 </table>
 
