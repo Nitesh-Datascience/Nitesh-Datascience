@@ -103,27 +103,28 @@ Build and evaluate predictive models for real-world use cases.
 
 ### 💻 GITHUB LANGUAGE SNAPSHOT
 
-<p align="center"><strong>A visual snapshot of the languages used across my public repositories</strong></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="GitHub language distribution donut chart" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="Compact GitHub language distribution" />
-</p>
-<p align="center"><sub>Automatically generated from public repository language data. The chart reflects repository code, not skill level or proficiency.</sub></p>
+<p align="center"><strong>My core programming and analytics toolkit</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/EXCEL-REPORTING-9D174D?style=for-the-badge&labelColor=10051b&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARDS-9D174D?style=for-the-badge&labelColor=10051b" alt="Power BI" />
-  <img src="https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-9D174D?style=for-the-badge&labelColor=10051b&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-9D174D?style=for-the-badge&labelColor=10051b&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/STREAMLIT-APP%20DEPLOYMENT-9D174D?style=for-the-badge&labelColor=10051b" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
 </p>
 
 | DATA ANALYTICS | BUSINESS INTELLIGENCE | AI / MACHINE LEARNING |
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
+
+<p align="center"><sub>These badges show my tools and areas of focus. GitHub's repository language breakdown is available from the native repository view.</sub></p>
+<p align="center"><a href="https://github.com/Nitesh-Datascience?tab=repositories">VIEW PUBLIC REPOSITORIES & LANGUAGE BREAKDOWN ↗</a></p>
 
 ## 04 / FEATURED PROJECTS — LIVE PROJECT DIRECTORY
 
@@ -239,27 +240,19 @@ Build and evaluate predictive models for real-world use cases.
 
 ## 05 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><strong>Consistent learning, building, and sharing through public repositories.</strong></p>
+<p align="center"><strong>Explore my public GitHub work, repositories, and contribution activity.</strong></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="Nitesh Kumar GitHub statistics" />
-</p>
-
-<h3 align="center">MOST USED LANGUAGES ON GITHUB</h3>
-<p align="center"><sub>Automatically generated from the languages detected in my public repositories.</sub></p>
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages across public GitHub repositories" />
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PUBLIC%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=10051b" alt="Explore public repositories" /></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=stars"><img src="https://img.shields.io/badge/VIEW-STARRED%20PROJECTS-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=10051b" alt="View starred projects" /></a>
+  <a href="https://github.com/Nitesh-Datascience?tab=overview"><img src="https://img.shields.io/badge/OPEN-CONTRIBUTION%20ACTIVITY-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=10051b" alt="Open contribution activity" /></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" alt="GitHub contribution streak" />
+  <a href="https://github.com/Nitesh-Datascience"><img src="https://img.shields.io/github/followers/Nitesh-Datascience?style=for-the-badge&logo=github&label=GITHUB%20FOLLOWERS&color=8B5CF6" alt="GitHub followers" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories">Explore my public repositories ↗</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Nitesh-Datascience?tab=stars">Explore my starred repositories ↗</a>
-</p>
-<p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
+<p align="center"><sub>Use the links above to view live repository and contribution information directly on GitHub. This section avoids third-party generated stats cards that can intermittently return errors.</sub></p>
 
 ## 06 / MY PORTFOLIOS
 
