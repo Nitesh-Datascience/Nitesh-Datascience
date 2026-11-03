@@ -1,18 +1,22 @@
-<!-- NITESH KUMAR | NEON MAGENTA DATA ANALYTICS PROFILE -->
+<!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
 
-<h2 align="center">NITESH KUMAR</h2>
-<p align="center"><strong>DATA ANALYST · PYTHON · SQL · EXCEL · POWER BI · AI &amp; ML</strong></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Turning+Data+into+Actionable+Insights;Building+Dashboards+with+Power+BI+%26+Excel;Python+%7C+SQL+%7C+Machine+Learning" alt="Animated introduction" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21101f" alt="Connect on LinkedIn"/></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,45:312E81,100:BE185D&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20EXCEL%20%7C%20POWER%20BI&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Nitesh Kumar — Data Analyst" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=flat-square&color=9D174D&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-9D174D?style=flat-square" alt="Data and analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=700&color=F472B6&center=true&vCenter=true&width=760&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;Turning+Raw+Data+into+Smart+Decisions;Python+%E2%80%A2+SQL+%E2%80%A2+Excel+%E2%80%A2+Power+BI;Analytics+%7C+Dashboards+%7C+Machine+Learning" alt="Animated data analytics headline" />
+</p>
+
+<p align="center">
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/🚀_EXPLORE_UNIVERSE_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore Universe Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email Nitesh" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-DB2777?style=for-the-badge&labelColor=111827" alt="Data and analytics" />
 </p>
 
 ---
