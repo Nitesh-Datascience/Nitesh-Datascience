@@ -21,65 +21,94 @@
 
 ---
 
-## 01 / ABOUT ME — DATA WITH PURPOSE
+## 01 / ABOUT ME — THE ANALYTICS MINDSET
 
 <table width="100%">
 <tr>
-<td width="28%" align="center" valign="middle">
-<img src="https://github.com/Nitesh-Datascience.png" width="190" alt="Nitesh Kumar profile picture"/>
-<br/><br/>
-<strong>NITESH KUMAR</strong><br/>
-<sub>DATA ANALYST</sub>
+<td width="30%" align="center" valign="middle">
+  <img src="https://github.com/Nitesh-Datascience.png" width="170" alt="Nitesh Kumar profile picture" />
+  <h3>NITESH KUMAR</h3>
+  <p><strong>DATA ANALYST</strong></p>
+  <p><sub>CURIOUS MIND · DATA-DRIVEN THINKING</sub></p>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <br/><br/>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nitesh" /></a>
 </td>
-<td width="72%" valign="middle">
+<td width="70%" valign="middle">
 
-<h3>Hey, I'm Nitesh Kumar 👋</h3>
-<p><strong>DATA ANALYST | PYTHON | SQL | EXCEL | POWER BI | AI &amp; ML</strong></p>
+### 👋 Turning Raw Data into Clear Decisions
 
-<p>I transform raw data into meaningful insights, interactive dashboards, and practical machine-learning solutions. I focus on turning business questions into clear, data-driven answers.</p>
+I'm a **Data Analyst** who enjoys transforming raw data into meaningful insights, interactive dashboards, and practical machine-learning solutions. I like finding the story behind the numbers and making results easy to understand.
 
-<strong>WHAT I DO</strong>
-<ul>
-<li>Clean, explore, and analyse real-world datasets.</li>
-<li>Write Python and SQL queries to identify trends and patterns.</li>
-<li>Build Power BI dashboards, KPI reports, and visual stories.</li>
-<li>Train and evaluate machine-learning models for practical problems.</li>
-</ul>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<strong>TOOLS I USE</strong><br/>
-Python · SQL · Excel · Power BI<br/>
-Pandas · NumPy · Scikit-learn · Streamlit
+**🔍 EXPLORE & ANALYSE**
 
-<br/><br/>
-&nbsp; · &nbsp;
-<a href="https://nitesh-datascience.github.io/universe-portfolio/"><strong>↗ UNIVERSE PORTFOLIO</strong></a>
-&nbsp; · &nbsp;
-<a href="https://nitesh-datascience.github.io/portfolio/"><strong>↗ MAIN PORTFOLIO</strong></a>
-&nbsp; · &nbsp;
-<a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><strong>↗ INTERACTIVE TREE PORTFOLIO</strong></a>
+Clean datasets, perform exploratory data analysis, and discover trends and patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 VISUALISE & COMMUNICATE**
+
+Create clear KPI reports, interactive dashboards, and data-driven stories.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐍 PYTHON & SQL**
+
+Query, transform, and analyse data to answer practical business questions.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 MACHINE LEARNING**
+
+Build and evaluate predictive models for real-world use cases.
 
 </td>
 </tr>
 </table>
 
+**⚡ MY TOOLKIT**
+
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE_PORTFOLIO-EXPLORE_NOW-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore Universe Portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN_PORTFOLIO-CASE_STUDIES-DB2777?style=for-the-badge&labelColor=111827" alt="Main portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE_PORTFOLIO-INTERACTIVE-2563EB?style=for-the-badge&labelColor=111827" alt="Interactive Tree Portfolio" /></a>
+</p>
+
 <p align="center"><strong>✦ TURN DATA INTO CLARITY · TURN CLARITY INTO ACTION ✦</strong></p>
 
 ## 02 / TOOLKIT
 
-### LANGUAGES USED ON GITHUB
+### 💻 GITHUB LANGUAGE SNAPSHOT
 
-<p align="center"><strong>Programming and markup languages detected across my public repositories</strong></p>
+<p align="center"><strong>A visual snapshot of the languages used across my public repositories</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's public GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="GitHub language distribution donut chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="Compact GitHub language distribution" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p align="center"><sub>The chart is generated from public GitHub repository data and may change as repositories are updated.</sub></p>
+<p align="center"><sub>Automatically generated from public repository language data. The chart reflects repository code, not skill level or proficiency.</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
@@ -231,13 +260,6 @@ Pandas · NumPy · Scikit-learn · Streamlit
   <a href="https://github.com/Nitesh-Datascience?tab=stars">Explore my starred repositories ↗</a>
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
-
-### LANGUAGES USED ON GITHUB
-
-<p align="center">A live breakdown of the programming languages detected across my public GitHub repositories.</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Programming languages used across Nitesh Kumar's GitHub repositories" />
-</p>
 
 ## 06 / MY PORTFOLIOS
 
