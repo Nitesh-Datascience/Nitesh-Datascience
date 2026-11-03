@@ -10,7 +10,6 @@
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-BB63F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21101f" alt="Email Nitesh"/></a>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=flat-square&color=9D174D&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-9D174D?style=flat-square" alt="Data and analytics" />
@@ -77,7 +76,6 @@ Pandas · NumPy · Scikit-learn · Streamlit
 </p>
 <p align="center"><sub>The chart is generated from public GitHub repository data and may change as repositories are updated.</sub></p>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
 </p>
@@ -104,7 +102,7 @@ Pandas · NumPy · Scikit-learn · Streamlit
 
 <!-- LIVE-PROJECTS:START -->
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 01 · DATA / AI</sub>
@@ -223,7 +221,6 @@ Pandas · NumPy · Scikit-learn · Streamlit
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-
 ### LANGUAGES USED ON GITHUB
 
 <p align="center">A live breakdown of the programming languages detected across my public GitHub repositories.</p>
@@ -246,105 +243,120 @@ Pandas · NumPy · Scikit-learn · Streamlit
   <img src="https://img.shields.io/badge/PROFESSIONAL%20LEARNING-09%20CERTIFICATES-EC4899?style=for-the-badge&labelColor=160817" alt="Nine professional certificates" />
   <img src="https://img.shields.io/badge/CAREER%20FOCUS-DATA%20%7C%20AI%20%7C%20TECHNOLOGY-8B5CF6?style=for-the-badge&labelColor=160817" alt="Career focus: data, AI and technology" />
 </p>
-<p align="center"><em>Continuous learning through industry-designed job simulations, technical masterclasses and professional skills training.</em></p>
+<p align="center"><em>Industry-designed job simulations, technical masterclasses and professional skills training.</em></p>
 
 <table width="100%">
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/01-EC4899?style=for-the-badge&labelColor=2B1230" alt="01" />
 
-### J.P. Morgan — Quantitative Research Job Simulation
+### J.P. Morgan
+**Quantitative Research Job Simulation**
 
-**Forage** · Issued January 2026 · Credential ID: `EHKW2tShz7KYgf565`
+Forage · Jan 2026
+
+`EHKW2tShz7KYgf565`
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/02-8B5CF6?style=for-the-badge&labelColor=21143A" alt="02" />
 
-### Commonwealth Bank — Introduction to Data Science Job Simulation
+### Commonwealth Bank
+**Introduction to Data Science Job Simulation**
 
-**Forage** · Issued January 2026 · Credential ID: `tj5K6zabsnJiNgXkN`
+Forage · Jan 2026
+
+`tj5K6zabsnJiNgXkN`
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/03-06B6D4?style=for-the-badge&labelColor=102B35" alt="03" />
 
-### Tata — GenAI Powered Data Analytics Job Simulation
+### Tata
+**GenAI Powered Data Analytics Job Simulation**
 
-**Forage** · Issued January 2026 · Credential ID: `Cfk328SFy3pswneyo`
+Forage · Jan 2026
+
+`Cfk328SFy3pswneyo`
 
 </td>
 </tr>
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/04-F59E0B?style=for-the-badge&labelColor=38240D" alt="04" />
 
-### AWS — Solutions Architecture Job Simulation
+### AWS
+**Solutions Architecture Job Simulation**
 
-**Forage** · Issued January 2026 · Credential ID: `thyTv3SM9z6LMnHRR`
+Forage · Jan 2026
+
+`thyTv3SM9z6LMnHRR`
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/05-3B82F6?style=for-the-badge&labelColor=142747" alt="05" />
 
-### Forage Academy — Data Labeling Job Simulation
+### Forage Academy
+**Data Labeling Job Simulation**
 
-**Forage** · Issued January 2026 · Credential ID: `KBxCEfzfqigNR73Xj`
+Forage · Jan 2026
+
+`KBxCEfzfqigNR73Xj`
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/06-22C55E?style=for-the-badge&labelColor=12301F" alt="06" />
 
-### Microsoft Excel with A.I Masterclass (Self Learning)
+### Microsoft Excel + AI
+**Self-Learning Masterclass**
 
-**SkillCourse** · Issued January 2026 · Credential ID: `SC-1C2DD33A41`
+SkillCourse · Jan 2026
+
+`SC-1C2DD33A41`
 
 </td>
 </tr>
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/07-A855F7?style=for-the-badge&labelColor=2A1740" alt="07" />
 
-### IBM SkillsBuild — Artificial Intelligence Fundamentals
+### IBM SkillsBuild
+**Artificial Intelligence Fundamentals**
 
-**Issued by IBM SkillsBuild**
+Issued by IBM SkillsBuild
+
+AI fundamentals
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/08-EF4444?style=for-the-badge&labelColor=351619" alt="08" />
 
-### Deloitte Australia — Data Analytics Job Simulation
+### Deloitte Australia
+**Data Analytics Job Simulation**
 
-**Forage** · Issued July 2025 · Credential ID: `H9GpEgwr3scGTJKGZ`
+Forage · Jul 2025
+
+`H9GpEgwr3scGTJKGZ`
 
 </td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://img.shields.io/badge/09-14B8A6?style=for-the-badge&labelColor=10312E" alt="09" />
 
-### Canva — Canva Essentials
+### Canva
+**Canva Essentials**
 
-**Canva** · Issued November 2024 · Credential ID: `74b50f`
+Canva · Nov 2024
+
+`74b50f`
 
 </td>
 </tr>
