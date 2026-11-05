@@ -25,8 +25,15 @@
 
 <table width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
-  <img src="https://github.com/Nitesh-Datascience.png" width="170" alt="Nitesh Kumar profile picture" />
+<td width="46%" align="center" valign="middle">
+  <table width="100%"><tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2200&pause=500&color=22D3EE&center=true&vCenter=true&width=170&height=150&lines=DATA+ANALYST;PYTHON+%7C+SQL;INSIGHT+BUILDER;AI+%2F+ML+EXPLORER" width="100%" alt="Animated data analyst identity" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-scanner.svg" width="100%" alt="Animated scanning profile portrait" />
+    </td>
+  </tr></table>
   <h3>NITESH KUMAR</h3>
   <p><strong>DATA ANALYST</strong></p>
   <p><sub>CURIOUS MIND · DATA-DRIVEN THINKING</sub></p>
@@ -34,7 +41,7 @@
   <br/><br/>
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nitesh" /></a>
 </td>
-<td width="70%" valign="middle">
+<td width="54%" valign="middle">
 
 ### 👋 Turning Raw Data into Clear Decisions
 
