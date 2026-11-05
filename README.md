@@ -26,7 +26,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center" valign="middle">
-  <img src="https://github.com/Nitesh-Datascience.png" width="170" alt="Nitesh Kumar profile picture" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-scanner.svg" width="220" alt="Nitesh Kumar animated neon scanning portrait" />
   <h3>NITESH KUMAR</h3>
   <p><strong>DATA ANALYST</strong></p>
   <p><sub>CURIOUS MIND · DATA-DRIVEN THINKING</sub></p>
