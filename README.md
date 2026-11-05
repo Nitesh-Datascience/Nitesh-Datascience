@@ -4,9 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,45:312E81,100:BE185D&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20EXCEL%20%7C%20POWER%20BI&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Nitesh Kumar — Data Analyst" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=620&height=38&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;ANALYTICS+%7C+MACHINE+LEARNING" alt="Animated data analytics headline" />
-</p>
+<table width="100%">
+<tr>
+<td width="52%" align="center" valign="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=560&height=72&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;ANALYTICS+%7C+MACHINE+LEARNING" width="100%" alt="Compact animated data analytics headline" />
+</td>
+<td width="48%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-scanner.svg" width="220" alt="Nitesh Kumar profile photo with animated scanning effect" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/🚀_EXPLORE_UNIVERSE_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore Universe Portfolio" /></a>
