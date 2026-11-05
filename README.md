@@ -23,26 +23,6 @@
 
 ## 01 / ABOUT ME — THE ANALYTICS MINDSET
 
-<table width="100%">
-<tr>
-<td width="46%" align="center" valign="middle">
-  <table width="100%"><tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2200&pause=500&color=22D3EE&center=true&vCenter=true&width=170&height=150&lines=DATA+ANALYST;PYTHON+%7C+SQL;INSIGHT+BUILDER;AI+%2F+ML+EXPLORER" width="100%" alt="Animated data analyst identity" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-scanner.svg" width="100%" alt="Animated scanning profile portrait" />
-    </td>
-  </tr></table>
-  <h3>NITESH KUMAR</h3>
-  <p><strong>DATA ANALYST</strong></p>
-  <p><sub>CURIOUS MIND · DATA-DRIVEN THINKING</sub></p>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <br/><br/>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nitesh" /></a>
-</td>
-<td width="54%" valign="middle">
-
 ### 👋 Turning Raw Data into Clear Decisions
 
 I'm a **Data Analyst** who enjoys transforming raw data into meaningful insights, interactive dashboards, and practical machine-learning solutions. I like finding the story behind the numbers and making results easy to understand.
@@ -96,15 +76,6 @@ Build and evaluate predictive models for real-world use cases.
 
 </td>
 </tr>
-</table>
-
-<p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE_PORTFOLIO-EXPLORE_NOW-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore Universe Portfolio" /></a>
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN_PORTFOLIO-CASE_STUDIES-DB2777?style=for-the-badge&labelColor=111827" alt="Main portfolio" /></a>
-  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE_PORTFOLIO-INTERACTIVE-2563EB?style=for-the-badge&labelColor=111827" alt="Interactive Tree Portfolio" /></a>
-</p>
-
-<p align="center"><strong>✦ TURN DATA INTO CLARITY · TURN CLARITY INTO ACTION ✦</strong></p>
 
 ## 02 / TOOLKIT
 
