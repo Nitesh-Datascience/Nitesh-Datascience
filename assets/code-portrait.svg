@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+<defs>
+  <clipPath id="portrait"><circle cx="160" cy="160" r="148"/></clipPath>
+  <pattern id="code" width="118" height="42" patternUnits="userSpaceOnUse">
+    <text x="2" y="12" fill="#67e8f9" font-family="monospace" font-size="9">0101 &lt;py&gt;</text>
+    <text x="18" y="25" fill="#a78bfa" font-family="monospace" font-size="8">SELECT * FROM</text>
+    <text x="4" y="37" fill="#34d399" font-family="monospace" font-size="8">const data = [];</text>
+  </pattern>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#67e8f9" stop-opacity=".95"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<circle cx="160" cy="160" r="154" fill="#07111f" stroke="#22d3ee" stroke-width="3"/>
+<g clip-path="url(#portrait)">
+  <image href="https://avatars.githubusercontent.com/u/220066242?v=4" x="12" y="12" width="296" height="296" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="12" y="12" width="296" height="296" fill="url(#code)" opacity=".43"/>
+  <rect x="12" y="12" width="296" height="296" fill="#07111f" opacity=".12"/>
+  <rect x="12" y="-36" width="296" height="24" fill="url(#beam)" filter="url(#glow)">
+    <animate attributeName="y" values="-36;320;-36" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M12 0 H308" stroke="#67e8f9" stroke-width="2" opacity=".8">
+    <animate attributeName="d" values="M12 0 H308;M12 320 H308;M12 0 H308" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+</g>
+<circle cx="160" cy="160" r="148" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".9"/>
+<text x="160" y="315" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="8" letter-spacing="2">CODE • CREATE • ANALYZE</text>
+</svg>
