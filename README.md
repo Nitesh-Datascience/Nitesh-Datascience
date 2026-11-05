@@ -12,7 +12,7 @@
 <td width="48%" align="center" valign="middle">
   <img src="https://avatars.githubusercontent.com/Nitesh-Datascience?s=220" width="220" alt="Nitesh Kumar GitHub profile photo" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-scanner.svg" width="220" alt="Animated scanning status" />
+
 </td>
 </tr>
 </table>
