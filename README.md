@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=700&color=F472B6&center=true&vCenter=true&width=760&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;Turning+Raw+Data+into+Smart+Decisions;Python+%E2%80%A2+SQL+%E2%80%A2+Excel+%E2%80%A2+Power+BI;Analytics+%7C+Dashboards+%7C+Machine+Learning" alt="Animated data analytics headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=620&height=38&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;ANALYTICS+%7C+MACHINE+LEARNING" alt="Animated data analytics headline" />
 </p>
 
 <p align="center">
