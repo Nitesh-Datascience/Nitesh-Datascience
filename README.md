@@ -12,7 +12,6 @@
 <td width="48%" align="center" valign="middle">
   <img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="220" alt="Nitesh Kumar GitHub profile photo" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/code-particle-portrait.svg" width="220" alt="Animated code particle portrait" />
 
 </td>
 </tr>
