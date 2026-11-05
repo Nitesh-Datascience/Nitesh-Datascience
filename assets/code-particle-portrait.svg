@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420">
+<defs>
+ <clipPath id="head"><path d="M210 48 C130 48 88 112 94 211 C99 300 151 354 210 356 C269 354 321 300 326 211 C332 112 290 48 210 48Z"/></clipPath>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#190b2c"/></linearGradient>
+ <linearGradient id="beam" x2="0" y2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="420" height="420" rx="28" fill="url(#bg)"/>
+<g clip-path="url(#head)" font-family="monospace" font-size="12" font-weight="bold">
+ <rect x="70" y="35" width="280" height="330" fill="#071426"/>
+ <text x="82" y="70" fill="#67e8f9" opacity=".9"> def analyze(data): </text>
+<text x="82" y="82" fill="#a78bfa" opacity=".9"> SELECT * FROM users; </text>
+<text x="82" y="94" fill="#34d399" opacity=".9"> for row in dataset: </text>
+<text x="82" y="106" fill="#67e8f9" opacity=".9"> const insight = data; </text>
+<text x="82" y="118" fill="#a78bfa" opacity=".9"> import pandas as pd </text>
+<text x="82" y="130" fill="#34d399" opacity=".9"> return model.predict(x) </text>
+<text x="82" y="142" fill="#67e8f9" opacity=".9"> def analyze(data): </text>
+<text x="82" y="154" fill="#a78bfa" opacity=".9"> SELECT * FROM users; </text>
+<text x="82" y="166" fill="#34d399" opacity=".9"> for row in dataset: </text>
+<text x="82" y="178" fill="#67e8f9" opacity=".9"> const insight = data; </text>
+<text x="82" y="190" fill="#a78bfa" opacity=".9"> import pandas as pd </text>
+<text x="82" y="202" fill="#34d399" opacity=".9"> return model.predict(x) </text>
+<text x="82" y="214" fill="#67e8f9" opacity=".9"> def analyze(data): </text>
+<text x="82" y="226" fill="#a78bfa" opacity=".9"> SELECT * FROM users; </text>
+<text x="82" y="238" fill="#34d399" opacity=".9"> for row in dataset: </text>
+<text x="82" y="250" fill="#67e8f9" opacity=".9"> const insight = data; </text>
+<text x="82" y="262" fill="#a78bfa" opacity=".9"> import pandas as pd </text>
+<text x="82" y="274" fill="#34d399" opacity=".9"> return model.predict(x) </text>
+<text x="82" y="286" fill="#67e8f9" opacity=".9"> def analyze(data): </text>
+<text x="82" y="298" fill="#a78bfa" opacity=".9"> SELECT * FROM users; </text>
+<text x="82" y="310" fill="#34d399" opacity=".9"> for row in dataset: </text>
+<text x="82" y="322" fill="#67e8f9" opacity=".9"> const insight = data; </text>
+<text x="82" y="334" fill="#a78bfa" opacity=".9"> import pandas as pd </text>
+<text x="82" y="346" fill="#34d399" opacity=".9"> return model.predict(x) </text>
+<text x="82" y="358" fill="#67e8f9" opacity=".9"> def analyze(data): </text>
+ <path d="M135 165 Q160 145 185 165 M235 165 Q260 145 285 165" stroke="#67e8f9" stroke-width="5" fill="none" opacity=".9"/>
+ <path d="M210 168 L195 235 L222 235" stroke="#a78bfa" stroke-width="5" fill="none"/>
+ <path d="M165 275 Q210 305 255 275" stroke="#34d399" stroke-width="5" fill="none"/>
+ <rect x="75" y="40" width="270" height="22" fill="url(#beam)" filter="url(#glow)"><animate attributeName="y" values="35;360;35" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M210 48 C130 48 88 112 94 211 C99 300 151 354 210 356 C269 354 321 300 326 211 C332 112 290 48 210 48Z" fill="none" stroke="#22d3ee" stroke-width="3" filter="url(#glow)"/>
+<text x="210" y="392" fill="#67e8f9" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3">CODE • DATA • INSIGHT</text>
+</svg>
