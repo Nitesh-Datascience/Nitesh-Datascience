@@ -1,7 +1,7 @@
 <!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:172554,55:581C87,80:9D174D,100:0F172A&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DATA%20ANALYST%20%20%7C%20%20PYTHON%20%20%7C%20%20SQL%20%20%7C%20%20AI%20%26%20ML&descAlignY=60&descSize=17&animation=twinkling&stroke=F472B6&strokeWidth=1" width="100%" alt="Neon gradient Nitesh Kumar profile banner" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="Custom neon Nitesh Kumar data analytics banner" />
 </p>
 
 <table width="100%">
