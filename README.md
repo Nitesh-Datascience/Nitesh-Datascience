@@ -375,14 +375,7 @@ Core AI concepts and foundations
 <code>NOV 2024</code> · Credential ID: <code>74b50f</code>
 
 </td>
-<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LEARNING-ALWAYS%20GROWING-EC4899?style=flat-square" alt="Continuous learning" />
-
-### Continuous Learning
-**Building practical skills across data, AI and technology**
-
-</td>
 </tr>
 </table>
 
