@@ -1,5 +1,7 @@
 <!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
 
+<p align="center"><sub>✦ PROFILE UPDATE CHECK · NOVEMBER 2026 ✦</sub></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="Custom neon Nitesh Kumar data analytics banner" />
 </p>
