@@ -236,11 +236,15 @@ Build and evaluate predictive models for real-world use cases.
 
 ## 05 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><strong>My GitHub activity, profile grade, and most-used programming languages.</strong></p>
+<p align="center"><strong>My GitHub activity, profile rank, and most-used programming languages.</strong></p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="GitHub statistics card with profile rank grade" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=E5E7EB&bg_color=0D1117" alt="Most used programming languages across public GitHub repositories" />
+  <a href="https://github.com/Nitesh-Datascience">
+    <img height="200" width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="GitHub stats with rank grade" />
+  </a>
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories">
+    <img height="200" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=E5E7EB&bg_color=0D1117" alt="Most used programming languages" />
+  </a>
 </p>
 
 <p align="center">
