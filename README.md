@@ -270,119 +270,95 @@ Build and evaluate predictive models for real-world use cases.
 ## 07 / CERTIFICATIONS &amp; JOB SIMULATIONS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/09-LEARNING%20MILESTONES-EC4899?style=for-the-badge&labelColor=160817" alt="Nine learning milestones" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20%7C%20AI%20%7C%20TECH-8B5CF6?style=for-the-badge&labelColor=160817" alt="Data, AI and technology" />
+  <img src="https://img.shields.io/badge/09%20CERTIFICATES-COMPACT%20VIEW-EC4899?style=flat-square&labelColor=160817" alt="Nine certificates" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20%7C%20AI%20%7C%20TECH-8B5CF6?style=flat-square&labelColor=160817" alt="Data, AI and technology" />
 </p>
-<p align="center"><em>Industry simulations, technical foundations and practical professional skills.</em></p>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-QUANTITATIVE%20RESEARCH-EC4899?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### J.P. Morgan
-**Quantitative Research Job Simulation**
-
-<code>JAN 2026</code> · Credential ID: <code>EHKW2tShz7KYgf565</code>
+**J.P. Morgan** · <sub>FORAGE</sub><br/>
+Quantitative Research Job Simulation<br/>
+<sub>Jan 2026 · ID: EHKW2tShz7KYgf565</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-DATA%20SCIENCE-8B5CF6?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### Commonwealth Bank
-**Introduction to Data Science Job Simulation**
-
-<code>JAN 2026</code> · Credential ID: <code>tj5K6zabsnJiNgXkN</code>
+**Commonwealth Bank** · <sub>FORAGE</sub><br/>
+Introduction to Data Science Job Simulation<br/>
+<sub>Jan 2026 · ID: tj5K6zabsnJiNgXkN</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-GENERATIVE%20AI-06B6D4?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### Tata
-**GenAI Powered Data Analytics Job Simulation**
-
-<code>JAN 2026</code> · Credential ID: <code>Cfk328SFy3pswneyo</code>
+**Tata** · <sub>FORAGE</sub><br/>
+GenAI Powered Data Analytics Job Simulation<br/>
+<sub>Jan 2026 · ID: Cfk328SFy3pswneyo</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-CLOUD%20ARCHITECTURE-F59E0B?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### AWS
-**Solutions Architecture Job Simulation**
-
-<code>JAN 2026</code> · Credential ID: <code>thyTv3SM9z6LMnHRR</code>
+**AWS** · <sub>FORAGE</sub><br/>
+Solutions Architecture Job Simulation<br/>
+<sub>Jan 2026 · ID: thyTv3SM9z6LMnHRR</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-DATA%20LABELING-3B82F6?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### Forage Academy
-**Data Labeling Job Simulation**
-
-<code>JAN 2026</code> · Credential ID: <code>KBxCEfzfqigNR73Xj</code>
+**Forage Academy** · <sub>FORAGE</sub><br/>
+Data Labeling Job Simulation<br/>
+<sub>Jan 2026 · ID: KBxCEfzfqigNR73Xj</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SKILLCOURSE-EXCEL%20%2B%20AI-22C55E?style=flat-square" alt="SkillCourse" />
-
-### Microsoft Excel + AI
-**Self-Learning Masterclass**
-
-<code>JAN 2026</code> · Credential ID: <code>SC-1C2DD33A41</code>
+**Microsoft Excel + AI** · <sub>SKILLCOURSE</sub><br/>
+Self-Learning Masterclass<br/>
+<sub>Jan 2026 · ID: SC-1C2DD33A41</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/IBM%20SKILLSBUILD-ARTIFICIAL%20INTELLIGENCE-A855F7?style=flat-square&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
-
-### IBM SkillsBuild
-**Artificial Intelligence Fundamentals**
-
-Core AI concepts and foundations
+**IBM SkillsBuild**<br/>
+Artificial Intelligence Fundamentals<br/>
+<sub>AI fundamentals</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FORAGE-DATA%20ANALYTICS-EF4444?style=flat-square&logo=forage&logoColor=white" alt="Forage" />
-
-### Deloitte Australia
-**Data Analytics Job Simulation**
-
-<code>JUL 2025</code> · Credential ID: <code>H9GpEgwr3scGTJKGZ</code>
+**Deloitte Australia** · <sub>FORAGE</sub><br/>
+Data Analytics Job Simulation<br/>
+<sub>Jul 2025 · ID: H9GpEgwr3scGTJKGZ</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/CANVA-CREATIVE%20DESIGN-14B8A6?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-
-### Canva
-**Canva Essentials**
-
-<code>NOV 2024</code> · Credential ID: <code>74b50f</code>
+**Canva**<br/>
+Canva Essentials<br/>
+<sub>Nov 2024 · ID: 74b50f</sub>
 
 </td>
+<td width="50%" valign="top">
 
+&nbsp;
+
+</td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://www.theforage.com/"><img src="https://img.shields.io/badge/EXPLORE-FORAGE-EC4899?style=for-the-badge&labelColor=160817" alt="Explore Forage" /></a>
-  <a href="https://skillsbuild.org/"><img src="https://img.shields.io/badge/EXPLORE-IBM%20SKILLSBUILD-8B5CF6?style=for-the-badge&labelColor=160817" alt="Explore IBM SkillsBuild" /></a>
-  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/EXPLORE-CANVA-14B8A6?style=for-the-badge&labelColor=160817" alt="Explore Canva" /></a>
+  <a href="https://www.theforage.com/">Forage</a> &nbsp;·&nbsp;
+  <a href="https://skillsbuild.org/">IBM SkillsBuild</a> &nbsp;·&nbsp;
+  <a href="https://www.canva.com/">Canva</a>
 </p>
 
 ## 08 / LET'S CONNECT
