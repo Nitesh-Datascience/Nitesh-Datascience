@@ -371,7 +371,7 @@ Artificial Intelligence Fundamentals
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♣_08-DELOITTE- EF4444?style=for-the-badge&labelColor=351619" alt="Deloitte card" />
+<img src="https://img.shields.io/badge/♣_08-DELOITTE-EF4444?style=for-the-badge&labelColor=351619" alt="Deloitte card" />
 
 **DATA ANALYTICS**
 
