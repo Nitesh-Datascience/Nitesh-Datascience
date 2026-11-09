@@ -130,6 +130,10 @@ Build and evaluate predictive models for real-world use cases.
 
 ## 04 / FEATURED PROJECTS
 
+<p align="center">
+  <img src="assets/neon-terminal/featured-projects-directory.svg" width="100%" alt="Compact CODLYTIC project showcase with a subtle analytics graph"/>
+</p>
+
 <p align="center"><strong>SELECTED WORK · DATA ANALYTICS · AI · MACHINE LEARNING</strong></p>
 <p align="center">A curated collection of practical projects, dashboards and interactive applications.</p>
 <p align="center">↗ <strong>Open a live demo</strong> &nbsp; · &nbsp; ◈ <strong>Explore source code</strong></p>
