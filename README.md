@@ -1,29 +1,39 @@
 <!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,45:312E81,100:BE185D&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20EXCEL%20%7C%20POWER%20BI&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Nitesh Kumar — Data Analyst" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=165&color=0:090B1A,45:312E81,100:9D174D&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=DATA%20ANALYST%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SQL%20%20%E2%80%A2%20%20POWER%20BI&descAlignY=72&descSize=15&animation=fadeIn" width="100%" alt="Nitesh Kumar — Data Analyst" />
 </p>
 
 <table width="100%">
 <tr>
-<td width="52%" align="center" valign="middle">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3600&pause=1000&color=F472B6&center=true&vCenter=true&width=560&height=72&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;PYTHON+%E2%80%A2+SQL+%E2%80%A2+EXCEL+%E2%80%A2+POWER+BI;ANALYTICS+%7C+MACHINE+LEARNING" width="100%" alt="Compact animated data analytics headline" />
+<td width="62%" valign="middle" align="center">
+
+### DATA • INSIGHTS • INTELLIGENCE
+
+**Turning complex data into clear, actionable decisions.**
+
+<sub>Python&nbsp; · &nbsp;SQL&nbsp; · &nbsp;Excel&nbsp; · &nbsp;Power BI&nbsp; · &nbsp;Machine Learning</sub>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=500&height=45&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;BUILDING+DASHBOARDS+%26+ML+SOLUTIONS;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated professional tagline" />
+
 </td>
-<td width="48%" align="center" valign="middle">
-  <img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="190" alt="Nitesh Kumar — original GitHub profile photo" />
+<td width="38%" valign="middle" align="center">
+  <img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="175" alt="Nitesh Kumar profile photo" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/🚀_EXPLORE_UNIVERSE_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore Universe Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email Nitesh" /></a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore portfolio" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Contact" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-DB2777?style=for-the-badge&labelColor=111827" alt="Data and analytics" />
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-DB2777?style=flat-square&labelColor=111827" alt="Data and analytics focus" />
 </p>
 
 ---
