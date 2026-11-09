@@ -245,7 +245,7 @@ Build and evaluate predictive models for real-world use cases.
 <h3 align="center">MOST USED LANGUAGES ON GITHUB</h3>
 <p align="center"><sub>Automatically generated from the languages detected in my public repositories.</sub></p>
 <p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899" alt="Most used programming languages across public GitHub repositories" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=E5E7EB&bg_color=0D1117" alt="Most used programming languages across public GitHub repositories" />
 </p>
 
 <p align="center">
