@@ -409,3 +409,19 @@ Canva · Nov 2024
 </p>
 
 <p align="center"><strong>LEARN • BUILD • GROW • MAKE AN IMPACT</strong></p>
+
+
+---
+
+## 09 / CODLYTIC — DATA • CODE • INNOVATE
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CODLYTIC-DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20INNOVATE-06B6D4?style=for-the-badge&labelColor=111827" alt="CODLYTIC — Data, Code, Innovate" />
+</p>
+<p align="center"><strong>Dream Big · Build Better · Grow Together</strong></p>
+<p align="center">
+  <a href="https://github.com/Nitesh-Datascience/universe-portfolio">Universe Portfolio — Source Code ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/">Explore Universe Portfolio ↗</a>
+</p>
+<p align="center"><sub>Building practical projects across Data Analytics, Python, SQL, Business Intelligence and Machine Learning.</sub></p>
