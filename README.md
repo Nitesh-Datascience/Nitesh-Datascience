@@ -1,39 +1,45 @@
 <!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=165&color=0:090B1A,45:312E81,100:9D174D&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=DATA%20ANALYST%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SQL%20%20%E2%80%A2%20%20POWER%20BI&descAlignY=72&descSize=15&animation=fadeIn" width="100%" alt="Nitesh Kumar — Data Analyst" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:172554,55:581C87,80:9D174D,100:0F172A&text=NITESH%20KUMAR&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DATA%20ANALYST%20%20%7C%20%20PYTHON%20%20%7C%20%20SQL%20%20%7C%20%20AI%20%26%20ML&descAlignY=60&descSize=17&animation=twinkling&stroke=F472B6&strokeWidth=1" width="100%" alt="Neon gradient Nitesh Kumar profile banner" />
 </p>
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle" align="center">
+<td width="68%" valign="middle" align="center">
 
-### DATA • INSIGHTS • INTELLIGENCE
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2800&pause=850&color=F472B6&center=true&vCenter=true&width=560&height=42&lines=DATA+%7C+INSIGHTS+%7C+INTELLIGENCE;TURNING+DATA+INTO+DECISIONS;BUILDING+ANALYTICS+%26+AI+SOLUTIONS" alt="Animated data analytics headline" />
 
-**Turning complex data into clear, actionable decisions.**
-
-<sub>Python&nbsp; · &nbsp;SQL&nbsp; · &nbsp;Excel&nbsp; · &nbsp;Power BI&nbsp; · &nbsp;Machine Learning</sub>
+**I turn complex datasets into clear insights, smart dashboards and practical solutions.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=500&height=45&lines=DATA+ANALYST+%7C+INSIGHT+BUILDER;BUILDING+DASHBOARDS+%26+ML+SOLUTIONS;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated professional tagline" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 
 </td>
-<td width="38%" valign="middle" align="center">
-  <img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="175" alt="Nitesh Kumar profile photo" />
+<td width="32%" valign="middle" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="190" alt="Nitesh Kumar profile photo" />
+
+**NITESH KUMAR**
+
+<sub>DATA ANALYST · INDIA</sub>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore portfolio" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Contact" /></a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=090B1A" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/↗_LINKEDIN-0A66C2?style=for-the-badge&labelColor=090B1A" alt="LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-DB2777?style=for-the-badge&labelColor=090B1A" alt="Contact" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-DB2777?style=flat-square&labelColor=111827" alt="Data and analytics focus" />
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
