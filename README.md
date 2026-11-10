@@ -95,9 +95,6 @@ Explore data → uncover signals → build insight → drive decisions.
 <p align="center"><sub>Language proficiency and repository usage are best reviewed directly in the public repositories.</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/EXCEL-REPORTING-9D174D?style=for-the-badge&labelColor=10051b&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARDS-9D174D?style=for-the-badge&labelColor=10051b" alt="Power BI" />
   <img src="https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-9D174D?style=for-the-badge&labelColor=10051b&logo=pandas&logoColor=white" alt="Pandas" />
