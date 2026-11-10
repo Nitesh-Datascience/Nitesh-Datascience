@@ -1,45 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Nitesh Kumar — Futuristic Data Analytics</title>
-<desc id="desc">Original anime-inspired cyber analyst artwork with red and electric-blue neon, data charts, SQL panels and analytics dashboards.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar — CODLYTIC Cyber Analytics</title>
+<desc id="desc">Original anime-inspired male cyber analyst with red and electric-blue neon lighting, surrounded by data charts and analytics panels.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050812"/><stop offset=".55" stop-color="#10172b"/><stop offset="1" stop-color="#180b18"/></linearGradient>
- <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3158"/><stop offset="1" stop-color="#ff7b54"/></linearGradient>
- <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#168bff"/><stop offset="1" stop-color="#36e0ff"/></linearGradient>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8aa6d9" stroke-opacity=".12"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050711"/><stop offset=".52" stop-color="#10172a"/><stop offset="1" stop-color="#160914"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff3158"/><stop offset="1" stop-color="#ff8a55"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#168bff"/><stop offset="1" stop-color="#36e7ff"/></linearGradient>
+  <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182944"/><stop offset="1" stop-color="#080d1b"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#91b7e8" stroke-opacity=".11"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="22" fill="url(#grid)"/>
 <path d="M0 8H1200" stroke="url(#blue)" stroke-width="5" filter="url(#glow)"/>
-<path d="M0 340L500 245 720 290 1200 125" fill="none" stroke="url(#red)" stroke-width="2" opacity=".4"/>
-<circle cx="1000" cy="165" r="180" fill="#167dff" opacity=".08"/><circle cx="1080" cy="250" r="120" fill="#ff3158" opacity=".08"/>
+<path d="M0 360L390 260 660 310 1200 135" fill="none" stroke="url(#red)" stroke-width="2" opacity=".4"/>
+<circle cx="890" cy="190" r="220" fill="#168bff" opacity=".07"/><circle cx="1030" cy="270" r="160" fill="#ff3158" opacity=".07"/>
 <g font-family="Arial,sans-serif">
- <rect x="55" y="42" width="290" height="30" rx="15" fill="#101c32" stroke="#2776ad"/>
- <circle cx="75" cy="57" r="4" fill="#35dfff"/><text x="90" y="62" fill="#a9eaff" font-size="12" letter-spacing="2">NITESH KUMAR  /  CODLYTIC</text>
- <text x="55" y="155" fill="#f4f7ff" font-size="62" font-weight="700" letter-spacing="-2">DATA ANALYST</text>
- <text x="59" y="199" fill="url(#blue)" font-size="25" font-weight="700" letter-spacing="3">TURNING DATA INTO INTELLIGENCE</text>
- <text x="60" y="239" fill="#c5d1e8" font-size="16" letter-spacing="2">PYTHON  ·  SQL  ·  POWER BI  ·  MACHINE LEARNING</text>
- <rect x="58" y="277" width="390" height="42" rx="8" fill="#101a30" stroke="#ff4568" stroke-opacity=".8"/>
- <text x="78" y="303" fill="#ff7188" font-size="14" font-weight="700" letter-spacing="2">ANALYSE  /  VISUALISE  /  BUILD</text>
+  <rect x="55" y="40" width="285" height="30" rx="15" fill="#0b1b31" stroke="#168bff"/>
+  <circle cx="74" cy="55" r="4" fill="#36e7ff"/><text x="89" y="60" fill="#b5eaff" font-size="12" letter-spacing="2">CODLYTIC / NITESH KUMAR</text>
+  <text x="55" y="157" fill="#f4f7ff" font-size="58" font-weight="800" letter-spacing="-2">DATA ANALYST</text>
+  <text x="59" y="202" fill="url(#blue)" font-size="24" font-weight="700" letter-spacing="3">TURNING DATA INTO INTELLIGENCE</text>
+  <text x="60" y="242" fill="#d0d9ed" font-size="15" letter-spacing="2">PYTHON  •  SQL  •  POWER BI  •  MACHINE LEARNING</text>
+  <rect x="58" y="282" width="360" height="42" rx="8" fill="#101a30" stroke="#ff4568"/>
+  <text x="78" y="308" fill="#ff8399" font-size="14" font-weight="700" letter-spacing="2">ANALYSE / VISUALISE / INNOVATE</text>
 </g>
-<!-- Original stylised cyber-analyst silhouette -->
-<g transform="translate(820 48)" filter="url(#glow)">
- <path d="M130 28L210 68 185 112 95 112 62 76Z" fill="#111d37" stroke="#2b9cff" stroke-width="3"/>
- <path d="M90 72L130 38 176 74 163 118 102 118Z" fill="#182642" stroke="#ff4968" stroke-width="2"/>
- <path d="M105 85L127 78 151 85 146 104 112 104Z" fill="#050914"/>
- <path d="M117 92L132 89 145 92" fill="none" stroke="#4de3ff" stroke-width="3"/>
- <path d="M74 120L185 120 225 245 45 245Z" fill="#101a30" stroke="#248fff" stroke-width="3"/>
- <path d="M75 137L35 215 56 230 102 170M185 137L226 205 205 222 163 170" fill="none" stroke="#ff4568" stroke-width="13"/>
- <path d="M100 130L132 155 163 130" fill="none" stroke="#ff4568" stroke-width="4"/>
- <path d="M132 155V230" stroke="#36dfff" stroke-width="3"/>
+<!-- Original anime-inspired cyber analyst character -->
+<g transform="translate(760 20)" filter="url(#glow)">
+  <!-- backlight and hair -->
+  <path d="M90 100L55 36 112 63 130 8 157 61 205 22 192 83 238 68 209 132Z" fill="#0d1a31" stroke="#168bff" stroke-width="3"/>
+  <path d="M100 91L83 45 126 72 144 27 158 72 195 44 185 94 217 87 192 126Z" fill="#172c4a" stroke="#ff4568" stroke-width="2"/>
+  <!-- face -->
+  <path d="M106 100Q145 73 185 100L179 166Q151 198 119 165Z" fill="#d6e3f3" stroke="#36e7ff" stroke-width="2"/>
+  <path d="M107 110L123 101 139 112 126 122 112 120M153 112L170 101 184 109 179 121 161 122" fill="#08101f"/>
+  <path d="M116 116L132 114M160 114L177 116" stroke="#36e7ff" stroke-width="3"/>
+  <path d="M145 125L139 148 151 151" fill="none" stroke="#9ab4d0" stroke-width="2"/>
+  <path d="M132 164Q150 173 167 161" fill="none" stroke="#ff4568" stroke-width="2"/>
+  <!-- collar and cyber coat -->
+  <path d="M119 171L95 188 52 310 245 310 204 188 174 171 151 207Z" fill="url(#coat)" stroke="#168bff" stroke-width="3"/>
+  <path d="M119 173L150 207 180 173 166 223 151 242 135 223Z" fill="#0a1222" stroke="#ff4568" stroke-width="2"/>
+  <path d="M151 208V294M96 211L74 284M205 211L228 284" stroke="#36e7ff" stroke-width="3" opacity=".9"/>
+  <path d="M117 188L132 218M185 188L170 218" stroke="#ff4568" stroke-width="4"/>
+  <path d="M88 258L128 245 151 264 177 245 217 258" fill="none" stroke="#168bff" stroke-width="2"/>
+  <circle cx="151" cy="265" r="8" fill="#ff3158"/>
 </g>
-<!-- Analytics HUD -->
+<!-- HUD panels -->
 <g transform="translate(1010 48)" font-family="Arial,sans-serif">
- <rect x="0" y="0" width="145" height="80" rx="8" fill="#0a1427" stroke="#277dca"/>
- <path d="M15 60L38 45 57 51 80 26 105 34 128 14" fill="none" stroke="#36dfff" stroke-width="3"/>
- <text x="13" y="18" fill="#a9eaff" font-size="9" letter-spacing="1">LIVE INSIGHTS</text>
- <rect x="0" y="96" width="145" height="95" rx="8" fill="#0a1427" stroke="#ff4568"/>
- <path d="M20 165V140H38V165M52 165V125H70V165M84 165V145H102V165M116 165V115H134V165" fill="#ff4568" opacity=".8"/>
- <text x="13" y="114" fill="#ff9aaa" font-size="9" letter-spacing="1">DATA SIGNAL</text>
+  <rect width="150" height="82" rx="8" fill="#081426" stroke="#168bff"/>
+  <text x="12" y="18" fill="#a9eaff" font-size="9" letter-spacing="1">LIVE INSIGHTS</text>
+  <path d="M13 63L35 48 57 54 80 28 104 37 136 14" fill="none" stroke="#36e7ff" stroke-width="3"/>
+  <rect y="98" width="150" height="96" rx="8" fill="#081426" stroke="#ff4568"/>
+  <text x="12" y="116" fill="#ff9aaa" font-size="9" letter-spacing="1">DATA SIGNAL</text>
+  <path d="M18 172V145H36V172M49 172V132H67V172M80 172V151H98V172M111 172V124H130V172" fill="#ff4568" opacity=".85"/>
 </g>
-<path d="M25 365H1175" stroke="url(#red)" stroke-width="2" opacity=".8"/>
+<path d="M25 394H1175" stroke="url(#red)" stroke-width="2" opacity=".85"/>
 </svg>
