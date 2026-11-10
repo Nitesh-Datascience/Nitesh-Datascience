@@ -55,33 +55,37 @@ Explore data → uncover signals → build insight → drive decisions.
 
 ## 01 / CHARACTER FILE — ABOUT ME
 
+**DATA ANALYST | PYTHON • SQL • EXCEL • POWER BI**
+
+I turn raw data into clear insights and practical solutions. My work focuses on exploring datasets, identifying meaningful patterns, building useful dashboards, and applying machine-learning techniques where they add value.
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔴 ANALYSE / DATA INTELLIGENCE**
+**🔴 ANALYSE / FIND INSIGHTS**
 
-- Data cleaning and exploratory analysis
-- SQL querying and statistical thinking
-- Finding trends, patterns and anomalies
+- Clean, prepare, and explore datasets
+- Query data with SQL and apply statistical thinking
+- Identify trends, patterns, and unusual behaviour
 
 </td>
 <td width="50%" valign="top">
 
-**🔵 BUILD / VISUAL INTELLIGENCE**
+**🔵 BUILD / DELIVER SOLUTIONS**
 
-- Power BI and Excel dashboards
-- Python analytics and automation
-- Machine-learning model evaluation
+- Create dashboards and reports with Power BI and Excel
+- Use Python and Pandas for analysis and automation
+- Train, compare, and evaluate machine-learning models
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PRIMARY_STACK-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=090D19" alt="Primary stack" />
-<img src="https://img.shields.io/badge/INSIGHT_LAYER-POWER_BI_%7C_PANDAS_%7C_SKLEARN-168BFF?style=for-the-badge&labelColor=090D19" alt="Insight layer" />
-<img src="https://img.shields.io/badge/APP_LAYER-STREAMLIT_%7C_GITHUB-36DFFF?style=for-the-badge&labelColor=090D19" alt="App layer" />
+<img src="https://img.shields.io/badge/CORE_TOOLS-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=090D19" alt="Core tools: Python, SQL and Excel" />
+<img src="https://img.shields.io/badge/ANALYTICS-POWER_BI_%7C_PANDAS-168BFF?style=for-the-badge&labelColor=090D19" alt="Analytics: Power BI and Pandas" />
+<img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-36DFFF?style=for-the-badge&labelColor=090D19" alt="Projects: machine learning and Streamlit" />
 </p>
 
 ## 02 / TOOLKIT
