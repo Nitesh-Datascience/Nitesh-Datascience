@@ -1,36 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Nitesh Kumar — CODLYTIC</title>
-  <desc id="desc">A dark futuristic neon banner with cyan and magenta light trails, a digital grid and an analytics visualization.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050713"/><stop offset=".55" stop-color="#10102a"/><stop offset="1" stop-color="#190b26"/></linearGradient>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff3ebf"/></linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#8ba2d8" stroke-opacity=".10" stroke-width="1"/></pattern>
-    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-  <path d="M0 5H1200" stroke="url(#neon)" stroke-width="5" filter="url(#glow)"/>
-  <circle cx="1060" cy="90" r="210" fill="#8b5cf6" opacity=".09"/>
-  <circle cx="1030" cy="300" r="180" fill="#ff3ebf" opacity=".06"/>
-  <path d="M0 290C250 220 340 370 580 260S920 130 1200 190" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".28"/>
-  <g font-family="Arial, sans-serif">
-    <rect x="62" y="46" width="250" height="30" rx="15" fill="#101b32" stroke="#28506c"/>
-    <circle cx="81" cy="61" r="4" fill="#00e5ff"/>
-    <text x="96" y="66" fill="#a5f3fc" font-size="12" letter-spacing="2">CODLYTIC  /  DIGITAL LAB</text>
-    <text x="58" y="158" fill="#f7f7ff" font-size="66" font-weight="700" letter-spacing="-2">NITESH KUMAR</text>
-    <text x="63" y="205" fill="url(#neon)" font-size="28" font-weight="700" letter-spacing="4">DATA ANALYST  ·  AI BUILDER</text>
-    <text x="64" y="249" fill="#d3d8ed" font-size="20">Turning data into intelligence. Building what’s next.</text>
-    <text x="64" y="315" fill="#91a1c6" font-size="14" letter-spacing="2">PYTHON   /   SQL   /   POWER BI   /   MACHINE LEARNING</text>
-    <g transform="translate(825 55)">
-      <rect width="310" height="245" rx="18" fill="#080d1b" stroke="#34345c" stroke-width="1.5"/>
-      <rect x="16" y="16" width="278" height="30" rx="8" fill="#111a30"/>
-      <circle cx="31" cy="31" r="4" fill="#ff4fd8"/><circle cx="46" cy="31" r="4" fill="#8b5cf6"/><circle cx="61" cy="31" r="4" fill="#00e5ff"/>
-      <text x="276" y="35" fill="#9caad0" text-anchor="end" font-size="10" letter-spacing="1.5">LIVE ANALYTICS</text>
-      <g stroke="#34405e" stroke-opacity=".65"><path d="M24 86H286M24 130H286M24 174H286M24 218H286"/></g>
-      <g fill="#00d9ff" opacity=".75"><rect x="38" y="159" width="24" height="59" rx="4"/><rect x="78" y="132" width="24" height="86" rx="4"/><rect x="118" y="145" width="24" height="73" rx="4"/></g>
-      <g fill="#ff4fd8" opacity=".8"><rect x="158" y="111" width="24" height="107" rx="4"/><rect x="198" y="91" width="24" height="127" rx="4"/><rect x="238" y="68" width="24" height="150" rx="4"/></g>
-      <path d="M50 142L90 112L130 125L170 96L210 77L250 55" fill="none" stroke="#e9d5ff" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
-      <g fill="#fff"><circle cx="50" cy="142" r="4"/><circle cx="90" cy="112" r="4"/><circle cx="130" cy="125" r="4"/><circle cx="170" cy="96" r="4"/><circle cx="210" cy="77" r="4"/><circle cx="250" cy="55" r="4"/></g>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar — Futuristic Data Analytics</title>
+<desc id="desc">Original anime-inspired cyber analyst artwork with red and electric-blue neon, data charts, SQL panels and analytics dashboards.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050812"/><stop offset=".55" stop-color="#10172b"/><stop offset="1" stop-color="#180b18"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3158"/><stop offset="1" stop-color="#ff7b54"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#168bff"/><stop offset="1" stop-color="#36e0ff"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8aa6d9" stroke-opacity=".12"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+<path d="M0 8H1200" stroke="url(#blue)" stroke-width="5" filter="url(#glow)"/>
+<path d="M0 340L500 245 720 290 1200 125" fill="none" stroke="url(#red)" stroke-width="2" opacity=".4"/>
+<circle cx="1000" cy="165" r="180" fill="#167dff" opacity=".08"/><circle cx="1080" cy="250" r="120" fill="#ff3158" opacity=".08"/>
+<g font-family="Arial,sans-serif">
+ <rect x="55" y="42" width="290" height="30" rx="15" fill="#101c32" stroke="#2776ad"/>
+ <circle cx="75" cy="57" r="4" fill="#35dfff"/><text x="90" y="62" fill="#a9eaff" font-size="12" letter-spacing="2">NITESH KUMAR  /  CODLYTIC</text>
+ <text x="55" y="155" fill="#f4f7ff" font-size="62" font-weight="700" letter-spacing="-2">DATA ANALYST</text>
+ <text x="59" y="199" fill="url(#blue)" font-size="25" font-weight="700" letter-spacing="3">TURNING DATA INTO INTELLIGENCE</text>
+ <text x="60" y="239" fill="#c5d1e8" font-size="16" letter-spacing="2">PYTHON  ·  SQL  ·  POWER BI  ·  MACHINE LEARNING</text>
+ <rect x="58" y="277" width="390" height="42" rx="8" fill="#101a30" stroke="#ff4568" stroke-opacity=".8"/>
+ <text x="78" y="303" fill="#ff7188" font-size="14" font-weight="700" letter-spacing="2">ANALYSE  /  VISUALISE  /  BUILD</text>
+</g>
+<!-- Original stylised cyber-analyst silhouette -->
+<g transform="translate(820 48)" filter="url(#glow)">
+ <path d="M130 28L210 68 185 112 95 112 62 76Z" fill="#111d37" stroke="#2b9cff" stroke-width="3"/>
+ <path d="M90 72L130 38 176 74 163 118 102 118Z" fill="#182642" stroke="#ff4968" stroke-width="2"/>
+ <path d="M105 85L127 78 151 85 146 104 112 104Z" fill="#050914"/>
+ <path d="M117 92L132 89 145 92" fill="none" stroke="#4de3ff" stroke-width="3"/>
+ <path d="M74 120L185 120 225 245 45 245Z" fill="#101a30" stroke="#248fff" stroke-width="3"/>
+ <path d="M75 137L35 215 56 230 102 170M185 137L226 205 205 222 163 170" fill="none" stroke="#ff4568" stroke-width="13"/>
+ <path d="M100 130L132 155 163 130" fill="none" stroke="#ff4568" stroke-width="4"/>
+ <path d="M132 155V230" stroke="#36dfff" stroke-width="3"/>
+</g>
+<!-- Analytics HUD -->
+<g transform="translate(1010 48)" font-family="Arial,sans-serif">
+ <rect x="0" y="0" width="145" height="80" rx="8" fill="#0a1427" stroke="#277dca"/>
+ <path d="M15 60L38 45 57 51 80 26 105 34 128 14" fill="none" stroke="#36dfff" stroke-width="3"/>
+ <text x="13" y="18" fill="#a9eaff" font-size="9" letter-spacing="1">LIVE INSIGHTS</text>
+ <rect x="0" y="96" width="145" height="95" rx="8" fill="#0a1427" stroke="#ff4568"/>
+ <path d="M20 165V140H38V165M52 165V125H70V165M84 165V145H102V165M116 165V115H134V165" fill="#ff4568" opacity=".8"/>
+ <text x="13" y="114" fill="#ff9aaa" font-size="9" letter-spacing="1">DATA SIGNAL</text>
+</g>
+<path d="M25 365H1175" stroke="url(#red)" stroke-width="2" opacity=".8"/>
 </svg>
