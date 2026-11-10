@@ -1,28 +1,33 @@
-<!-- NITESH KUMAR | DATA ANALYTICS PROFILE -->
-
+<!-- CODLYTIC | FUTURISTIC DATA & AI PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="Custom neon Nitesh Kumar data analytics banner" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="CODLYTIC futuristic neon data analytics banner" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=760&height=48&lines=DATA+ANALYST+%7C+AI+BUILDER;TURNING+DATA+INTO+INTELLIGENCE;BUILDING+WHAT'S+NEXT" alt="Animated profile headline" />
+  <br/>
+  <strong>DATA · CODE · INNOVATE</strong>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=10152B" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10152B" alt="SQL"/>
+  <img src="https://img.shields.io/badge/POWER_BI-FF4FD8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=10152B" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&logo=scikitlearn&logoColor=07111F&labelColor=10152B" alt="Machine Learning"/>
+</div>
 
 <table width="100%">
 <tr>
-<td width="68%" valign="middle" align="center">
+<td width="68%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2800&pause=850&color=F472B6&center=true&vCenter=true&width=560&height=42&lines=DATA+%7C+INSIGHTS+%7C+INTELLIGENCE;TURNING+DATA+INTO+DECISIONS;BUILDING+ANALYTICS+%26+AI+SOLUTIONS" alt="Animated data analytics headline" />
+### ⚡ THE ANALYTICS MINDSET
 
-**I turn complex datasets into clear insights, smart dashboards and practical solutions.**
+I transform raw data into meaningful insights, interactive dashboards and practical AI solutions. I enjoy uncovering patterns, solving business problems and communicating results clearly.
 
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-9333EA?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+**FOCUS** · Data Analytics · Business Intelligence · Python · SQL · Machine Learning
 
 </td>
-<td width="32%" valign="middle" align="center">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="190" alt="Nitesh Kumar profile photo" />
+<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="150" alt="Current GitHub profile avatar" />
 
 **NITESH KUMAR**
 
@@ -33,13 +38,13 @@
 </table>
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=090B1A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/↗_LINKEDIN-0A66C2?style=for-the-badge&labelColor=090B1A" alt="LinkedIn" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-DB2777?style=for-the-badge&labelColor=090B1A" alt="Contact" /></a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=090B1A" alt="Explore portfolio"/></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/↗_LINKEDIN-00B8D9?style=for-the-badge&labelColor=090B1A" alt="LinkedIn"/></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-FF4FD8?style=for-the-badge&labelColor=090B1A" alt="Contact"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
