@@ -86,13 +86,13 @@ Explore data → uncover signals → build insight → drive decisions.
 
 ## 02 / TOOLKIT
 
-### 💻 GITHUB LANGUAGE SNAPSHOT
+### 💻 LANGUAGES & DEVELOPER TOOLKIT
 
-<p align="center"><strong>A visual snapshot of the languages used across my public repositories</strong></p>
+<p align="center"><strong>Core languages and tools used across my projects</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36DFFF&text_color=E5E7EB&bg_color=0D1117" width="90%" alt="Most-used languages across public GitHub repositories" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
 </p>
-<p align="center"><sub>Automatically generated from public repository language data. The chart reflects repository code, not skill level or proficiency.</sub></p>
+<p align="center"><sub>Language proficiency and repository usage are best reviewed directly in the public repositories.</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, SQL and development tools" />
@@ -229,14 +229,11 @@ Explore data → uncover signals → build insight → drive decisions.
 
 ## 04 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><strong>My GitHub activity, profile rank, and most-used programming languages.</strong></p>
+<p align="center"><strong>My GitHub activity and profile rank.</strong></p>
 
 <p align="center">
   <a href="https://github.com/Nitesh-Datascience">
     <img height="200" width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&include_all_commits=true" alt="GitHub stats with rank grade" />
-  </a>
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories">
-    <img height="200" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=E5E7EB&bg_color=0D1117" alt="Most used programming languages" />
   </a>
 </p>
 
