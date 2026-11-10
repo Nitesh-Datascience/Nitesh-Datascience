@@ -90,8 +90,7 @@ Explore data → uncover signals → build insight → drive decisions.
 
 <p align="center"><strong>A visual snapshot of the languages used across my public repositories</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="GitHub language distribution donut chart" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" width="49%" alt="Compact GitHub language distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36DFFF&text_color=E5E7EB&bg_color=0D1117" width="90%" alt="Most-used languages across public GitHub repositories" />
 </p>
 <p align="center"><sub>Automatically generated from public repository language data. The chart reflects repository code, not skill level or proficiency.</sub></p>
 
@@ -110,7 +109,7 @@ Explore data → uncover signals → build insight → drive decisions.
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-## 04 / PROJECT SHOWCASE
+## 03 / PROJECT SHOWCASE
 
 <p align="center"><strong>CODLYTIC&nbsp; / &nbsp;ANALYTICS PROJECTS</strong></p>
 <p align="center"><sub>DATA ANALYTICS &nbsp; • &nbsp; AI &nbsp; • &nbsp; MACHINE LEARNING</sub></p>
@@ -228,7 +227,7 @@ Explore data → uncover signals → build insight → drive decisions.
 
 <!-- LIVE-PROJECTS:END -->
 
-## 05 / GITHUB STATS — LIVE ACTIVITY
+## 04 / GITHUB STATS — LIVE ACTIVITY
 
 <p align="center"><strong>My GitHub activity, profile rank, and most-used programming languages.</strong></p>
 
@@ -251,7 +250,7 @@ Explore data → uncover signals → build insight → drive decisions.
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-## 06 / MY PORTFOLIOS
+## 05 / MY PORTFOLIOS
 
 <p align="center"><strong>Explore my dedicated Data Analyst portfolio, Universe portfolio, project case studies, and interactive work.</strong></p>
 <p align="center">
@@ -261,7 +260,7 @@ Explore data → uncover signals → build insight → drive decisions.
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-d946ef?style=for-the-badge&labelColor=10051b" alt="Tree portfolio" /></a>
 </p>
 
-## 07 / CERTIFICATIONS &amp; JOB SIMULATIONS
+## 06 / CERTIFICATIONS &amp; JOB SIMULATIONS
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_MY_LEARNING_DECK-09_CERTIFICATES-EC4899?style=for-the-badge&labelColor=160817" alt="My learning deck: nine certificates" />
@@ -398,7 +397,7 @@ Canva Essentials
   <a href="https://www.canva.com/">CANVA</a>
 </p>
 
-## 08 / LET'S CONNECT
+## 07 / LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff39bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10051b" alt="LinkedIn" /></a>
@@ -410,7 +409,7 @@ Canva Essentials
 
 ---
 
-## 09 / CODLYTIC — DATA • CODE • INNOVATE
+## 08 / CODLYTIC — DATA • CODE • INNOVATE
 
 <p align="center">
   <img src="https://img.shields.io/badge/CODLYTIC-DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20INNOVATE-06B6D4?style=for-the-badge&labelColor=111827" alt="CODLYTIC — Data, Code, Innovate" />
