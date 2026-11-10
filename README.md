@@ -1,111 +1,88 @@
-<!-- CODLYTIC | CYBER ANALYTICS PROFILE -->
+<!-- CODLYTIC | ANIME CYBER ANALYTICS PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="CODLYTIC futuristic neon data analytics banner" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="CODLYTIC anime cyber analytics banner" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=760&height=48&lines=DATA+ANALYST+%7C+AI+BUILDER;DATA+ANALYST+%7C+BUSINESS+INTELLIGENCE;PYTHON+%7C+SQL+%7C+POWER+BI;TURNING+DATA+INTO+DECISIONS" alt="Animated profile headline" />
-  <br/>
-  <strong>ANALYSE · VISUALISE · INNOVATE</strong>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=10152B" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10152B" alt="SQL"/>
-  <img src="https://img.shields.io/badge/POWER_BI-FF4FD8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=10152B" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&logo=scikitlearn&logoColor=07111F&labelColor=10152B" alt="Machine Learning"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=36DFFF&center=true&vCenter=true&width=850&height=48&lines=NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+RAW+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
+
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-FF3158?style=for-the-badge&labelColor=090D19" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/PYTHON-168BFF?style=for-the-badge&logo=python&logoColor=white&labelColor=090D19" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-36DFFF?style=for-the-badge&logo=postgresql&logoColor=07111F&labelColor=090D19" alt="SQL" />
+<img src="https://img.shields.io/badge/POWER_BI-FF3158?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=090D19" alt="Power BI" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-168BFF?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=090D19" alt="Machine Learning" />
+
+<br/><br/>
+
+<a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-168BFF?style=for-the-badge&labelColor=090D19" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D19" alt="LinkedIn" /></a>
+<a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-36DFFF?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=090D19" alt="Contact" /></a>
+
 </div>
 
 <table width="100%">
 <tr>
 <td width="68%" valign="middle">
 
-### ⚡ THE ANALYTICS MINDSET
+### ⚡ NITESH KUMAR / THE ANALYTICS OPERATIVE
 
-I transform raw data into meaningful insights, interactive dashboards and practical AI solutions. I enjoy uncovering patterns, solving business problems and communicating results clearly.
+**Data Analyst · Python · SQL · Business Intelligence · Machine Learning**
 
-**FOCUS** · Data Analytics · Business Intelligence · Python · SQL · Machine Learning
+I turn raw data into clear insights, interactive dashboards and practical predictive solutions. I enjoy discovering patterns, solving business problems and presenting findings that support better decisions.
+
+**CORE MISSION**  
+Explore data → uncover signals → build insight → drive decisions.
 
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="150" alt="Current GitHub profile avatar" />
+<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="132" alt="GitHub profile avatar" />
 
-**NITESH KUMAR**
+**CODLYTIC**
 
-<sub>DATA ANALYST · INDIA</sub>
+<sub>DATA • CODE • INNOVATE</sub>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=090B1A" alt="Explore portfolio"/></a>
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/↗_LINKEDIN-00B8D9?style=for-the-badge&labelColor=090B1A" alt="LinkedIn"/></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-FF4FD8?style=for-the-badge&labelColor=090B1A" alt="Contact"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=FF3158&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 01 / ABOUT ME — THE ANALYTICS MINDSET
-
-### 👋 Turning Raw Data into Clear Decisions
-
-I'm a **Data Analyst** who enjoys transforming raw data into meaningful insights, interactive dashboards, and practical machine-learning solutions. I like finding the story behind the numbers and making results easy to understand.
+## 01 / CHARACTER FILE — ABOUT ME
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔍 EXPLORE & ANALYSE**
+**🔴 ANALYSE / DATA INTELLIGENCE**
 
-Clean datasets, perform exploratory data analysis, and discover trends and patterns.
-
-</td>
-<td width="50%" valign="top">
-
-**📊 VISUALISE & COMMUNICATE**
-
-Create clear KPI reports, interactive dashboards, and data-driven stories.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🐍 PYTHON & SQL**
-
-Query, transform, and analyse data to answer practical business questions.
+- Data cleaning and exploratory analysis
+- SQL querying and statistical thinking
+- Finding trends, patterns and anomalies
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 MACHINE LEARNING**
+**🔵 BUILD / VISUAL INTELLIGENCE**
 
-Build and evaluate predictive models for real-world use cases.
+- Power BI and Excel dashboards
+- Python analytics and automation
+- Machine-learning model evaluation
 
 </td>
 </tr>
 </table>
 
-**⚡ MY TOOLKIT**
-
-<p>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<p align="center">
+<img src="https://img.shields.io/badge/PRIMARY_STACK-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=090D19" alt="Primary stack" />
+<img src="https://img.shields.io/badge/INSIGHT_LAYER-POWER_BI_%7C_PANDAS_%7C_SKLEARN-168BFF?style=for-the-badge&labelColor=090D19" alt="Insight layer" />
+<img src="https://img.shields.io/badge/APP_LAYER-STREAMLIT_%7C_GITHUB-36DFFF?style=for-the-badge&labelColor=090D19" alt="App layer" />
 </p>
-
-</td>
-</tr>
-
-
 
 ## 02 / TOOLKIT
 
