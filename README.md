@@ -1,12 +1,12 @@
-<!-- CODLYTIC | FUTURISTIC DATA & AI PROFILE -->
+<!-- CODLYTIC | CYBER ANALYTICS PROFILE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg" width="100%" alt="CODLYTIC futuristic neon data analytics banner" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=760&height=48&lines=DATA+ANALYST+%7C+AI+BUILDER;TURNING+DATA+INTO+INTELLIGENCE;BUILDING+WHAT'S+NEXT" alt="Animated profile headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=760&height=48&lines=DATA+ANALYST+%7C+AI+BUILDER;DATA+ANALYST+%7C+BUSINESS+INTELLIGENCE;PYTHON+%7C+SQL+%7C+POWER+BI;TURNING+DATA+INTO+DECISIONS" alt="Animated profile headline" />
   <br/>
-  <strong>DATA · CODE · INNOVATE</strong>
+  <strong>ANALYSE · VISUALISE · INNOVATE</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=10152B" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=10152B" alt="SQL"/>
@@ -135,7 +135,7 @@ Build and evaluate predictive models for real-world use cases.
 
 ## 04 / PROJECT SHOWCASE
 
-<p align="center"><strong>CODLYTIC&nbsp; / &nbsp;SELECTED WORK</strong></p>
+<p align="center"><strong>CODLYTIC&nbsp; / &nbsp;ANALYTICS PROJECTS</strong></p>
 <p align="center"><sub>DATA ANALYTICS &nbsp; • &nbsp; AI &nbsp; • &nbsp; MACHINE LEARNING</sub></p>
 
 <!-- LIVE-PROJECTS:START -->
