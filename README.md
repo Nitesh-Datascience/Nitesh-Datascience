@@ -215,13 +215,14 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </div></td>
 </tr>
 <tr>
-<td width="100%" colspan="3" valign="top"><div align="center">
+<td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 13 · DATA / AI</sub>
 <h3>DIWALI UNIVERSE 2026</h3>
 <p>Explore the deployed project and its source code.</p>
 <p><a href="https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
+<td width="50%"></td>
 </tr>
 </table>
 
