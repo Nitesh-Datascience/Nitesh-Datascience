@@ -53,7 +53,11 @@ Explore data → uncover signals → build insight → drive decisions.
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-01.svg" width="100%" alt="CODLYTIC 01 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 01 / CHARACTER FILE — ABOUT ME
 
@@ -92,7 +96,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-36DFFF?style=for-the-badge&labelColor=050A14" alt="Projects: machine learning and Streamlit" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-02.svg" width="100%" alt="CODLYTIC 02 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 02 / TOOLKIT
 
@@ -128,7 +136,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-03.svg" width="100%" alt="CODLYTIC 03 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 03 / PROJECT SHOWCASE
 
@@ -250,7 +262,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <!-- LIVE-PROJECTS:END -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-04.svg" width="100%" alt="CODLYTIC 04 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 04 / GITHUB STATS — LIVE ACTIVITY
 
@@ -274,7 +290,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-05.svg" width="100%" alt="CODLYTIC 05 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 05 / MY PORTFOLIOS
 
@@ -288,7 +308,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-168bff?style=for-the-badge&labelColor=071426" alt="Tree portfolio" /></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-06.svg" width="100%" alt="CODLYTIC 06 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 06 / CERTIFICATIONS &amp; JOB SIMULATIONS
 
@@ -429,7 +453,11 @@ Canva Essentials
   <a href="https://www.canva.com/">CANVA</a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-07.svg" width="100%" alt="CODLYTIC 07 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 07 / LET'S CONNECT
 
@@ -445,7 +473,11 @@ Canva Essentials
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/section-08.svg" width="100%" alt="CODLYTIC 08 neon cyber section panel" /></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+
+</div>
 
 ## 08 / CODLYTIC — DATA • CODE • INNOVATE
 
