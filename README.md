@@ -90,6 +90,18 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 ## 02 / TOOLKIT
 
+### 🌐 LANGUAGE SNAPSHOT
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff39bd&text_color=e9d5ff&bg_color=10051b" height="165" alt="Most used programming languages across public GitHub repositories" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=10051b" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=10051b" alt="SQL" />
+</p>
+
+### 💻 LANGUAGES & DEVELOPER TOOLKIT
+
 ### 💻 LANGUAGES & DEVELOPER TOOLKIT
 
 <p align="center"><strong>Core languages and tools used across my projects</strong></p>
@@ -160,7 +172,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 06 · DATA / AI</sub>
 <h3>APL Logistics Analytics</h3>
 <p>Delivery performance and delay-risk reporting; access required.</p>
-<p><a href="https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/"><img src="https://img.shields.io/badge/ACCESS_REQUIRED_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="ACCESS REQUIRED ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
+<p><a href="https://appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/"><img src="https://img.shields.io/badge/ACCESS_REQUIRED_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="ACCESS REQUIRED ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
