@@ -106,23 +106,6 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <p align="center"><img src="https://img.shields.io/badge/02-TOOLS_%2F_TECH_STACK-168BFF?style=for-the-badge&labelColor=050A14" alt="Toolkit section" /></p>
 
-### 🌐 LANGUAGE SNAPSHOT
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" height="165" alt="Most used programming languages across public GitHub repositories" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=071426" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=071426" alt="SQL" />
-</p>
-
-### 💻 LANGUAGES & DEVELOPER TOOLKIT
-
-<p align="center"><strong>Core languages and tools used across my projects</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
-</p>
-<p align="center"><sub>Language proficiency and repository usage are best reviewed directly in the public repositories.</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/EXCEL-REPORTING-071426?style=for-the-badge&labelColor=071426&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -289,6 +272,28 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
   <a href="https://github.com/Nitesh-Datascience?tab=stars">Explore my starred repositories ↗</a>
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
+
+### 🌐 LANGUAGE SNAPSHOT & DEVELOPER TOOLKIT
+
+<p align="center"><strong>Languages and tools used across my public repositories</strong></p>
+
+### 🌐 LANGUAGE SNAPSHOT
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" height="165" alt="Most used programming languages across public GitHub repositories" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=071426" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=071426" alt="SQL" />
+</p>
+
+### 💻 LANGUAGES & DEVELOPER TOOLKIT
+
+<p align="center"><strong>Core languages and tools used across my projects</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
+</p>
+<p align="center"><sub>Language proficiency and repository usage are best reviewed directly in the public repositories.</sub></p>
 
 <div align="center">
 
