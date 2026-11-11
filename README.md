@@ -37,7 +37,7 @@ Explore data → uncover signals → build insight → drive decisions.
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="132" alt="GitHub profile avatar" />
+<img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/codlytic-avatar.svg" width="132" alt="GitHub profile avatar" />
 
 **CODLYTIC**
 
@@ -93,7 +93,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 ### 🌐 LANGUAGE SNAPSHOT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff39bd&text_color=e9d5ff&bg_color=10051b" height="165" alt="Most used programming languages across public GitHub repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=tokyonight" height="165" alt="Most used programming languages across public GitHub repositories" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=10051b" alt="Python" />
