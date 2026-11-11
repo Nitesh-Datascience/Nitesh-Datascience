@@ -2,9 +2,9 @@
 <title id="title">Nitesh Kumar — CODLYTIC Cyber Analytics</title>
 <desc id="desc">Original anime-inspired male cyber analyst with red and electric-blue neon lighting, surrounded by data charts and analytics panels.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050711"/><stop offset=".52" stop-color="#10172a"/><stop offset="1" stop-color="#160914"/></linearGradient>
-  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff3158"/><stop offset="1" stop-color="#ff8a55"/></linearGradient>
-  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#168bff"/><stop offset="1" stop-color="#36e7ff"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10051b"/><stop offset=".52" stop-color="#1a0825"/><stop offset="1" stop-color="#26091f"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff39bd"/><stop offset="1" stop-color="#ff7ac8"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d946ef"/><stop offset="1" stop-color="#ff8bd1"/></linearGradient>
   <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182944"/><stop offset="1" stop-color="#080d1b"/></linearGradient>
   <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#91b7e8" stroke-opacity=".11"/></pattern>
   <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -13,42 +13,42 @@
 <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
 <path d="M0 8H1200" stroke="url(#blue)" stroke-width="5" filter="url(#glow)"/>
 <path d="M0 360L390 260 660 310 1200 135" fill="none" stroke="url(#red)" stroke-width="2" opacity=".4"/>
-<circle cx="890" cy="190" r="220" fill="#168bff" opacity=".07"/><circle cx="1030" cy="270" r="160" fill="#ff3158" opacity=".07"/>
+<circle cx="890" cy="190" r="220" fill="#d946ef" opacity=".07"/><circle cx="1030" cy="270" r="160" fill="#ff39bd" opacity=".07"/>
 <g font-family="Arial,sans-serif">
-  <rect x="55" y="40" width="285" height="30" rx="15" fill="#0b1b31" stroke="#168bff"/>
-  <circle cx="74" cy="55" r="4" fill="#36e7ff"/><text x="89" y="60" fill="#b5eaff" font-size="12" letter-spacing="2">CODLYTIC / NITESH KUMAR</text>
+  <rect x="55" y="40" width="285" height="30" rx="15" fill="#24102b" stroke="#d946ef"/>
+  <circle cx="74" cy="55" r="4" fill="#ff8bd1"/><text x="89" y="60" fill="#ffd1ed" font-size="12" letter-spacing="2">CODLYTIC / NITESH KUMAR</text>
   <text x="55" y="157" fill="#f4f7ff" font-size="58" font-weight="800" letter-spacing="-2">DATA ANALYST</text>
   <text x="59" y="202" fill="url(#blue)" font-size="24" font-weight="700" letter-spacing="3">TURNING DATA INTO INTELLIGENCE</text>
-  <text x="60" y="242" fill="#d0d9ed" font-size="15" letter-spacing="2">PYTHON  •  SQL  •  POWER BI  •  MACHINE LEARNING</text>
-  <rect x="58" y="282" width="360" height="42" rx="8" fill="#101a30" stroke="#ff4568"/>
-  <text x="78" y="308" fill="#ff8399" font-size="14" font-weight="700" letter-spacing="2">ANALYSE / VISUALISE / INNOVATE</text>
+  <text x="60" y="242" fill="#f1d9ea" font-size="15" letter-spacing="2">PYTHON  •  SQL  •  POWER BI  •  MACHINE LEARNING</text>
+  <rect x="58" y="282" width="360" height="42" rx="8" fill="#24102b" stroke="#ff4568"/>
+  <text x="78" y="308" fill="#ff9bd9" font-size="14" font-weight="700" letter-spacing="2">ANALYSE / VISUALISE / INNOVATE</text>
 </g>
 <!-- Original anime-inspired cyber analyst character -->
 <g transform="translate(760 20)" filter="url(#glow)">
   <!-- backlight and hair -->
-  <path d="M90 100L55 36 112 63 130 8 157 61 205 22 192 83 238 68 209 132Z" fill="#0d1a31" stroke="#168bff" stroke-width="3"/>
-  <path d="M100 91L83 45 126 72 144 27 158 72 195 44 185 94 217 87 192 126Z" fill="#172c4a" stroke="#ff4568" stroke-width="2"/>
+  <path d="M90 100L55 36 112 63 130 8 157 61 205 22 192 83 238 68 209 132Z" fill="#24102b" stroke="#d946ef" stroke-width="3"/>
+  <path d="M100 91L83 45 126 72 144 27 158 72 195 44 185 94 217 87 192 126Z" fill="#35143a" stroke="#ff4568" stroke-width="2"/>
   <!-- face -->
-  <path d="M106 100Q145 73 185 100L179 166Q151 198 119 165Z" fill="#d6e3f3" stroke="#36e7ff" stroke-width="2"/>
+  <path d="M106 100Q145 73 185 100L179 166Q151 198 119 165Z" fill="#d6e3f3" stroke="#ff8bd1" stroke-width="2"/>
   <path d="M107 110L123 101 139 112 126 122 112 120M153 112L170 101 184 109 179 121 161 122" fill="#08101f"/>
-  <path d="M116 116L132 114M160 114L177 116" stroke="#36e7ff" stroke-width="3"/>
+  <path d="M116 116L132 114M160 114L177 116" stroke="#ff8bd1" stroke-width="3"/>
   <path d="M145 125L139 148 151 151" fill="none" stroke="#9ab4d0" stroke-width="2"/>
   <path d="M132 164Q150 173 167 161" fill="none" stroke="#ff4568" stroke-width="2"/>
   <!-- collar and cyber coat -->
-  <path d="M119 171L95 188 52 310 245 310 204 188 174 171 151 207Z" fill="url(#coat)" stroke="#168bff" stroke-width="3"/>
+  <path d="M119 171L95 188 52 310 245 310 204 188 174 171 151 207Z" fill="url(#coat)" stroke="#d946ef" stroke-width="3"/>
   <path d="M119 173L150 207 180 173 166 223 151 242 135 223Z" fill="#0a1222" stroke="#ff4568" stroke-width="2"/>
-  <path d="M151 208V294M96 211L74 284M205 211L228 284" stroke="#36e7ff" stroke-width="3" opacity=".9"/>
+  <path d="M151 208V294M96 211L74 284M205 211L228 284" stroke="#ff8bd1" stroke-width="3" opacity=".9"/>
   <path d="M117 188L132 218M185 188L170 218" stroke="#ff4568" stroke-width="4"/>
-  <path d="M88 258L128 245 151 264 177 245 217 258" fill="none" stroke="#168bff" stroke-width="2"/>
-  <circle cx="151" cy="265" r="8" fill="#ff3158"/>
+  <path d="M88 258L128 245 151 264 177 245 217 258" fill="none" stroke="#d946ef" stroke-width="2"/>
+  <circle cx="151" cy="265" r="8" fill="#ff39bd"/>
 </g>
 <!-- HUD panels -->
 <g transform="translate(1010 48)" font-family="Arial,sans-serif">
-  <rect width="150" height="82" rx="8" fill="#081426" stroke="#168bff"/>
-  <text x="12" y="18" fill="#a9eaff" font-size="9" letter-spacing="1">LIVE INSIGHTS</text>
-  <path d="M13 63L35 48 57 54 80 28 104 37 136 14" fill="none" stroke="#36e7ff" stroke-width="3"/>
-  <rect y="98" width="150" height="96" rx="8" fill="#081426" stroke="#ff4568"/>
-  <text x="12" y="116" fill="#ff9aaa" font-size="9" letter-spacing="1">DATA SIGNAL</text>
+  <rect width="150" height="82" rx="8" fill="#1c0b20" stroke="#d946ef"/>
+  <text x="12" y="18" fill="#ffd1ed" font-size="9" letter-spacing="1">LIVE INSIGHTS</text>
+  <path d="M13 63L35 48 57 54 80 28 104 37 136 14" fill="none" stroke="#ff8bd1" stroke-width="3"/>
+  <rect y="98" width="150" height="96" rx="8" fill="#1c0b20" stroke="#ff4568"/>
+  <text x="12" y="116" fill="#ffb0df" font-size="9" letter-spacing="1">DATA SIGNAL</text>
   <path d="M18 172V145H36V172M49 172V132H67V172M80 172V151H98V172M111 172V124H130V172" fill="#ff4568" opacity=".85"/>
 </g>
 <path d="M25 394H1175" stroke="url(#red)" stroke-width="2" opacity=".85"/>
