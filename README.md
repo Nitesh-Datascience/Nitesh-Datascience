@@ -7,17 +7,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=ff3158&center=true&vCenter=true&width=850&height=48&lines=NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+RAW+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
 
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-ff3158?style=for-the-badge&labelColor=090D19" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/PYTHON-168bff?style=for-the-badge&logo=python&logoColor=white&labelColor=090D19" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-36dfff?style=for-the-badge&logo=postgresql&logoColor=07111F&labelColor=090D19" alt="SQL" />
-<img src="https://img.shields.io/badge/POWER_BI-ff3158?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=090D19" alt="Power BI" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-168bff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=090D19" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-ff3158?style=for-the-badge&labelColor=050A14" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/PYTHON-168bff?style=for-the-badge&logo=python&logoColor=white&labelColor=050A14" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-36dfff?style=for-the-badge&logo=postgresql&logoColor=07111F&labelColor=050A14" alt="SQL" />
+<img src="https://img.shields.io/badge/POWER_BI-ff3158?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=050A14" alt="Power BI" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-168bff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050A14" alt="Machine Learning" />
 
 <br/><br/>
 
-<a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-168BFF?style=for-the-badge&labelColor=090D19" alt="Explore portfolio" /></a>
-<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D19" alt="LinkedIn" /></a>
-<a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-36DFFF?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=090D19" alt="Contact" /></a>
+<a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-168BFF?style=for-the-badge&labelColor=050A14" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A14" alt="LinkedIn" /></a>
+<a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-36DFFF?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=050A14" alt="Contact" /></a>
 
 </div>
 
@@ -55,6 +55,8 @@ Explore data → uncover signals → build insight → drive decisions.
 
 ## 01 / CHARACTER FILE — ABOUT ME
 
+<p align="center"><img src="https://img.shields.io/badge/01-IDENTITY_%2F_ANALYTICS_OPERATIVE-FF3158?style=for-the-badge&labelColor=050A14" alt="Character file section" /></p>
+
 **DATA ANALYST | PYTHON • SQL • EXCEL • POWER BI**
 
 I turn raw data into clear insights and practical solutions. My work focuses on exploring datasets, identifying meaningful patterns, building useful dashboards, and applying machine-learning techniques where they add value.
@@ -83,12 +85,14 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CORE_TOOLS-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=090D19" alt="Core tools: Python, SQL and Excel" />
-<img src="https://img.shields.io/badge/ANALYTICS-POWER_BI_%7C_PANDAS-168BFF?style=for-the-badge&labelColor=090D19" alt="Analytics: Power BI and Pandas" />
-<img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-36DFFF?style=for-the-badge&labelColor=090D19" alt="Projects: machine learning and Streamlit" />
+<img src="https://img.shields.io/badge/CORE_TOOLS-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=050A14" alt="Core tools: Python, SQL and Excel" />
+<img src="https://img.shields.io/badge/ANALYTICS-POWER_BI_%7C_PANDAS-168BFF?style=for-the-badge&labelColor=050A14" alt="Analytics: Power BI and Pandas" />
+<img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-36DFFF?style=for-the-badge&labelColor=050A14" alt="Projects: machine learning and Streamlit" />
 </p>
 
 ## 02 / TOOLKIT
+
+<p align="center"><img src="https://img.shields.io/badge/02-TOOLS_%2F_TECH_STACK-168BFF?style=for-the-badge&labelColor=050A14" alt="Toolkit section" /></p>
 
 ### 🌐 LANGUAGE SNAPSHOT
 
@@ -109,11 +113,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <p align="center"><sub>Language proficiency and repository usage are best reviewed directly in the public repositories.</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXCEL-REPORTING-102B45?style=for-the-badge&labelColor=071426&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARDS-102B45?style=for-the-badge&labelColor=071426" alt="Power BI" />
-  <img src="https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-102B45?style=for-the-badge&labelColor=071426&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-102B45?style=for-the-badge&labelColor=071426&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/STREAMLIT-APP%20DEPLOYMENT-102B45?style=for-the-badge&labelColor=071426" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/EXCEL-REPORTING-071426?style=for-the-badge&labelColor=071426&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/POWER%20BI-DASHBOARDS-071426?style=for-the-badge&labelColor=071426" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-071426?style=for-the-badge&labelColor=071426&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-071426?style=for-the-badge&labelColor=071426&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/STREAMLIT-APP%20DEPLOYMENT-071426?style=for-the-badge&labelColor=071426" alt="Streamlit" />
 </p>
 
 | DATA ANALYTICS | BUSINESS INTELLIGENCE | AI / MACHINE LEARNING |
@@ -121,6 +125,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 | Data cleaning · EDA · SQL · statistics | Excel · Power BI · KPI dashboards · storytelling | Classification · clustering · forecasting · model evaluation |
 
 ## 03 / PROJECT SHOWCASE
+
+<p align="center"><img src="https://img.shields.io/badge/03-PROJECTS_%2F_LIVE_SYSTEMS-36DFFF?style=for-the-badge&labelColor=050A14" alt="Project showcase section" /></p>
 
 <p align="center"><strong>CODLYTIC&nbsp; / &nbsp;ANALYTICS PROJECTS</strong></p>
 <p align="center"><sub>DATA ANALYTICS &nbsp; • &nbsp; AI &nbsp; • &nbsp; MACHINE LEARNING</sub></p>
@@ -133,15 +139,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 01 · DATA / AI</sub>
 <h3>Care Transition Analytics</h3>
 <p>Care pipeline, transfer efficiency and placement outcomes.</p>
-<p><a href="https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 02 · DATA / AI</sub>
 <h3>Customer Churn Prediction</h3>
 <p>Customer segments, churn risk and model performance.</p>
-<p><a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -149,15 +155,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 03 · DATA / AI</sub>
 <h3>EduPro Learner Intelligence</h3>
 <p>Learner clusters, course recommendations and model comparisons.</p>
-<p><a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 04 · DATA / AI</sub>
 <h3>Financial Fraud Detection</h3>
 <p>Transaction risk, anomaly patterns and classifier comparisons.</p>
-<p><a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -165,15 +171,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 05 · DATA / AI</sub>
 <h3>FORESIGHT · NorthBay Living</h3>
 <p>Demand forecasts, inventory risks and replenishment planning.</p>
-<p><a href="https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/foresight_northbay"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/foresight_northbay"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 06 · DATA / AI</sub>
 <h3>APL Logistics Analytics</h3>
 <p>Delivery performance and delay-risk reporting; access required.</p>
-<p><a href="https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/"><img src="https://img.shields.io/badge/ACCESS_REQUIRED_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="ACCESS REQUIRED ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/"><img src="https://img.shields.io/badge/ACCESS_REQUIRED_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="ACCESS REQUIRED ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -181,15 +187,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 07 · DATA / AI</sub>
 <h3>Nassau Candy Profitability</h3>
 <p>Product economics, margin risk and division performance.</p>
-<p><a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 08 · DATA / AI</sub>
 <h3>Restaurant Growth Analytics</h3>
 <p>Explore the restaurant growth analysis dashboard.</p>
-<p><a href="https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/restaurant_growth_project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/restaurant_growth_project"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -197,15 +203,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 09 · DATA / AI</sub>
 <h3>PrivyScan AI</h3>
 <p>Document-image sensitive text detection and redaction prototype.</p>
-<p><a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a><br/><sub>Source repository not listed</sub></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a><br/><sub>Source repository not listed</sub></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 10 · DATA / AI</sub>
 <h3>CodeVenjar</h3>
 <p>Career planning web prototype; choose “Use local demo” to begin.</p>
-<p><a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/CodeVenjar"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/CodeVenjar"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -213,15 +219,15 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 11 · DATA / AI</sub>
 <h3>Nitesh Tree Portfolio</h3>
 <p>Interactive tree portfolio with project details, filters and animated letters.</p>
-<p><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
 <sub>✦ PROJECT 12 · DATA / AI</sub>
 <h3>universe portfolio</h3>
 <p>Explore the deployed project and its source code.</p>
-<p><a href="https://nitesh-datascience.github.io/Codlytic-portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://nitesh-datascience.github.io/Codlytic-portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#168BFF">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
@@ -229,8 +235,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <sub>✦ PROJECT 13 · DATA / AI</sub>
 <h3>DIWALI UNIVERSE 2026</h3>
 <p>Explore the deployed project and its source code.</p>
-<p><a href="https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
-<hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
+<p><a href="https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-FF3158?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=071426" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026"><img src="https://img.shields.io/badge/VIEW_SOURCE-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="View source code"/></a></p>
+<hr/><sub><span style="color:#FF3158">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%"></td>
 </tr>
@@ -239,6 +245,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <!-- LIVE-PROJECTS:END -->
 
 ## 04 / GITHUB STATS — LIVE ACTIVITY
+
+<p align="center"><img src="https://img.shields.io/badge/04-GITHUB_SIGNAL_%2F_ACTIVITY-FF3158?style=for-the-badge&labelColor=050A14" alt="GitHub stats section" /></p>
 
 <p align="center"><strong>My GitHub activity and profile rank.</strong></p>
 
@@ -260,6 +268,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 ## 05 / MY PORTFOLIOS
 
+<p align="center"><img src="https://img.shields.io/badge/05-PORTFOLIO_%2F_SHOWREEL-168BFF?style=for-the-badge&labelColor=050A14" alt="Portfolio section" /></p>
+
 <p align="center"><strong>Explore my dedicated Data Analyst portfolio, Universe portfolio, project case studies, and interactive work.</strong></p>
 <p align="center">
   <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE%20PORTFOLIO-EXPLORE%20MY%20WORK-36DFFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=071426" alt="Universe Portfolio" /></a>
@@ -269,6 +279,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </p>
 
 ## 06 / CERTIFICATIONS &amp; JOB SIMULATIONS
+
+<p align="center"><img src="https://img.shields.io/badge/06-CERTIFICATIONS_%2F_CREDENTIALS-36DFFF?style=for-the-badge&labelColor=050A14" alt="Certifications section" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_MY_LEARNING_DECK-09_CERTIFICATES-FF3158?style=for-the-badge&labelColor=071426" alt="My learning deck: nine certificates" />
@@ -305,7 +317,7 @@ Introduction to Data Science Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♦_03-TATA-36DFFF?style=for-the-badge&labelColor=102B35" alt="Tata card" />
+<img src="https://img.shields.io/badge/♦_03-TATA-36DFFF?style=for-the-badge&labelColor=071426" alt="Tata card" />
 
 **GENERATIVE AI**
 
@@ -320,7 +332,7 @@ GenAI Powered Data Analytics Job Simulation
 <tr>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♣_04-AWS-FF6B45?style=for-the-badge&labelColor=25151A" alt="AWS card" />
+<img src="https://img.shields.io/badge/♣_04-AWS-FF3158?style=for-the-badge&labelColor=071426" alt="AWS card" />
 
 **CLOUD ARCHITECTURE**
 
@@ -333,7 +345,7 @@ Solutions Architecture Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♠_05-FORAGE_ACADEMY-168BFF?style=for-the-badge&labelColor=0B2340" alt="Forage Academy card" />
+<img src="https://img.shields.io/badge/♠_05-FORAGE_ACADEMY-168BFF?style=for-the-badge&labelColor=071426" alt="Forage Academy card" />
 
 **DATA LABELING**
 
@@ -346,7 +358,7 @@ Data Labeling Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♥_06-MICROSOFT_EXCEL_+_AI-168BFF?style=for-the-badge&labelColor=12301F" alt="Microsoft Excel and AI card" />
+<img src="https://img.shields.io/badge/♥_06-MICROSOFT_EXCEL_+_AI-168BFF?style=for-the-badge&labelColor=071426" alt="Microsoft Excel and AI card" />
 
 **EXCEL + AI**
 
@@ -361,7 +373,7 @@ Self-Learning Masterclass
 <tr>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♦_07-IBM_SKILLSBUILD-168BFF?style=for-the-badge&labelColor=102B45" alt="IBM SkillsBuild card" />
+<img src="https://img.shields.io/badge/♦_07-IBM_SKILLSBUILD-168BFF?style=for-the-badge&labelColor=071426" alt="IBM SkillsBuild card" />
 
 **ARTIFICIAL INTELLIGENCE**
 
@@ -372,7 +384,7 @@ Artificial Intelligence Fundamentals
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♣_08-DELOITTE-FF3158?style=for-the-badge&labelColor=35101B" alt="Deloitte card" />
+<img src="https://img.shields.io/badge/♣_08-DELOITTE-FF3158?style=for-the-badge&labelColor=071426" alt="Deloitte card" />
 
 **DATA ANALYTICS**
 
@@ -385,7 +397,7 @@ Data Analytics Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♠_09-CANVA-36DFFF?style=for-the-badge&labelColor=102B45" alt="Canva card" />
+<img src="https://img.shields.io/badge/♠_09-CANVA-36DFFF?style=for-the-badge&labelColor=071426" alt="Canva card" />
 
 **CREATIVE DESIGN**
 
@@ -407,6 +419,8 @@ Canva Essentials
 
 ## 07 / LET'S CONNECT
 
+<p align="center"><img src="https://img.shields.io/badge/07-CONNECT_%2F_COLLABORATE-FF3158?style=for-the-badge&labelColor=050A14" alt="Connect section" /></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071426" alt="LinkedIn" /></a>
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-168bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071426" alt="Email" /></a>
@@ -418,6 +432,8 @@ Canva Essentials
 ---
 
 ## 08 / CODLYTIC — DATA • CODE • INNOVATE
+
+<p align="center"><img src="https://img.shields.io/badge/08-CODLYTIC_%2F_MISSION-168BFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC mission section" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CODLYTIC-DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20INNOVATE-36DFFF?style=for-the-badge&labelColor=071426" alt="CODLYTIC — Data, Code, Innovate" />
