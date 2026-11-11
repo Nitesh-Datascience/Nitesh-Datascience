@@ -37,7 +37,7 @@ Explore data → uncover signals → build insight → drive decisions.
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/codlytic-avatar.svg" width="132" alt="GitHub profile avatar" />
+<img src="https://avatars.githubusercontent.com/u/220066242?v=4" width="132" alt="GitHub profile avatar" />
 
 **CODLYTIC**
 
