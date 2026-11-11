@@ -257,11 +257,12 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <p align="center"><strong>My GitHub activity and profile rank.</strong></p>
 
-<p align="center">
-  <a href="https://github.com/Nitesh-Datascience">
-    <img height="200" width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=FF3158&icon_color=FF3158&include_all_commits=true" alt="GitHub stats with rank grade" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>GitHub Activity &amp; Profile Rank</strong><br/><a href="https://github.com/Nitesh-Datascience"><img height="200" width="100%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=FF3158&icon_color=FF3158&include_all_commits=true" alt="GitHub stats with rank grade" /></a></td>
+    <td width="50%" align="center"><strong>Top Languages in Public Repositories</strong><br/><img height="200" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" alt="Top languages across public GitHub repositories" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=FF3158&fire=FF3158&currStreakLabel=FF3158" alt="GitHub contribution streak" />
@@ -273,15 +274,8 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-### 🌐 LANGUAGE SNAPSHOT & DEVELOPER TOOLKIT
+### 💻 DEVELOPER TOOLKIT
 
-<p align="center"><strong>Languages and tools used across my public repositories</strong></p>
-
-### 🌐 LANGUAGE SNAPSHOT
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" height="165" alt="Most used programming languages across public GitHub repositories" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=071426" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=071426" alt="SQL" />
