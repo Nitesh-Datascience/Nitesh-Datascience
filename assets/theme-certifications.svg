@@ -1,16 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".55" stop-color="#0b1e32"/><stop offset="1" stop-color="#101b2b"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#31c9e8" stop-opacity="0"/><stop offset=".35" stop-color="#31c9e8"/><stop offset=".78" stop-color="#d6a85f"/><stop offset="1" stop-color="#d6a85f" stop-opacity="0"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#23b9d7" stop-opacity=".24"/><stop offset="1" stop-color="#23b9d7" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030817"/><stop offset=".48" stop-color="#071b35"/><stop offset="1" stop-color="#11112b"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00eaff" stop-opacity="0"/><stop offset=".22" stop-color="#00eaff"/><stop offset=".68" stop-color="#8a5cff"/><stop offset=".9" stop-color="#ffbd59"/><stop offset="1" stop-color="#ffbd59" stop-opacity="0"/></linearGradient>
+ <radialGradient id="cyanGlow"><stop stop-color="#00dfff" stop-opacity=".42"/><stop offset="1" stop-color="#00dfff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violetGlow"><stop stop-color="#8b5cff" stop-opacity=".30"/><stop offset="1" stop-color="#8b5cff" stop-opacity="0"/></radialGradient>
+ <filter id="textGlow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="lineGlow" x="-20%" y="-400%" width="140%" height="900%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="112" rx="14" fill="url(#bg)"/>
-<ellipse cx="930" cy="42" rx="340" ry="120" fill="url(#glow)"/>
-<path d="M0 88H1200 M0 94H1200" stroke="#5d829d" stroke-opacity=".16"/>
-<path d="M24 0V112 M1176 0V112" stroke="#5d829d" stroke-opacity=".15"/>
-<path d="M36 77H1164" stroke="url(#line)" stroke-width="2"/>
-<circle cx="1100" cy="28" r="2" fill="#d6a85f"/><circle cx="1060" cy="54" r="1.5" fill="#55d5ed"/><circle cx="1138" cy="65" r="1" fill="#55d5ed"/>
-<text x="58" y="59" fill="#e9f4ff" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="3">CERTIFICATIONS &amp; JOB SIMULATIONS</text>
-<text x="58" y="91" fill="#7daac4" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="4">CODLYTIC  /  DATA • CODE • INNOVATE</text>
-<rect x="24" y="18" width="4" height="50" rx="2" fill="#39c6df"/>
+<ellipse cx="340" cy="45" rx="460" ry="120" fill="url(#cyanGlow)"/>
+<ellipse cx="1000" cy="30" rx="360" ry="130" fill="url(#violetGlow)"/>
+<path d="M0 10H1200 M0 103H1200" stroke="#3b7ba8" stroke-opacity=".22"/>
+<path d="M24 0V112 M1176 0V112" stroke="#58dfff" stroke-opacity=".25"/>
+<path d="M36 77H1164" stroke="url(#neon)" stroke-width="5" opacity=".65" filter="url(#lineGlow)"/>
+<path d="M36 77H1164" stroke="url(#neon)" stroke-width="1.5"/>
+<circle cx="1100" cy="28" r="3" fill="#ffd17b" filter="url(#textGlow)"/><circle cx="1060" cy="54" r="2.5" fill="#55edff" filter="url(#textGlow)"/><circle cx="1138" cy="65" r="2" fill="#a98bff" filter="url(#textGlow)"/>
+<text x="58" y="59" fill="#f2fbff" stroke="#70eaff" stroke-opacity=".5" stroke-width=".35" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="3" filter="url(#textGlow)">CERTIFICATIONS &amp; JOB SIMULATIONS</text>
+<text x="58" y="96" fill="#b9eaff" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="4" filter="url(#textGlow)">CODLYTIC  /  DATA • CODE • INNOVATE</text>
+<rect x="24" y="18" width="4" height="50" rx="2" fill="#28e7ff" filter="url(#textGlow)"/>
 </svg>
