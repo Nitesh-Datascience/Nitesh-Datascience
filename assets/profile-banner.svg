@@ -30,9 +30,28 @@
 <circle cx="145" cy="302" r="10" fill="#d6a85f"/><path d="M135 302H155M145 292V312" stroke="#fff" stroke-width="2"/>
 </g>
 <g opacity=".45" stroke="#55c7b5" stroke-width="1.5" fill="none"><path d="M20 70H75V95M20 330H75V305M1180 70H1125V95M1180 330H1125V305"/><path d="M400 20H470M730 20H800M400 360H470M730 360H800"/></g>
+<!-- Subtle animated analytics charts behind the name and tagline -->
+<g transform="translate(420 76)" opacity=".15" fill="none" stroke-linecap="round">
+ <path d="M0 0V260M90 0V260M180 0V260M270 0V260M360 0V260M450 0V260M540 0V260M0 52H555M0 104H555M0 156H555M0 208H555" stroke="#65cfff" stroke-width="1" stroke-dasharray="3 8"/>
+ <path d="M0 194L48 174 91 188 137 130 182 148 228 102 273 120 320 78 365 95 410 54 456 72 505 24 555 42" stroke="#55c7b5" stroke-width="3" stroke-dasharray="12 7">
+  <animate attributeName="stroke-dashoffset" values="0;-76" dur="8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".45;.95;.45" dur="5s" repeatCount="indefinite"/>
+ </path>
+ <path d="M0 225L55 211 105 221 155 181 205 195 255 165 305 177 355 138 405 151 455 119 505 128 555 92" stroke="#4f8cff" stroke-width="2" stroke-dasharray="5 9">
+  <animate attributeName="stroke-dashoffset" values="0;70" dur="10s" repeatCount="indefinite"/>
+ </path>
+ <g fill="#8bdcff" stroke="none">
+  <rect x="16" y="236" width="13" height="24"><animate attributeName="height" values="24;42;24" dur="2.2s" repeatCount="indefinite"/><animate attributeName="y" values="236;218;236" dur="2.2s" repeatCount="indefinite"/></rect>
+  <rect x="66" y="226" width="13" height="34"><animate attributeName="height" values="34;17;34" dur="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="226;243;226" dur="2.7s" repeatCount="indefinite"/></rect>
+  <rect x="116" y="232" width="13" height="28"><animate attributeName="height" values="28;46;28" dur="1.9s" repeatCount="indefinite"/><animate attributeName="y" values="232;214;232" dur="1.9s" repeatCount="indefinite"/></rect>
+  <rect x="166" y="216" width="13" height="44"><animate attributeName="height" values="44;25;44" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="216;235;216" dur="2.4s" repeatCount="indefinite"/></rect>
+  <rect x="216" y="228" width="13" height="32"><animate attributeName="height" values="32;50;32" dur="2.1s" repeatCount="indefinite"/><animate attributeName="y" values="228;210;228" dur="2.1s" repeatCount="indefinite"/></rect>
+  <rect x="266" y="220" width="13" height="40"><animate attributeName="height" values="40;22;40" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="220;238;220" dur="2.5s" repeatCount="indefinite"/></rect>
+ </g>
+</g>
 <g font-family="Trebuchet MS, Arial, sans-serif">
  <text x="440" y="62" fill="#9bdfff" font-size="14" font-weight="700" letter-spacing="3">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
- <text x="438" y="137" fill="#ffffff" font-size="62" font-weight="900" letter-spacing="2.2" filter="url(#glow)">NITESH KUMAR</text>
+ <text x="438" y="137" fill="#ffffff" font-size="70" font-weight="900" letter-spacing="2.4" filter="url(#glow)">NITESH KUMAR</text>
  <path d="M440 153H825" stroke="url(#neon)" stroke-width="2" opacity=".85"/>
  <text x="438" y="225" fill="#9bdfff" font-size="23" font-weight="700" letter-spacing="2.2">` CODLYTIC `</text>
  <text x="440" y="284" fill="#d5edff" font-size="15" font-weight="700" letter-spacing="2.5">PYTHON  |  SQL  |  DATA ANALYTICS  |  AI / ML</text>
