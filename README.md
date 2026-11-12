@@ -12,15 +12,14 @@
   <a href="mailto:ns0762005@gmail.com">Email</a>
 </p>
 
----
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-about.svg?v=3" width="100%" alt="About" /></h2>
+## 👋 ABOUT ME
 
 I turn data into clear insights and practical solutions. My work spans data cleaning, exploratory analysis, dashboards, business intelligence, and applied machine learning. I enjoy finding patterns, explaining what they mean, and building tools that help people make better decisions.
 
 **My approach:** Explore the data → find the signal → communicate the insight → support action.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-toolkit.svg?v=3" width="100%" alt="Technical toolkit" /></h2>
+## 🧰 TECHNICAL TOOLKIT
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
@@ -37,7 +36,7 @@ I turn data into clear insights and practical solutions. My work spans data clea
 |:--|:--|:--|
 | Data cleaning · EDA · SQL · Statistics | Excel · Power BI · KPI dashboards · Reporting | Classification · Clustering · Forecasting · Model evaluation |
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-projects.svg?v=3" width="100%" alt="Selected projects" /></h2>
+## 🚀 FEATURED PROJECTS
 
 A collection of analytics dashboards, predictive models, and interactive applications.
 
@@ -57,7 +56,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
 | **universe portfolio** | Explore the deployed project and its source code. | [Live demo](https://nitesh-datascience.github.io/Codlytic-portfolio/) · [Source](https://github.com/Nitesh-Datascience/universe-portfolio) |
 | **DIWALI UNIVERSE 2026** | Explore the deployed project and its source code. | [Live demo](https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/) · [Source](https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026) |
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=3" width="100%" alt="GitHub activity" /></h2>
+## 📊 GITHUB ACTIVITY
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=D6A85F&icon_color=D6A85F&include_all_commits=true" alt="GitHub contribution statistics and rank" />
@@ -71,7 +70,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
   <a href="https://github.com/Nitesh-Datascience?tab=stars">Starred repositories</a>
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=3" width="100%" alt="Certifications and job simulations" /></h2>
+## 🏆 CERTIFICATIONS & JOB SIMULATIONS
 
 | Organisation | Credential | Issued |
 |:--|:--|:--|
@@ -85,7 +84,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
 | Deloitte · Forage | Data Analytics Job Simulation · `H9GpEgwr3scGTJKGZ` | Jul 2025 |
 | Canva | Canva Essentials · `74b50f` | Nov 2024 |
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-more.svg?v=3" width="100%" alt="More from CODLYTIC" /></h2>
+## 🌌 EXPLORE MORE
 
 <p align="center">
   <a href="https://nitesh-datascience.github.io/universe-portfolio/">Universe Portfolio</a> &nbsp;·&nbsp;
@@ -94,7 +93,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/">Tree portfolio</a>
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-connect.svg?v=3" width="100%" alt="Let's connect" /></h2>
+## 🤝 LET’S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
