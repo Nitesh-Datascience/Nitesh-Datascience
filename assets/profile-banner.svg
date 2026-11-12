@@ -1,48 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Nitesh Kumar — CODLYTIC Data Analyst</title>
-<desc id="desc">Modern data analytics profile banner with an anime-inspired male character based on Nitesh's uploaded portrait, featuring dark hair, moustache, forehead tilak and a futuristic hoodie.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar — CODLYTIC</title>
+<desc id="desc">Neon technology banner for Nitesh Kumar and CODLYTIC.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020611"/><stop offset=".55" stop-color="#071426"/><stop offset="1" stop-color="#100719"/></linearGradient>
  <linearGradient id="neon"><stop stop-color="#4f8cff"/><stop offset=".5" stop-color="#55c7b5"/><stop offset="1" stop-color="#d6a85f"/></linearGradient>
- <linearGradient id="metal"><stop stop-color="#fff"/><stop offset=".45" stop-color="#8bdcff"/><stop offset="1" stop-color="#d6a85f"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#55c7b5" stroke-opacity=".13"/></pattern><pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#9beeff" stroke-opacity=".10" stroke-width="1"/></pattern>
- </defs>
- <rect width="1200" height="420" rx="20" fill="url(#bg)"/><rect width="1200" height="420" rx="20" fill="url(#grid)"/><rect width="1200" height="420" rx="20" fill="url(#scan)" opacity=".65"><animate attributeName="opacity" values=".25;.75;.25" dur="4s" repeatCount="indefinite"/></rect>
- <g fill="#dff6ff"><circle cx="510" cy="32" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="690" cy="80" r="1.5"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="50" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="720" cy="350" r="1.5"/><circle cx="450" cy="310" r="1.2"/></g>
- <path d="M0 8H1200M0 410H1200" stroke="url(#neon)" stroke-width="4" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="20 18;70 12;20 18" dur="5s" repeatCount="indefinite"/></path>
- <circle cx="220" cy="210" r="175" fill="none" stroke="#4f8cff" stroke-width="3" opacity=".85" filter="url(#glow)"><animate attributeName="r" values="168;178;168" dur="4s" repeatCount="indefinite"/></circle>
- <circle cx="220" cy="210" r="158" fill="none" stroke="#d6a85f" stroke-width="2" stroke-dasharray="8 13"><animateTransform attributeName="transform" type="rotate" from="0 220 210" to="360 220 210" dur="24s" repeatCount="indefinite"/></circle>
- <!-- Stylized portrait: dark swept hair, warm face, moustache, tilak and cyber hoodie -->
- <g transform="translate(105 58)" filter="url(#glow)">
-  <path d="M55 115Q43 28 130 22Q215 15 228 105L211 148 69 150Z" fill="#080d19" stroke="#4f8cff" stroke-width="3"/>
-  <path d="M58 91Q80 5 152 26Q190 20 216 77Q173 57 144 68Q99 54 58 91Z" fill="#171a27" stroke="#d6a85f" stroke-width="2"/>
-  <path d="M82 104Q78 77 105 70Q151 50 187 77Q213 98 199 166Q188 220 143 225Q95 214 82 166Z" fill="#c98769" stroke="#55c7b5" stroke-width="2"/>
-  <path d="M91 124Q111 113 130 124M158 124Q177 113 193 124" fill="none" stroke="#151827" stroke-width="7" stroke-linecap="round"/>
-  <path d="M101 130L129 130M160 130L187 130" stroke="#55c7b5" stroke-width="3"/>
-  <path d="M145 132L139 160 151 163" fill="none" stroke="#995f4d" stroke-width="3"/>
-  <path d="M119 175Q143 164 168 175Q156 195 132 190Z" fill="#17101a" stroke="#111" stroke-width="2"/>
-  <path d="M139 78L146 97 153 78" fill="#d6a85f"/><path d="M146 81L146 96" stroke="#fff" stroke-width="3"/>
-  <path d="M86 211L55 232 25 345H250L220 232 181 211 145 250Z" fill="#091528" stroke="#4f8cff" stroke-width="4"/>
-  <path d="M111 218L145 250 180 218 164 282 145 302 126 282Z" fill="#111b2d" stroke="#d6a85f" stroke-width="3"/>
-  <path d="M145 252V336M72 265L55 327M215 265L235 327" stroke="#55c7b5" stroke-width="3"/>
-  <circle cx="145" cy="302" r="10" fill="#d6a85f"/><path d="M135 302H155M145 292V312" stroke="#fff" stroke-width="2"/>
- </g>
- <g opacity=".45" stroke="#55c7b5" stroke-width="1.5" fill="none"><path d="M20 70H75V95M20 350H75V325M1180 70H1125V95M1180 350H1125V325"/><path d="M400 20H470M730 20H800M400 400H470M730 400H800"/></g><g font-family="Arial,sans-serif">
-  <text x="440" y="65" fill="#9bdfff" font-size="16" letter-spacing="4">DATA ANALYTICS / BUSINESS INTELLIGENCE</text>
-  <text x="435" y="137" fill="#fff" font-size="33" font-weight="800" letter-spacing="1">NITESH KUMAR</text><text x="438" y="158" fill="#55c7b5" font-size="10" letter-spacing="4">IDENTITY VERIFIED // CODLYTIC NETWORK</text>
-  <text x="430" y="218" fill="url(#metal)" font-size="78" font-weight="900" letter-spacing="3" filter="url(#glow)">CODLYTIC</text>
-  <text x="440" y="255" fill="#55c7b5" font-size="20" font-weight="700" letter-spacing="4">( DATA ANALYST )</text>
-  
-  <text x="440" y="342" fill="#d5edff" font-size="17" letter-spacing="2">PYTHON  •  SQL  •  DATA ANALYTICS  •  AI / ML</text>
-  <text x="440" y="380" fill="#8ab9d8" font-size="14" letter-spacing="3">CODE  •  ANALYSE  •  INNOVATE  •  BUILD</text>
- </g>
- <g transform="translate(1010 90)" font-family="Arial,sans-serif">
-  <rect width="155" height="92" rx="10" fill="#071426" stroke="#4f8cff" stroke-width="2"/>
-  <text x="14" y="22" fill="#b8eaff" font-size="11" letter-spacing="2">DATA SIGNAL</text>
-  <path d="M14 73L38 54 61 63 85 37 108 47 140 25" fill="none" stroke="#55c7b5" stroke-width="4"><animate attributeName="stroke-dasharray" values="2 8;18 5;2 8" dur="3s" repeatCount="indefinite"/></path>
-  <rect y="110" width="155" height="105" rx="10" fill="#071426" stroke="#d6a85f" stroke-width="2"/>
-  <text x="14" y="133" fill="#e4bd78" font-size="11" letter-spacing="2">BUILD / DEPLOY</text>
-  <g fill="#d6a85f"><rect x="16" y="166" width="18" height="32"><animate attributeName="height" values="32;48;32" dur="2s" repeatCount="indefinite"/></rect><rect x="48" y="153" width="18" height="45"><animate attributeName="height" values="45;27;45" dur="2.4s" repeatCount="indefinite"/></rect><rect x="80" y="174" width="18" height="24"><animate attributeName="height" values="24;42;24" dur="1.8s" repeatCount="indefinite"/></rect><rect x="112" y="145" width="18" height="53"><animate attributeName="height" values="53;35;53" dur="2.2s" repeatCount="indefinite"/></rect></g>
- </g>
-</svg>
+ <linearGradient id="metal"><stop stop-color="#fff"/><stop offset=".48" stop-color="#8bdcff"/><stop offset="1" stop-color="#55c7b5"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#55c7b5" stroke-opacity=".13"/></pattern>
+ <pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#9beeff" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/><rect width="1200" height="380" rx="20" fill="url(#scan)" opacity=".55"><animate attributeName="opacity" values=".2;.65;.2" dur="4s" repeatCount="indefinite"/></rect>
+<g fill="#dff6ff"><circle cx="510" cy="32" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="690" cy="80" r="1.5"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="50" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="720" cy="330" r="1.5"/><circle cx="450" cy="300" r="1.2"/></g>
+<path d="M0 8H1200M0 370H1200" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="20 18;70 12;20 18" dur="5s" repeatCount="indefinite"/></path>
+<circle cx="220" cy="190" r="158" fill="none" stroke="#4f8cff" stroke-width="3" opacity=".85" filter="url(#glow)"><animate attributeName="r" values="152;161;152" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="220" cy="190" r="143" fill="none" stroke="#55c7b5" stroke-width="2" stroke-dasharray="8 13"><animateTransform attributeName="transform" type="rotate" from="0 220 190" to="360 220 190" dur="24s" repeatCount="indefinite"/></circle>
+<!-- Existing illustrated portrait retained until the real-photo cutout is composited -->
+<g transform="translate(105 38)" filter="url(#glow)">
+<path d="M55 115Q43 28 130 22Q215 15 228 105L211 148 69 150Z" fill="#080d19" stroke="#4f8cff" stroke-width="3"/>
+<path d="M58 91Q80 5 152 26Q190 20 216 77Q173 57 144 68Q99 54 58 91Z" fill="#171a27" stroke="#d6a85f" stroke-width="2"/>
+<path d="M82 104Q78 77 105 70Q151 50 187 77Q213 98 199 166Q188 220 143 225Q95 214 82 166Z" fill="#c98769" stroke="#55c7b5" stroke-width="2"/>
+<path d="M91 124Q111 113 130 124M158 124Q177 113 193 124" fill="none" stroke="#151827" stroke-width="7" stroke-linecap="round"/>
+<path d="M101 130L129 130M160 130L187 130" stroke="#55c7b5" stroke-width="3"/>
+<path d="M145 132L139 160 151 163" fill="none" stroke="#995f4d" stroke-width="3"/>
+<path d="M119 175Q143 164 168 175Q156 195 132 190Z" fill="#17101a" stroke="#111" stroke-width="2"/>
+<path d="M139 78L146 97 153 78" fill="#d6a85f"/><path d="M146 81L146 96" stroke="#fff" stroke-width="3"/>
+<path d="M86 211L55 232 25 345H250L220 232 181 211 145 250Z" fill="#091528" stroke="#4f8cff" stroke-width="4"/>
+<path d="M111 218L145 250 180 218 164 282 145 302 126 282Z" fill="#111b2d" stroke="#d6a85f" stroke-width="3"/>
+<path d="M145 252V336M72 265L55 327M215 265L235 327" stroke="#55c7b5" stroke-width="3"/>
+<circle cx="145" cy="302" r="10" fill="#d6a85f"/><path d="M135 302H155M145 292V312" stroke="#fff" stroke-width="2"/>
+</g>
+<g opacity=".45" stroke="#55c7b5" stroke-width="1.5" fill="none"><path d="M20 70H75V95M20 330H75V305M1180 70H1125V95M1180 330H1125V305"/><path d="M400 20H470M730 20H800M400 360H470M730 360H800"/></g>
+<g font-family="Arial,sans-serif">
+ <text x="440" y="62" fill="#9bdfff" font-size="15" font-weight="700" letter-spacing="3.5">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
+ <text x="438" y="137" fill="#ffffff" font-size="48" font-weight="800" letter-spacing="1.5" filter="url(#glow)">NITESH KUMAR</text>
+ <path d="M440 153H825" stroke="url(#neon)" stroke-width="2" opacity=".85"/>
+ <text x="438" y="225" fill="url(#metal)" font-size="56" font-weight="900" letter-spacing="3" filter="url(#glow)">CODLYTIC</text>
+ <text x="440" y="284" fill="#d5edff" font-size="16" font-weight="700" letter-spacing="2.2">PYTHON  |  SQL  |  DATA ANALYTICS  |  AI / ML</text>
+ <text x="440" y="321" fill="#8ab9d8" font-size="14" font-weight="600" letter-spacing="2.5">CODE  /  ANALYSE  /  INNOVATE  /  BUILD</text>
+</g>
+<g transform="translate(1010 80)" font-family="Arial,sans-serif">
+<rect width="155" height="92" rx="10" fill="#071426" stroke="#4f8cff" stroke-width="2"/>
+<text x="14" y="22" fill="#b8eaff" font-size="11" font-weight="700" letter-spacing="2">DATA SIGNAL</text>
+<path d="M14 73L38 54 61 63 85 37 108 47 140 25" fill="none" stroke="#55c7b5" stroke-width="4"><animate attributeName="stroke-dasharray" values="2 8;18 5;2 8" dur="3s" repeatCount="indefinite"/></path>
+<rect y="110" width="155" height="105" rx="10" fill="#071426" stroke="#d6a85f" stroke-width="2"/>
+<text x="14" y="133" fill="#e4bd78" font-size="11" font-weight="700" letter-spacing="2">BUILD / DEPLOY</text>
+<g fill="#d6a85f"><rect x="16" y="166" width="18" height="32"><animate attributeName="height" values="32;48;32" dur="2s" repeatCount="indefinite"/></rect><rect x="48" y="153" width="18" height="45"><animate attributeName="height" values="45;27;45" dur="2.4s" repeatCount="indefinite"/></rect><rect x="80" y="174" width="18" height="24"><animate attributeName="height" values="24;42;24" dur="1.8s" repeatCount="indefinite"/></rect><rect x="112" y="145" width="18" height="53"><animate attributeName="height" values="53;35;53" dur="2.2s" repeatCount="indefinite"/></rect></g>
+</g></svg>
