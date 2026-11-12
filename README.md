@@ -1,6 +1,6 @@
 <!-- CODLYTIC | DATA ANALYTICS PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=7" width="100%" alt="Animated CODLYTIC data analytics character banner featuring Nitesh Kumar" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=8" width="100%" alt="Animated CODLYTIC data analytics character banner featuring Nitesh Kumar" />
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/CODLYTIC_PROFILE-ANALYTICS_ONLINE-55C7B5?style=for-the-badge&labelColor=050A14" alt="CODLYTIC network system online" /> <img src="https://img.shields.io/badge/ANALYTICS_PROFILE-READY-D6A85F?style=for-the-badge&labelColor=050A14" alt="Neon mode active" /></p>
