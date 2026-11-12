@@ -31,7 +31,7 @@
 
 **Data Analyst · Python · SQL · Business Intelligence · Machine Learning**
 
-I turn raw data into clear insights, interactive dashboards and practical predictive solutions. I enjoy discovering patterns, solving business problems and presenting findings that support better decisions.
+I transform raw data into meaningful insights, interactive dashboards, and practical predictive solutions. I enjoy uncovering patterns, solving business challenges, and communicating findings that support confident, data-informed decisions.
 
 **CORE MISSION**  
 Explore data → uncover signals → build insight → drive decisions.
@@ -61,13 +61,13 @@ Explore data → uncover signals → build insight → drive decisions.
 
 </div>
 
-## 01 / ABOUT ME
+<h2 align="center">01&nbsp; / &nbsp;ABOUT ME</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/01-ABOUT_%2F_DATA_ANALYTICS-D6A85F?style=for-the-badge&labelColor=050A14" alt="Character file section" /></p>
 
 **DATA ANALYST | PYTHON • SQL • EXCEL • POWER BI**
 
-I turn raw data into clear insights and practical solutions. My work focuses on exploring datasets, identifying meaningful patterns, building useful dashboards, and applying machine-learning techniques where they add value.
+I turn complex datasets into clear, actionable insights. My focus is on data exploration, pattern discovery, impactful dashboards, and applying machine-learning techniques when they create measurable value.
 
 <table width="100%">
 <tr>
@@ -104,7 +104,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 </div>
 
-## 02 / TOOLKIT
+<h2 align="center">02&nbsp; / &nbsp;TECHNICAL TOOLKIT</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/02-TOOLS_%2F_TECH_STACK-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Toolkit section" /></p>
 
@@ -127,7 +127,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 </div>
 
-## 03 / PROJECT SHOWCASE
+<h2 align="center">03&nbsp; / &nbsp;PROJECT SHOWCASE</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/03-PROJECTS_%2F_LIVE_SYSTEMS-55C7B5?style=for-the-badge&labelColor=050A14" alt="Project showcase section" /></p>
 
@@ -253,11 +253,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 </div>
 
-## 04 / GITHUB STATS — LIVE ACTIVITY
+<h2 align="center">04&nbsp; / &nbsp;GITHUB STATS &amp; LIVE ACTIVITY</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/04-GITHUB_SIGNAL_%2F_ACTIVITY-D6A85F?style=for-the-badge&labelColor=050A14" alt="GitHub stats section" /></p>
 
-<p align="center"><strong>My GitHub activity and profile rank.</strong></p>
+<p align="center"><strong>A live snapshot of my GitHub contributions, profile statistics, and most-used languages across public repositories.</strong></p>
 
 <table>
   <tr>
@@ -297,11 +297,11 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 </div>
 
-## 05 / MY PORTFOLIOS
+<h2 align="center">05&nbsp; / &nbsp;PORTFOLIO COLLECTION</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/05-PORTFOLIO_%2F_SHOWREEL-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Portfolio section" /></p>
 
-<p align="center"><strong>Explore my dedicated Data Analyst portfolio, Universe portfolio, project case studies, and interactive work.</strong></p>
+<p align="center"><strong>Explore my portfolio collection, interactive experiences, and end-to-end project case studies across data analytics, business intelligence, and machine learning.</strong></p>
 <p align="center">
   <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE%20PORTFOLIO-EXPLORE%20MY%20WORK-55C7B5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=071426" alt="Universe Portfolio" /></a>
   <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/UNIVERSE%20SOURCE-GITHUB-4F8CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="Universe Portfolio source code" /></a>
@@ -315,14 +315,14 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 </div>
 
-## 06 / CERTIFICATIONS &amp; JOB SIMULATIONS
+<h2 align="center">06&nbsp; / &nbsp;CERTIFICATIONS &amp; JOB SIMULATIONS</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/06-CERTIFICATIONS_%2F_CREDENTIALS-55C7B5?style=for-the-badge&labelColor=050A14" alt="Certifications section" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_MY_LEARNING_DECK-09_CERTIFICATES-D6A85F?style=for-the-badge&labelColor=071426" alt="My learning deck: nine certificates" />
 </p>
-<p align="center"><em>A collection of hands-on experiences across Data, AI, Cloud and Technology.</em></p>
+<p align="center"><em>A curated collection of hands-on learning experiences spanning data analytics, artificial intelligence, cloud architecture, and technology.</em></p>
 
 <table width="100%">
 <tr>
@@ -460,7 +460,7 @@ Canva Essentials
 
 </div>
 
-## 07 / LET'S CONNECT
+<h2 align="center">07&nbsp; / &nbsp;LET’S CONNECT</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/07-CONNECT_%2F_COLLABORATE-D6A85F?style=for-the-badge&labelColor=050A14" alt="Connect section" /></p>
 
@@ -480,7 +480,7 @@ Canva Essentials
 
 </div>
 
-## 08 / CODLYTIC — DATA • CODE • INNOVATE
+<h2 align="center">08&nbsp; / &nbsp;CODLYTIC — DATA • CODE • INNOVATE</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/08-CODLYTIC_%2F_MISSION-4F8CFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC mission section" /></p>
 
@@ -493,4 +493,4 @@ Canva Essentials
   &nbsp; · &nbsp;
   <a href="https://nitesh-datascience.github.io/universe-portfolio/">Explore Universe Portfolio ↗</a>
 </p>
-<p align="center"><sub>Building practical projects across Data Analytics, Python, SQL, Business Intelligence and Machine Learning.</sub></p>
+<p align="center"><sub>Creating practical, insight-driven solutions with Python, SQL, data analytics, business intelligence, and machine learning.</sub></p>
