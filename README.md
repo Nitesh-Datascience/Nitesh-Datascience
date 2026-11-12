@@ -1,6 +1,6 @@
 <!-- CODLYTIC | ANIME CYBER ANALYTICS PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=2" width="100%" alt="CODLYTIC anime cyber analytics banner" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=3" width="100%" alt="Animated CODLYTIC cyberpunk character banner featuring Nitesh Kumar S. Samal" />
 </p>
 
 <div align="center">
