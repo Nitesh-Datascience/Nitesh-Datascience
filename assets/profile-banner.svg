@@ -35,7 +35,7 @@
   <text x="440" y="255" fill="#55c7b5" font-size="20" font-weight="700" letter-spacing="7">( CODLYTIC )</text>
   <text x="440" y="300" fill="#e4bd78" font-size="24" font-weight="800" letter-spacing="4">DATA ANALYST</text>
   <text x="440" y="342" fill="#d5edff" font-size="17" letter-spacing="2">PYTHON  •  SQL  •  DATA ANALYTICS  •  AI / ML</text>
-  <text x="440" y="380" fill="#8ab9d8" font-size="14" letter-spacing="3">CODE  •  ANALYSE  •  INNOVATE  •  BUILD</text><text x="1000" y="385" fill="#55c7b5" font-size="10" letter-spacing="2">S BHAI</text>
+  <text x="440" y="380" fill="#8ab9d8" font-size="14" letter-spacing="3">CODE  •  ANALYSE  •  INNOVATE  •  BUILD</text>
  </g>
  <g transform="translate(1010 90)" font-family="Arial,sans-serif">
   <rect width="155" height="92" rx="10" fill="#071426" stroke="#4f8cff" stroke-width="2"/>
