@@ -11,9 +11,11 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ns0762005@gmail.com">Email</a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 
