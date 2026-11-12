@@ -1,25 +1,25 @@
-<!-- CODLYTIC | ANIME CYBER ANALYTICS PROFILE -->
+<!-- CODLYTIC | DATA ANALYTICS PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=3" width="100%" alt="Animated CODLYTIC cyberpunk character banner featuring Nitesh Kumar S. Samal" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=3" width="100%" alt="Animated CODLYTIC data analytics character banner featuring Nitesh Kumar S. Samal" />
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/◢_CODLYTIC_NETWORK-SYSTEM_ONLINE-36DFFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC network system online" /> <img src="https://img.shields.io/badge/NEON_MODE-ACTIVE-FF3158?style=for-the-badge&labelColor=050A14" alt="Neon mode active" /></p>
+<p align="center"><img src="https://img.shields.io/badge/CODLYTIC_PROFILE-ANALYTICS_ONLINE-55C7B5?style=for-the-badge&labelColor=050A14" alt="CODLYTIC network system online" /> <img src="https://img.shields.io/badge/ANALYTICS_PROFILE-READY-D6A85F?style=for-the-badge&labelColor=050A14" alt="Neon mode active" /></p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=ff3158&center=true&vCenter=true&width=850&height=48&lines=INITIALIZING+CODLYTIC+...;NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=d6a85f&center=true&vCenter=true&width=850&height=48&lines=WELCOME+TO+CODLYTIC;NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
 
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-ff3158?style=for-the-badge&labelColor=050A14" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/PYTHON-168bff?style=for-the-badge&logo=python&logoColor=white&labelColor=050A14" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-36dfff?style=for-the-badge&logo=postgresql&logoColor=07111F&labelColor=050A14" alt="SQL" />
-<img src="https://img.shields.io/badge/POWER_BI-ff3158?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=050A14" alt="Power BI" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-168bff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050A14" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-d6a85f?style=for-the-badge&labelColor=050A14" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/PYTHON-4f8cff?style=for-the-badge&logo=python&logoColor=white&labelColor=050A14" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-55c7b5?style=for-the-badge&logo=postgresql&logoColor=07111F&labelColor=050A14" alt="SQL" />
+<img src="https://img.shields.io/badge/POWER_BI-d6a85f?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=050A14" alt="Power BI" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-4f8cff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050A14" alt="Machine Learning" />
 
 <br/><br/>
 
-<a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-168BFF?style=for-the-badge&labelColor=050A14" alt="Explore portfolio" /></a>
-<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A14" alt="LinkedIn" /></a>
-<a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-36DFFF?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=050A14" alt="Contact" /></a>
+<a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/✦_EXPLORE_PORTFOLIO-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-D6A85F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A14" alt="LinkedIn" /></a>
+<a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/CONTACT-55C7B5?style=for-the-badge&logo=gmail&logoColor=07111F&labelColor=050A14" alt="Contact" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-### ⚡ NITESH KUMAR / THE ANALYTICS OPERATIVE
+### ⚡ NITESH KUMAR / DATA ANALYST PROFILE
 
 **Data Analyst · Python · SQL · Business Intelligence · Machine Learning**
 
@@ -50,20 +50,20 @@ Explore data → uncover signals → build insight → drive decisions.
 </table>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=FF3158&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nitesh-Datascience&style=for-the-badge&color=D6A85F&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
-## 01 / CHARACTER FILE — ABOUT ME
+## 01 / ABOUT ME
 
-<p align="center"><img src="https://img.shields.io/badge/01-IDENTITY_%2F_ANALYTICS_OPERATIVE-FF3158?style=for-the-badge&labelColor=050A14" alt="Character file section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/01-ABOUT_%2F_DATA_ANALYTICS-D6A85F?style=for-the-badge&labelColor=050A14" alt="Character file section" /></p>
 
 **DATA ANALYST | PYTHON • SQL • EXCEL • POWER BI**
 
@@ -93,20 +93,20 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CORE_TOOLS-PYTHON_%7C_SQL_%7C_EXCEL-FF3158?style=for-the-badge&labelColor=050A14" alt="Core tools: Python, SQL and Excel" />
-<img src="https://img.shields.io/badge/ANALYTICS-POWER_BI_%7C_PANDAS-168BFF?style=for-the-badge&labelColor=050A14" alt="Analytics: Power BI and Pandas" />
-<img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-36DFFF?style=for-the-badge&labelColor=050A14" alt="Projects: machine learning and Streamlit" />
+<img src="https://img.shields.io/badge/CORE_TOOLS-PYTHON_%7C_SQL_%7C_EXCEL-D6A85F?style=for-the-badge&labelColor=050A14" alt="Core tools: Python, SQL and Excel" />
+<img src="https://img.shields.io/badge/ANALYTICS-POWER_BI_%7C_PANDAS-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Analytics: Power BI and Pandas" />
+<img src="https://img.shields.io/badge/PROJECTS-MACHINE_LEARNING_%7C_STREAMLIT-55C7B5?style=for-the-badge&labelColor=050A14" alt="Projects: machine learning and Streamlit" />
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 02 / TOOLKIT
 
-<p align="center"><img src="https://img.shields.io/badge/02-TOOLS_%2F_TECH_STACK-168BFF?style=for-the-badge&labelColor=050A14" alt="Toolkit section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/02-TOOLS_%2F_TECH_STACK-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Toolkit section" /></p>
 
 
 <p align="center">
@@ -123,13 +123,13 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 03 / PROJECT SHOWCASE
 
-<p align="center"><img src="https://img.shields.io/badge/03-PROJECTS_%2F_LIVE_SYSTEMS-36DFFF?style=for-the-badge&labelColor=050A14" alt="Project showcase section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/03-PROJECTS_%2F_LIVE_SYSTEMS-55C7B5?style=for-the-badge&labelColor=050A14" alt="Project showcase section" /></p>
 
 <p align="center"><strong>CODLYTIC&nbsp; / &nbsp;ANALYTICS PROJECTS</strong></p>
 <p align="center"><sub>DATA ANALYTICS &nbsp; • &nbsp; AI &nbsp; • &nbsp; MACHINE LEARNING</sub></p>
@@ -249,25 +249,25 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 04 / GITHUB STATS — LIVE ACTIVITY
 
-<p align="center"><img src="https://img.shields.io/badge/04-GITHUB_SIGNAL_%2F_ACTIVITY-FF3158?style=for-the-badge&labelColor=050A14" alt="GitHub stats section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/04-GITHUB_SIGNAL_%2F_ACTIVITY-D6A85F?style=for-the-badge&labelColor=050A14" alt="GitHub stats section" /></p>
 
 <p align="center"><strong>My GitHub activity and profile rank.</strong></p>
 
 <table>
   <tr>
-    <td width="50%" align="center"><strong>GitHub Activity &amp; Profile Rank</strong><br/><a href="https://github.com/Nitesh-Datascience"><img height="200" width="100%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=FF3158&icon_color=FF3158&include_all_commits=true" alt="GitHub stats with rank grade" /></a></td>
+    <td width="50%" align="center"><strong>GitHub Activity &amp; Profile Rank</strong><br/><a href="https://github.com/Nitesh-Datascience"><img height="200" width="100%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=D6A85F&icon_color=D6A85F&include_all_commits=true" alt="GitHub stats with rank grade" /></a></td>
     <td width="50%" align="center"><strong>Top Languages in Public Repositories</strong><br/><img height="200" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" alt="Top languages across public GitHub repositories" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=FF3158&fire=FF3158&currStreakLabel=FF3158" alt="GitHub contribution streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -276,14 +276,14 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 </p>
 <p align="center"><a href="https://github.com/Nitesh-Datascience">View my GitHub profile and contribution activity ↗</a></p>
 
-### 💻 DEVELOPER TOOLKIT
+### 💻 TECHNICAL TOOLKIT
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=071426" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=071426" alt="SQL" />
 </p>
 
-### 💻 LANGUAGES & DEVELOPER TOOLKIT
+### 💻 LANGUAGES & TECHNICAL TOOLKIT
 
 <p align="center"><strong>Core languages and tools used across my projects</strong></p>
 <p align="center">
@@ -293,34 +293,34 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 05 / MY PORTFOLIOS
 
-<p align="center"><img src="https://img.shields.io/badge/05-PORTFOLIO_%2F_SHOWREEL-168BFF?style=for-the-badge&labelColor=050A14" alt="Portfolio section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/05-PORTFOLIO_%2F_SHOWREEL-4F8CFF?style=for-the-badge&labelColor=050A14" alt="Portfolio section" /></p>
 
 <p align="center"><strong>Explore my dedicated Data Analyst portfolio, Universe portfolio, project case studies, and interactive work.</strong></p>
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE%20PORTFOLIO-EXPLORE%20MY%20WORK-36DFFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=071426" alt="Universe Portfolio" /></a>
-  <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/UNIVERSE%20SOURCE-GITHUB-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="Universe Portfolio source code" /></a>
-  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-ff3158?style=for-the-badge&labelColor=071426" alt="Main portfolio" /></a>
-  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-168bff?style=for-the-badge&labelColor=071426" alt="Tree portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/UNIVERSE%20PORTFOLIO-EXPLORE%20MY%20WORK-55C7B5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=071426" alt="Universe Portfolio" /></a>
+  <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/UNIVERSE%20SOURCE-GITHUB-4F8CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071426" alt="Universe Portfolio source code" /></a>
+  <a href="https://nitesh-datascience.github.io/portfolio/"><img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-ANALYTICS%20%26%20CASE%20STUDIES-d6a85f?style=for-the-badge&labelColor=071426" alt="Main portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/TREE%20PORTFOLIO-INTERACTIVE%20EXPERIENCE-4f8cff?style=for-the-badge&labelColor=071426" alt="Tree portfolio" /></a>
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 06 / CERTIFICATIONS &amp; JOB SIMULATIONS
 
-<p align="center"><img src="https://img.shields.io/badge/06-CERTIFICATIONS_%2F_CREDENTIALS-36DFFF?style=for-the-badge&labelColor=050A14" alt="Certifications section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/06-CERTIFICATIONS_%2F_CREDENTIALS-55C7B5?style=for-the-badge&labelColor=050A14" alt="Certifications section" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_MY_LEARNING_DECK-09_CERTIFICATES-FF3158?style=for-the-badge&labelColor=071426" alt="My learning deck: nine certificates" />
+  <img src="https://img.shields.io/badge/✦_MY_LEARNING_DECK-09_CERTIFICATES-D6A85F?style=for-the-badge&labelColor=071426" alt="My learning deck: nine certificates" />
 </p>
 <p align="center"><em>A collection of hands-on experiences across Data, AI, Cloud and Technology.</em></p>
 
@@ -328,7 +328,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
 <tr>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♠_01-J.P._MORGAN-FF3158?style=for-the-badge&labelColor=071426" alt="J.P. Morgan card" />
+<img src="https://img.shields.io/badge/♠_01-J.P._MORGAN-D6A85F?style=for-the-badge&labelColor=071426" alt="J.P. Morgan card" />
 
 **QUANTITATIVE RESEARCH**
 
@@ -341,7 +341,7 @@ Quantitative Research Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♥_02-COMMONWEALTH_BANK-168BFF?style=for-the-badge&labelColor=071426" alt="Commonwealth Bank card" />
+<img src="https://img.shields.io/badge/♥_02-COMMONWEALTH_BANK-4F8CFF?style=for-the-badge&labelColor=071426" alt="Commonwealth Bank card" />
 
 **DATA SCIENCE**
 
@@ -354,7 +354,7 @@ Introduction to Data Science Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♦_03-TATA-36DFFF?style=for-the-badge&labelColor=071426" alt="Tata card" />
+<img src="https://img.shields.io/badge/♦_03-TATA-55C7B5?style=for-the-badge&labelColor=071426" alt="Tata card" />
 
 **GENERATIVE AI**
 
@@ -369,7 +369,7 @@ GenAI Powered Data Analytics Job Simulation
 <tr>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♣_04-AWS-FF3158?style=for-the-badge&labelColor=071426" alt="AWS card" />
+<img src="https://img.shields.io/badge/♣_04-AWS-D6A85F?style=for-the-badge&labelColor=071426" alt="AWS card" />
 
 **CLOUD ARCHITECTURE**
 
@@ -382,7 +382,7 @@ Solutions Architecture Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♠_05-FORAGE_ACADEMY-168BFF?style=for-the-badge&labelColor=071426" alt="Forage Academy card" />
+<img src="https://img.shields.io/badge/♠_05-FORAGE_ACADEMY-4F8CFF?style=for-the-badge&labelColor=071426" alt="Forage Academy card" />
 
 **DATA LABELING**
 
@@ -395,7 +395,7 @@ Data Labeling Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♥_06-MICROSOFT_EXCEL_+_AI-168BFF?style=for-the-badge&labelColor=071426" alt="Microsoft Excel and AI card" />
+<img src="https://img.shields.io/badge/♥_06-MICROSOFT_EXCEL_+_AI-4F8CFF?style=for-the-badge&labelColor=071426" alt="Microsoft Excel and AI card" />
 
 **EXCEL + AI**
 
@@ -410,7 +410,7 @@ Self-Learning Masterclass
 <tr>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♦_07-IBM_SKILLSBUILD-168BFF?style=for-the-badge&labelColor=071426" alt="IBM SkillsBuild card" />
+<img src="https://img.shields.io/badge/♦_07-IBM_SKILLSBUILD-4F8CFF?style=for-the-badge&labelColor=071426" alt="IBM SkillsBuild card" />
 
 **ARTIFICIAL INTELLIGENCE**
 
@@ -421,7 +421,7 @@ Artificial Intelligence Fundamentals
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♣_08-DELOITTE-FF3158?style=for-the-badge&labelColor=071426" alt="Deloitte card" />
+<img src="https://img.shields.io/badge/♣_08-DELOITTE-D6A85F?style=for-the-badge&labelColor=071426" alt="Deloitte card" />
 
 **DATA ANALYTICS**
 
@@ -434,7 +434,7 @@ Data Analytics Job Simulation
 </td>
 <td width="33%" valign="top" align="left">
 
-<img src="https://img.shields.io/badge/♠_09-CANVA-36DFFF?style=for-the-badge&labelColor=071426" alt="Canva card" />
+<img src="https://img.shields.io/badge/♠_09-CANVA-55C7B5?style=for-the-badge&labelColor=071426" alt="Canva card" />
 
 **CREATIVE DESIGN**
 
@@ -456,17 +456,17 @@ Canva Essentials
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 07 / LET'S CONNECT
 
-<p align="center"><img src="https://img.shields.io/badge/07-CONNECT_%2F_COLLABORATE-FF3158?style=for-the-badge&labelColor=050A14" alt="Connect section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/07-CONNECT_%2F_COLLABORATE-D6A85F?style=for-the-badge&labelColor=050A14" alt="Connect section" /></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-ff3158?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071426" alt="LinkedIn" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-168bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071426" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-d6a85f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071426" alt="LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-4f8cff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071426" alt="Email" /></a>
 </p>
 
 <p align="center"><strong>LEARN • BUILD • GROW • MAKE AN IMPACT</strong></p>
@@ -476,16 +476,16 @@ Canva Essentials
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF3158?style=flat-square&labelColor=071426" alt="section divider" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D6A85F?style=flat-square&labelColor=071426" alt="section divider" />
 
 </div>
 
 ## 08 / CODLYTIC — DATA • CODE • INNOVATE
 
-<p align="center"><img src="https://img.shields.io/badge/08-CODLYTIC_%2F_MISSION-168BFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC mission section" /></p>
+<p align="center"><img src="https://img.shields.io/badge/08-CODLYTIC_%2F_MISSION-4F8CFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC mission section" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CODLYTIC-DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20INNOVATE-36DFFF?style=for-the-badge&labelColor=071426" alt="CODLYTIC — Data, Code, Innovate" />
+  <img src="https://img.shields.io/badge/CODLYTIC-DATA%20%E2%80%A2%20CODE%20%E2%80%A2%20INNOVATE-55C7B5?style=for-the-badge&labelColor=071426" alt="CODLYTIC — Data, Code, Innovate" />
 </p>
 <p align="center"><strong>Dream Big · Build Better · Grow Together</strong></p>
 <p align="center">
