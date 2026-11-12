@@ -31,9 +31,9 @@
  <g opacity=".45" stroke="#55c7b5" stroke-width="1.5" fill="none"><path d="M20 70H75V95M20 350H75V325M1180 70H1125V95M1180 350H1125V325"/><path d="M400 20H470M730 20H800M400 400H470M730 400H800"/></g><g font-family="Arial,sans-serif">
   <text x="440" y="65" fill="#9bdfff" font-size="16" letter-spacing="4">DATA ANALYTICS / BUSINESS INTELLIGENCE</text>
   <text x="435" y="137" fill="#fff" font-size="33" font-weight="800" letter-spacing="1">NITESH KUMAR</text><text x="438" y="158" fill="#55c7b5" font-size="10" letter-spacing="4">IDENTITY VERIFIED // CODLYTIC NETWORK</text>
-  <text x="430" y="218" fill="url(#metal)" font-size="78" font-weight="900" letter-spacing="3" filter="url(#glow)">CODLYTIC</text><text x="433" y="218" fill="#fff" font-size="78" font-weight="900" letter-spacing="3" opacity=".18"><animate attributeName="x" values="433;440;433" dur="2.8s" repeatCount="indefinite"/>CODLYTIC</text>
-  <text x="440" y="255" fill="#55c7b5" font-size="20" font-weight="700" letter-spacing="7">( CODLYTIC )</text>
-  <text x="440" y="300" fill="#e4bd78" font-size="24" font-weight="800" letter-spacing="4">DATA ANALYST</text>
+  <text x="430" y="218" fill="url(#metal)" font-size="78" font-weight="900" letter-spacing="3" filter="url(#glow)">CODLYTIC</text>
+  <text x="440" y="255" fill="#55c7b5" font-size="20" font-weight="700" letter-spacing="4">( DATA ANALYST )</text>
+  
   <text x="440" y="342" fill="#d5edff" font-size="17" letter-spacing="2">PYTHON  •  SQL  •  DATA ANALYTICS  •  AI / ML</text>
   <text x="440" y="380" fill="#8ab9d8" font-size="14" letter-spacing="3">CODE  •  ANALYSE  •  INNOVATE  •  BUILD</text>
  </g>
