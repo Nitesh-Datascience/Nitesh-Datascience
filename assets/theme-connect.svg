@@ -1,21 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030817"/><stop offset=".48" stop-color="#071b35"/><stop offset="1" stop-color="#11112b"/></linearGradient>
- <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00eaff" stop-opacity="0"/><stop offset=".22" stop-color="#00eaff"/><stop offset=".68" stop-color="#8a5cff"/><stop offset=".9" stop-color="#ffbd59"/><stop offset="1" stop-color="#ffbd59" stop-opacity="0"/></linearGradient>
- <radialGradient id="cyanGlow"><stop stop-color="#00dfff" stop-opacity=".42"/><stop offset="1" stop-color="#00dfff" stop-opacity="0"/></radialGradient>
- <radialGradient id="violetGlow"><stop stop-color="#8b5cff" stop-opacity=".30"/><stop offset="1" stop-color="#8b5cff" stop-opacity="0"/></radialGradient>
- <filter id="textGlow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <filter id="lineGlow" x="-20%" y="-400%" width="140%" height="900%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030611"/><stop offset=".48" stop-color="#07152b"/><stop offset="1" stop-color="#170d2b"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f0ff"/><stop offset=".48" stop-color="#7864ff"/><stop offset="1" stop-color="#ffbd59"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#00dfff" stop-opacity=".38"/><stop offset="1" stop-color="#00dfff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="aura2"><stop stop-color="#985cff" stop-opacity=".34"/><stop offset="1" stop-color="#985cff" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="11"/></filter>
 </defs>
-<rect width="1200" height="112" rx="14" fill="url(#bg)"/>
-<ellipse cx="340" cy="45" rx="460" ry="120" fill="url(#cyanGlow)"/>
-<ellipse cx="1000" cy="30" rx="360" ry="130" fill="url(#violetGlow)"/>
-<path d="M0 10H1200 M0 103H1200" stroke="#3b7ba8" stroke-opacity=".22"/>
-<path d="M24 0V112 M1176 0V112" stroke="#58dfff" stroke-opacity=".25"/>
-<path d="M36 77H1164" stroke="url(#neon)" stroke-width="5" opacity=".65" filter="url(#lineGlow)"/>
-<path d="M36 77H1164" stroke="url(#neon)" stroke-width="1.5"/>
-<circle cx="1100" cy="28" r="3" fill="#ffd17b" filter="url(#textGlow)"/><circle cx="1060" cy="54" r="2.5" fill="#55edff" filter="url(#textGlow)"/><circle cx="1138" cy="65" r="2" fill="#a98bff" filter="url(#textGlow)"/>
-<text x="58" y="59" fill="#f2fbff" stroke="#70eaff" stroke-opacity=".5" stroke-width=".35" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="3" filter="url(#textGlow)">LET'S CONNECT</text>
-<text x="58" y="96" fill="#b9eaff" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="4" filter="url(#textGlow)">CODLYTIC  /  DATA • CODE • INNOVATE</text>
-<rect x="24" y="18" width="4" height="50" rx="2" fill="#28e7ff" filter="url(#textGlow)"/>
+<rect width="1200" height="150" rx="16" fill="url(#base)"/>
+<ellipse cx="220" cy="60" rx="430" ry="160" fill="url(#aura)"/>
+<ellipse cx="1030" cy="60" rx="370" ry="170" fill="url(#aura2)"/>
+<path d="M16 28H1184V122H16Z" fill="none" stroke="url(#edge)" stroke-opacity=".48" stroke-width="1.5"/>
+<path d="M16 28L44 8H1156L1184 28 M16 122L44 142H1156L1184 122" fill="none" stroke="url(#edge)" stroke-width="2" opacity=".7" filter="url(#glow)"/>
+<path d="M42 105H1158" stroke="url(#edge)" stroke-width="8" opacity=".24" filter="url(#soft)"/>
+<path d="M42 105H1158" stroke="url(#edge)" stroke-width="2.5" filter="url(#glow)"/>
+<path d="M48 45H82L96 58H1104L1118 45H1152" fill="none" stroke="#68dfff" stroke-opacity=".36"/>
+<g fill="#7eeeff" opacity=".85"><circle cx="95" cy="76" r="2"/><circle cx="1105" cy="76" r="2"/><circle cx="1140" cy="91" r="1.5"/><circle cx="60" cy="91" r="1.5"/></g>
+<g stroke="#68dfff" stroke-opacity=".4"><path d="M52 54V96 M1148 54V96"/><path d="M62 54H78 M1122 54H1138"/></g>
+<text x="600" y="76" text-anchor="middle" fill="#f4fbff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="4" filter="url(#glow)">LET'S CONNECT</text>
+<text x="600" y="96" text-anchor="middle" fill="#a9eaff" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="5">C O D L Y T I C  •  DATA  /  CODE  /  INNOVATE</text>
+<path d="M530 115H670" stroke="#f6c978" stroke-width="1.5" filter="url(#glow)"/>
+<circle cx="600" cy="115" r="3" fill="#ffe0a0" filter="url(#glow)"/>
 </svg>
