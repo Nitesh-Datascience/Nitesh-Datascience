@@ -139,94 +139,94 @@ I turn complex datasets into clear, actionable insights. My focus is on data exp
 <table>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 01 — ANALYTICS PROJECT</sub>
+<sub>✦ PROJECT 01 · DATA / AI</sub>
 <h3>Care Transition Analytics</h3>
-<p>Analysing care pathways, transfer efficiency, and placement outcomes through an interactive dashboard.</p>
+<p>Care pipeline, transfer efficiency and placement outcomes.</p>
 <p><a href="https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 02 — PREDICTIVE ANALYTICS</sub>
+<sub>✦ PROJECT 02 · DATA / AI</sub>
 <h3>Customer Churn Prediction</h3>
-<p>Exploring customer behaviour, churn indicators, and predictive model performance.</p>
+<p>Customer segments, churn risk and model performance.</p>
 <p><a href="https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Customer_churn_Prediction"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 03 — LEARNER INTELLIGENCE</sub>
+<sub>✦ PROJECT 03 · DATA / AI</sub>
 <h3>EduPro Learner Intelligence</h3>
-<p>Combining learner segmentation, course recommendations, and comparative model evaluation.</p>
+<p>Learner clusters, course recommendations and model comparisons.</p>
 <p><a href="https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/EduPro_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 04 — FRAUD ANALYTICS</sub>
+<sub>✦ PROJECT 04 · DATA / AI</sub>
 <h3>Financial Fraud Detection</h3>
-<p>Identifying suspicious transaction patterns and evaluating fraud-classification models.</p>
+<p>Transaction risk, anomaly patterns and classifier comparisons.</p>
 <p><a href="https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Financial_Fraud_Detection"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 05 — DEMAND FORECASTING</sub>
+<sub>✦ PROJECT 05 · DATA / AI</sub>
 <h3>FORESIGHT · NorthBay Living</h3>
-<p>Turning demand forecasts into inventory insights and smarter replenishment decisions.</p>
+<p>Demand forecasts, inventory risks and replenishment planning.</p>
 <p><a href="https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/foresight_northbay"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 06 — LOGISTICS ANALYTICS</sub>
+<sub>✦ PROJECT 06 · DATA / AI</sub>
 <h3>APL Logistics Analytics</h3>
-<p>Monitoring delivery performance and highlighting potential delay risks.</p>
+<p>Delivery performance and delay-risk reporting; access required.</p>
 <p><a href="https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/"><img src="https://img.shields.io/badge/ACCESS_REQUIRED_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="ACCESS REQUIRED ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 07 — BUSINESS ANALYTICS</sub>
+<sub>✦ PROJECT 07 · DATA / AI</sub>
 <h3>Nassau Candy Profitability</h3>
-<p>Understanding product profitability, margin trends, and division-level performance.</p>
+<p>Product economics, margin risk and division performance.</p>
 <p><a href="https://87v6ndywgm2xvutswekgjm.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 08 — GROWTH ANALYTICS</sub>
+<sub>✦ PROJECT 08 · DATA / AI</sub>
 <h3>Restaurant Growth Analytics</h3>
-<p>Exploring restaurant performance, growth patterns, and operational insights.</p>
+<p>Explore the restaurant growth analysis dashboard.</p>
 <p><a href="https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/restaurant_growth_project"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 09 — DOCUMENT AI</sub>
+<sub>✦ PROJECT 09 · DATA / AI</sub>
 <h3>PrivyScan AI</h3>
-<p>A prototype for detecting and redacting sensitive text in document images.</p>
+<p>Document-image sensitive text detection and redaction prototype.</p>
 <p><a href="https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a><br/><sub>Source repository not listed</sub></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 10 — CAREER TECHNOLOGY</sub>
+<sub>✦ PROJECT 10 · DATA / AI</sub>
 <h3>CodeVenjar</h3>
-<p>An interactive career-planning prototype with a guided local demo experience.</p>
+<p>Career planning web prototype; choose “Use local demo” to begin.</p>
 <p><a href="https://nitesh-datascience.github.io/CodeVenjar/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/CodeVenjar"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#8B5CF6">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 11 — INTERACTIVE PORTFOLIO</sub>
+<sub>✦ PROJECT 11 · DATA / AI</sub>
 <h3>Nitesh Tree Portfolio</h3>
-<p>An interactive portfolio experience featuring project details, category filters, and animated typography.</p>
+<p>Interactive tree portfolio with project details, filters and animated letters.</p>
 <p><a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
 <hr/><sub><span style="color:#EC4899">●</span> LIVE PROJECT DIRECTORY</sub>
 </div></td>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 12 — CREATIVE PORTFOLIO</sub>
+<sub>✦ PROJECT 12 · DATA / AI</sub>
 <h3>universe portfolio</h3>
 <p>Explore the deployed project and its source code.</p>
 <p><a href="https://nitesh-datascience.github.io/Codlytic-portfolio/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/universe-portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
@@ -235,7 +235,7 @@ I turn complex datasets into clear, actionable insights. My focus is on data exp
 </tr>
 <tr>
 <td width="50%" valign="top"><div align="left">
-<sub>✦ &nbsp; 13 — SEASONAL EXPERIENCE</sub>
+<sub>✦ PROJECT 13 · DATA / AI</sub>
 <h3>DIWALI UNIVERSE 2026</h3>
 <p>Explore the deployed project and its source code.</p>
 <p><a href="https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO_%E2%86%97-EC4899?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=160817" alt="LAUNCH LIVE DEMO ↗"/></a>&nbsp; <a href="https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026"><img src="https://img.shields.io/badge/VIEW_SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=160817" alt="View source code"/></a></p>
