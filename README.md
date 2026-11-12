@@ -3,9 +3,11 @@
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=3" width="100%" alt="Animated CODLYTIC cyberpunk character banner featuring Nitesh Kumar S. Samal" />
 </p>
 
+<p align="center"><img src="https://img.shields.io/badge/◢_CODLYTIC_NETWORK-SYSTEM_ONLINE-36DFFF?style=for-the-badge&labelColor=050A14" alt="CODLYTIC network system online" /> <img src="https://img.shields.io/badge/NEON_MODE-ACTIVE-FF3158?style=for-the-badge&labelColor=050A14" alt="Neon mode active" /></p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=ff3158&center=true&vCenter=true&width=850&height=48&lines=NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+RAW+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2400&pause=650&color=ff3158&center=true&vCenter=true&width=850&height=48&lines=INITIALIZING+CODLYTIC+...;NITESH+KUMAR+%7C+DATA+ANALYST;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI;TURNING+DATA+INTO+INTELLIGENCE;ANALYSE+%7C+VISUALISE+%7C+INNOVATE" alt="Animated Data Analyst headline" />
 
 <img src="https://img.shields.io/badge/DATA_ANALYTICS-ff3158?style=for-the-badge&labelColor=050A14" alt="Data Analytics" />
 <img src="https://img.shields.io/badge/PYTHON-168bff?style=for-the-badge&logo=python&logoColor=white&labelColor=050A14" alt="Python" />
