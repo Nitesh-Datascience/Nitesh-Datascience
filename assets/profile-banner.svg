@@ -34,7 +34,7 @@
  <text x="440" y="62" fill="#9bdfff" font-size="14" font-weight="700" letter-spacing="3">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
  <text x="438" y="137" fill="#ffffff" font-size="58" font-weight="900" letter-spacing="2" filter="url(#glow)">NITESH KUMAR</text>
  <path d="M440 153H825" stroke="url(#neon)" stroke-width="2" opacity=".85"/>
- <text x="438" y="225" fill="url(#metal)" font-size="39" font-weight="900" letter-spacing="4" filter="url(#glow)">CODLYTIC</text>
+ <text x="438" y="225" fill="url(#metal)" font-size="25" font-weight="800" letter-spacing="2.5" filter="url(#glow)">[ CODLYTIC ]</text>
  <text x="440" y="284" fill="#d5edff" font-size="15" font-weight="700" letter-spacing="2.5">PYTHON  |  SQL  |  DATA ANALYTICS  |  AI / ML</text>
  <text x="440" y="321" fill="#8ab9d8" font-size="13" font-weight="600" letter-spacing="3">CODE  /  ANALYSE  /  INNOVATE  /  BUILD</text>
 </g>
