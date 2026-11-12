@@ -1,6 +1,6 @@
 <!-- CODLYTIC | GITHUB PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=10" width="100%" alt="CODLYTIC data analytics banner featuring Nitesh Kumar" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=11" width="100%" alt="CODLYTIC data analytics banner featuring Nitesh Kumar" />
 </p>
 
 <p align="center">
