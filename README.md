@@ -1,6 +1,6 @@
 <!-- CODLYTIC | DATA ANALYTICS PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=3" width="100%" alt="Animated CODLYTIC data analytics character banner featuring Nitesh Kumar S. Samal" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=4" width="100%" alt="Animated CODLYTIC data analytics character banner featuring Nitesh Kumar S. Samal" />
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/CODLYTIC_PROFILE-ANALYTICS_ONLINE-55C7B5?style=for-the-badge&labelColor=050A14" alt="CODLYTIC network system online" /> <img src="https://img.shields.io/badge/ANALYTICS_PROFILE-READY-D6A85F?style=for-the-badge&labelColor=050A14" alt="Neon mode active" /></p>
@@ -283,7 +283,7 @@ I turn raw data into clear insights and practical solutions. My work focuses on 
   <img src="https://img.shields.io/badge/SQL-DATA_QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=071426" alt="SQL" />
 </p>
 
-### 💻 LANGUAGES & TECHNICAL TOOLKIT
+### 💻 PROGRAMMING LANGUAGES & TOOLS
 
 <p align="center"><strong>Core languages and tools used across my projects</strong></p>
 <p align="center">
