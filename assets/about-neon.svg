@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset="1" stop-color="#15102B"/></linearGradient><linearGradient id="edge"><stop stop-color="#00D9FF"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF4DCA"/></linearGradient></defs>
+<rect x="8" y="8" width="1184" height="314" rx="22" fill="url(#bg)" stroke="url(#edge)" stroke-width="2.5"/>
+<path d="M34 28H1166" stroke="url(#edge)" stroke-width="2"/>
+<text x="48" y="70" fill="#00D9FF" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">ABOUT MY APPROACH</text>
+<text x="48" y="116" fill="#F4F7FF" font-family="Arial,sans-serif" font-size="31" font-weight="700">I transform raw data into meaningful decisions.</text>
+<text x="48" y="151" fill="#B8C4DA" font-family="Arial,sans-serif" font-size="18">From data preparation and exploratory analysis to business intelligence, interactive dashboards,</text>
+<text x="48" y="178" fill="#B8C4DA" font-family="Arial,sans-serif" font-size="18">and applied machine learning — I turn complex information into clear, practical insights.</text>
+<text x="48" y="224" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">MY WORKFLOW</text>
+<g font-family="Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<rect x="48" y="243" width="250" height="54" rx="12" fill="#101F35" stroke="#00D9FF" stroke-width="1.5"/><text x="173" y="276" fill="#DDFBFF">01 · DISCOVER THE DATA</text>
+<path d="M307 270h24m-7 -7 7 7 -7 7" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+<rect x="340" y="243" width="250" height="54" rx="12" fill="#17152F" stroke="#8B5CF6" stroke-width="1.5"/><text x="465" y="276" fill="#E8DDFF">02 · REVEAL PATTERNS</text>
+<path d="M599 270h24m-7 -7 7 7 -7 7" fill="none" stroke="#C084FC" stroke-width="2"/>
+<rect x="632" y="243" width="250" height="54" rx="12" fill="#21152F" stroke="#C084FC" stroke-width="1.5"/><text x="757" y="276" fill="#F3E8FF">03 · COMMUNICATE INSIGHTS</text>
+<path d="M891 270h24m-7 -7 7 7 -7 7" fill="none" stroke="#FF4DCA" stroke-width="2"/>
+<rect x="924" y="243" width="228" height="54" rx="12" fill="#26152C" stroke="#FF4DCA" stroke-width="1.5"/><text x="1038" y="276" fill="#FFE4F5">04 · ENABLE DECISIONS</text></g></svg>
