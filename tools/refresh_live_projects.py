@@ -169,6 +169,11 @@ def main():
     config = json.loads(CATALOG.read_text())
     owner = config['owner']
     projects = config['projects']
+    readme = ROOT / 'README.md'
+    readme_text = readme.read_text()
+    if readme_text.count(START) != 1 or readme_text.count(END) != 1 or readme_text.index(START) > readme_text.index(END):
+        print('Skipping live-project README refresh: the current README has no unique ordered catalog markers; preserving it unchanged.')
+        return
     additions = []
     if not args.render_only:
         repos = json.loads(args.snapshot.read_text()) if args.snapshot else load_repositories(owner)
