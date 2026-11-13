@@ -5,10 +5,10 @@
 
 <p align="center">
   <strong>DATA ANALYST</strong> &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=111827" alt="Python — neon cyan tag" />
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827" alt="SQL — neon purple tag" />
+  <img src="https://img.shields.io/badge/POWER_BI-FFD84D?style=for-the-badge&logo=powerbi&logoColor=111827&labelColor=111827" alt="Power BI — neon gold tag" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF4DCA?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111827" alt="Machine Learning — neon pink tag" />
 </p>
 <p align="center">
   <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
