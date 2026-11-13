@@ -80,20 +80,28 @@ A collection of analytics dashboards, predictive models, and interactive applica
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=4" width="100%" alt="Certifications and job simulations — animated neon heading" /></p>
 
-<table align="center" width="90%">
-  <thead>
-    <tr><th align="left">Organisation</th><th align="left">Credential</th><th align="center">Issued</th></tr>
-  </thead>
+<table align="center" width="100%">
   <tbody>
-    <tr><td>J.P. Morgan · Forage</td><td>Quantitative Research Job Simulation · <code>EHKW2tShz7KYgf565</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>Commonwealth Bank · Forage</td><td>Introduction to Data Science Job Simulation · <code>tj5K6zabsnJiNgXkN</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>Tata · Forage</td><td>GenAI Powered Data Analytics Job Simulation · <code>Cfk328SFy3pswneyo</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>AWS · Forage</td><td>Solutions Architecture Job Simulation · <code>thyTv3SM9z6LMnHRR</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>Forage Academy</td><td>Data Labeling Job Simulation · <code>KBxCEfzfqigNR73Xj</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>SkillCourse</td><td>Microsoft Excel with A.I Masterclass · <code>SC-1C2DD33A41</code></td><td align="center">Jan 2026</td></tr>
-    <tr><td>IBM SkillsBuild</td><td>Artificial Intelligence Fundamentals</td><td align="center">—</td></tr>
-    <tr><td>Deloitte · Forage</td><td>Data Analytics Job Simulation · <code>H9GpEgwr3scGTJKGZ</code></td><td align="center">Jul 2025</td></tr>
-    <tr><td>Canva</td><td>Canva Essentials · <code>74b50f</code></td><td align="center">Nov 2024</td></tr>
+    <tr>
+      <td width="50%" valign="top"><strong>J.P. Morgan · Forage</strong><br/>Quantitative Research Job Simulation<br/><sub>Jan 2026 · ID: EHKW2tShz7KYgf565</sub></td>
+      <td width="50%" valign="top"><strong>Commonwealth Bank · Forage</strong><br/>Introduction to Data Science Job Simulation<br/><sub>Jan 2026 · ID: tj5K6zabsnJiNgXkN</sub></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><strong>Tata · Forage</strong><br/>GenAI Powered Data Analytics Job Simulation<br/><sub>Jan 2026 · ID: Cfk328SFy3pswneyo</sub></td>
+      <td width="50%" valign="top"><strong>AWS · Forage</strong><br/>Solutions Architecture Job Simulation<br/><sub>Jan 2026 · ID: thyTv3SM9z6LMnHRR</sub></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><strong>Forage Academy</strong><br/>Data Labeling Job Simulation<br/><sub>Jan 2026 · ID: KBxCEfzfqigNR73Xj</sub></td>
+      <td width="50%" valign="top"><strong>SkillCourse</strong><br/>Microsoft Excel with A.I Masterclass<br/><sub>Jan 2026 · ID: SC-1C2DD33A41</sub></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><strong>IBM SkillsBuild</strong><br/>Artificial Intelligence Fundamentals</td>
+      <td width="50%" valign="top"><strong>Deloitte · Forage</strong><br/>Data Analytics Job Simulation<br/><sub>Jul 2025 · ID: H9GpEgwr3scGTJKGZ</sub></td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><strong>Canva</strong><br/>Canva Essentials<br/><sub>Nov 2024 · ID: 74b50f</sub></td>
+      <td width="50%" valign="top"></td>
+    </tr>
   </tbody>
 </table>
 
