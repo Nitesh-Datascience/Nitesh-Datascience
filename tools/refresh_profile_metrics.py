@@ -83,6 +83,31 @@ def build_svg(data, featured):
 <desc id="desc">{len(repos)} public repositories, {stars} received stars, {featured} featured projects and {data['followers']} followers. Primary languages are counts of public repositories, not skill ratings. Updated {date}.</desc>{body}</svg>'''
 
 
+
+def build_language_mini_svg(data):
+    languages = Counter(r['language'] for r in data['repos'] if r.get('language'))
+    groups = sorted(languages.items(), key=lambda x: (-x[1], x[0]))[:5]
+    total = sum(languages.values()) or 1
+    colors = ['#41d7ff', '#a483ff', '#66e9bd', '#ffcf68', '#e982cf']
+    body = ['<rect width="1000" height="112" rx="13" fill="#071024"/>',
+            '<rect x="1" y="1" width="998" height="110" rx="12" fill="none" stroke="#345185"/>',
+            '<path d="M18 2H982" stroke="url(#edge)" stroke-width="3"/>',
+            '<g font-family="DejaVu Sans Mono, Consolas, monospace">',
+            '<text x="22" y="27" fill="#78e7ff" font-size="15" font-weight="700">MOST USED LANGUAGES</text>']
+    x = 22
+    y = 47
+    for i, (language, count) in enumerate(groups):
+        width = 940 * count / total
+        body.append(f'<rect x="{x}" y="{y}" width="{width:.2f}" height="11" rx="5" fill="{colors[i]}"/>')
+        x += width
+    x = 22
+    for i, (language, count) in enumerate(groups):
+        body.append(f'<text x="{x}" y="83" fill="{colors[i]}" font-size="12">{escape(language)} · {count}</text>')
+        x += max(150, len(language) * 9 + 55)
+    body.append('<text x="978" y="102" text-anchor="end" fill="#899abf" font-size="10">Public repository language counts</text></g>')
+    return '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-label="Most used programming languages across public repositories"><defs><linearGradient id="edge"><stop stop-color="#885dff"/><stop offset=".5" stop-color="#35deff"/><stop offset="1" stop-color="#65efbc"/></linearGradient></defs>' + ''.join(body) + '</svg>'
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data-json', type=Path, help='Use an already-verified public data snapshot.')
@@ -94,6 +119,7 @@ def main():
     featured = len(catalog.get('projects', []))
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / 'metrics.svg').write_text(build_svg(data, featured))
+    (OUT / 'languages-mini.svg').write_text(build_language_mini_svg(data))
     (OUT / 'metrics-data.json').write_text(json.dumps(data, indent=2) + '\n')
     print(f"Updated public metrics: {len(data['repos'])} repositories, {sum(r['stars'] for r in data['repos'])} received stars.")
 
