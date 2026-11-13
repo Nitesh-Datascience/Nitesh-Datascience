@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#090F1D"/><stop offset=".5" stop-color="#17112C"/><stop offset="1" stop-color="#090F1D"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00D9FF"/><stop offset=".52" stop-color="#9B6BFF"/><stop offset="1" stop-color="#FF4DCA"/></linearGradient>
+</defs>
+<rect x="6" y="6" width="1188" height="100" rx="18" fill="url(#bg)" stroke="url(#neon)" stroke-width="2"/>
+<path d="M28 56H150l18-18h55M1048 56h-30l-18 18h-55" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8"/>
+<circle cx="28" cy="56" r="4" fill="#00D9FF"/><circle cx="1172" cy="56" r="4" fill="#FF4DCA"/>
+<text x="600" y="49" text-anchor="middle" fill="#F4F7FF" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="5">CODLYTIC</text>
+<text x="600" y="77" text-anchor="middle" fill="#AFC1DE" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="4">DATA  //  CODE  //  INNOVATE</text>
+<path d="M390 88H810" stroke="url(#neon)" stroke-width="1.5" opacity=".85"/>
+</svg>
