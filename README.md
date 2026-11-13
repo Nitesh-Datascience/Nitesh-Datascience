@@ -21,9 +21,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-about.svg?v=4" width="100%" alt="About me — animated neon heading" /></p>
 
-**I transform raw data into meaningful decisions.** I work across data preparation, exploratory analysis, business intelligence, interactive dashboards, and applied machine learning—turning complex information into clear stories, useful insights, and practical solutions.
-
-**MY WORKFLOW**　01 · Discover the data　→　02 · Reveal meaningful patterns　→　03 · Communicate the insight　→　04 · Enable confident decisions
+<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/about-neon.svg?v=1" width="100%" alt="About my approach and four-step data analytics workflow in neon blue and purple" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-toolkit.svg?v=4" width="100%" alt="Technical toolkit — animated neon heading" /></p>
 
