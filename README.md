@@ -80,17 +80,22 @@ A collection of analytics dashboards, predictive models, and interactive applica
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=4" width="100%" alt="Certifications and job simulations — animated neon heading" /></p>
 
-| Organisation | Credential | Issued |
-|:--|:--|:--|
-| J.P. Morgan · Forage | Quantitative Research Job Simulation · `EHKW2tShz7KYgf565` | Jan 2026 |
-| Commonwealth Bank · Forage | Introduction to Data Science Job Simulation · `tj5K6zabsnJiNgXkN` | Jan 2026 |
-| Tata · Forage | GenAI Powered Data Analytics Job Simulation · `Cfk328SFy3pswneyo` | Jan 2026 |
-| AWS · Forage | Solutions Architecture Job Simulation · `thyTv3SM9z6LMnHRR` | Jan 2026 |
-| Forage Academy | Data Labeling Job Simulation · `KBxCEfzfqigNR73Xj` | Jan 2026 |
-| SkillCourse | Microsoft Excel with A.I Masterclass · `SC-1C2DD33A41` | Jan 2026 |
-| IBM SkillsBuild | Artificial Intelligence Fundamentals | — |
-| Deloitte · Forage | Data Analytics Job Simulation · `H9GpEgwr3scGTJKGZ` | Jul 2025 |
-| Canva | Canva Essentials · `74b50f` | Nov 2024 |
+<table align="center" width="90%">
+  <thead>
+    <tr><th align="left">Organisation</th><th align="left">Credential</th><th align="center">Issued</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>J.P. Morgan · Forage</td><td>Quantitative Research Job Simulation · <code>EHKW2tShz7KYgf565</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>Commonwealth Bank · Forage</td><td>Introduction to Data Science Job Simulation · <code>tj5K6zabsnJiNgXkN</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>Tata · Forage</td><td>GenAI Powered Data Analytics Job Simulation · <code>Cfk328SFy3pswneyo</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>AWS · Forage</td><td>Solutions Architecture Job Simulation · <code>thyTv3SM9z6LMnHRR</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>Forage Academy</td><td>Data Labeling Job Simulation · <code>KBxCEfzfqigNR73Xj</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>SkillCourse</td><td>Microsoft Excel with A.I Masterclass · <code>SC-1C2DD33A41</code></td><td align="center">Jan 2026</td></tr>
+    <tr><td>IBM SkillsBuild</td><td>Artificial Intelligence Fundamentals</td><td align="center">—</td></tr>
+    <tr><td>Deloitte · Forage</td><td>Data Analytics Job Simulation · <code>H9GpEgwr3scGTJKGZ</code></td><td align="center">Jul 2025</td></tr>
+    <tr><td>Canva</td><td>Canva Essentials · <code>74b50f</code></td><td align="center">Nov 2024</td></tr>
+  </tbody>
+</table>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-more.svg?v=4" width="100%" alt="Explore more — animated neon heading" /></p>
 
