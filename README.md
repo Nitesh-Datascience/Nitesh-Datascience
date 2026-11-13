@@ -80,25 +80,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=4" width="100%" alt="Certifications and job simulations — animated neon heading" /></p>
 
-<table align="center" width="100%" cellpadding="12" cellspacing="8">
-  <tbody>
-    <tr>
-      <td width="33%" valign="top"><strong>J.P. Morgan · Forage</strong><br/>Quantitative Research Job Simulation<br/>Jan 2026<br/>Credential ID: EHKW2tShz7KYgf565</td>
-      <td width="33%" valign="top"><strong>Commonwealth Bank · Forage</strong><br/>Introduction to Data Science Job Simulation<br/>Jan 2026<br/>Credential ID: tj5K6zabsnJiNgXkN</td>
-      <td width="33%" valign="top"><strong>Tata · Forage</strong><br/>GenAI Powered Data Analytics Job Simulation<br/>Jan 2026<br/>Credential ID: Cfk328SFy3pswneyo</td>
-    </tr>
-    <tr>
-      <td width="33%" valign="top"><strong>AWS · Forage</strong><br/>Solutions Architecture Job Simulation<br/>Jan 2026<br/>Credential ID: thyTv3SM9z6LMnHRR</td>
-      <td width="33%" valign="top"><strong>Forage Academy</strong><br/>Data Labeling Job Simulation<br/>Jan 2026<br/>Credential ID: KBxCEfzfqigNR73Xj</td>
-      <td width="33%" valign="top"><strong>SkillCourse</strong><br/>Microsoft Excel with A.I Masterclass<br/>Jan 2026<br/>Credential ID: SC-1C2DD33A41</td>
-    </tr>
-    <tr>
-      <td width="33%" valign="top"><strong>IBM SkillsBuild</strong><br/>Artificial Intelligence Fundamentals</td>
-      <td width="33%" valign="top"><strong>Deloitte · Forage</strong><br/>Data Analytics Job Simulation<br/>Jul 2025<br/>Credential ID: H9GpEgwr3scGTJKGZ</td>
-      <td width="33%" valign="top"><strong>Canva</strong><br/>Canva Essentials<br/>Nov 2024<br/>Credential ID: 74b50f</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=1" alt="Nine certifications in a consistent full-width grid with polished typography" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-more.svg?v=4" width="100%" alt="Explore more — animated neon heading" /></p>
 
