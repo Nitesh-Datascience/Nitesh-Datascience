@@ -38,9 +38,6 @@
   <img src="https://img.shields.io/badge/STREAMLIT-APPS-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-| **DATA ANALYTICS** | **BUSINESS INTELLIGENCE** | **MACHINE LEARNING** |
-|:--|:--|:--|
-| Data preparation · EDA · SQL · Statistical analysis | Excel · Power BI · KPI design · Interactive reporting | Classification · Clustering · Forecasting · Model validation |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-projects.svg?v=5" width="100%" alt="Featured projects — neon blue and purple heading" /></p>
 
