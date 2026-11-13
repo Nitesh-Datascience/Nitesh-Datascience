@@ -79,4 +79,4 @@
   <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><sub>CODLYTIC · DATA · CODE · INNOVATE</sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/footer-neon.svg?v=1" width="100%" alt="CODLYTIC — Data, Code, Innovate neon technology footer" /></p>
