@@ -46,21 +46,25 @@
 
 **SELECTED WORK** — Explore end-to-end projects built to solve practical problems with data, analytics, automation, and machine learning.
 
-| **PROJECT** | **OVERVIEW** | **EXPLORE** |
-|:--|:--|:--|
-| **Care Transition Analytics** | Healthcare operations analytics: care pathways, transfer efficiency, and placement outcomes. | [Live demo](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) |
-| **Customer Churn Prediction** | Customer intelligence: segmentation, churn-risk prediction, and model evaluation. | [Live demo](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) |
-| **EduPro Learner Intelligence** | Learner intelligence: behavioural segments, course recommendations, and model comparisons. | [Live demo](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/EduPro_Project) |
-| **Financial Fraud Detection** | Financial risk analytics: suspicious transaction patterns, anomaly detection, and classifier comparisons. | [Live demo](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) |
-| **FORESIGHT · NorthBay Living** | Demand intelligence: forecasting, inventory-risk signals, and smarter replenishment planning. | [Live demo](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/foresight_northbay) |
-| **APL Logistics Analytics** | Logistics intelligence: delivery performance, delay-risk indicators, and operational reporting. Access required. | [Live demo](https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics) |
-| **Nassau Candy Profitability** | Profitability insights: product economics, margin exposure, and division-level performance. | [Live demo](https://87v6ndywgm2xvutswekgjm.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
-| **Restaurant Growth Analytics** | Restaurant intelligence: growth trends, operating metrics, and performance insights. | [Live demo](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
-| **PrivyScan AI** | Privacy-focused AI prototype for detecting and redacting sensitive text in document images. | [Live demo](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) |
-| **CodeVenjar** | Interactive career-planning prototype with guided exploration; select “Use local demo” to begin. | [Live demo](https://nitesh-datascience.github.io/CodeVenjar/) · [Source](https://github.com/Nitesh-Datascience/CodeVenjar) |
-| **Nitesh Tree Portfolio** | An interactive portfolio experience with project discovery, filters, and animated typography. | [Live demo](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) · [Source](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) |
-| **CODLYTIC · Universe Portfolio** | A futuristic, space-inspired portfolio showcasing projects through an immersive universe concept. | [Live demo](https://nitesh-datascience.github.io/Codlytic-portfolio/) · [Source](https://github.com/Nitesh-Datascience/universe-portfolio) |
-| **DIWALI UNIVERSE 2026** | A festive interactive web experience celebrating Diwali through a dedicated digital universe. | [Live demo](https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/) · [Source](https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026) |
+<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=1" alt="Thirteen featured projects in a consistent neon blue-purple card grid" /></p>
+
+**PROJECT LINKS** — Open a live demo or visit the source repository.
+
+| **PROJECT** | **LINKS** |
+|:--|:--|
+| **CARE TRANSITION ANALYTICS** | [Live demo](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) |
+| **CUSTOMER CHURN PREDICTION** | [Live demo](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) |
+| **EDUPRO LEARNER INTELLIGENCE** | [Live demo](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/EduPro_Project) |
+| **FINANCIAL FRAUD DETECTION** | [Live demo](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) |
+| **FORESIGHT · NORTHBAY LIVING** | [Live demo](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/foresight_northbay) |
+| **APL LOGISTICS ANALYTICS** | [Live demo](https://https---appcom-nitesh-datascience-apllogistics-464avyacan3btze.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/https---github.com-Nitesh-Datascience-APL_Logistics) |
+| **NASSAU CANDY PROFITABILITY** | [Live demo](https://87v6ndywgm2xvutswekgjm.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
+| **RESTAURANT GROWTH ANALYTICS** | [Live demo](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) · [Source](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
+| **PRIVYSCAN AI** | [Live demo](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) |
+| **CODEVENJAR** | [Live demo](https://nitesh-datascience.github.io/CodeVenjar/) · [Source](https://github.com/Nitesh-Datascience/CodeVenjar) |
+| **NITESH TREE PORTFOLIO** | [Live demo](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) · [Source](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) |
+| **CODLYTIC · UNIVERSE PORTFOLIO** | [Live demo](https://nitesh-datascience.github.io/Codlytic-portfolio/) · [Source](https://github.com/Nitesh-Datascience/universe-portfolio) |
+| **DIWALI UNIVERSE 2026** | [Live demo](https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/) · [Source](https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026) |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=4" width="100%" alt="GitHub activity — animated neon heading" /></p>
 
