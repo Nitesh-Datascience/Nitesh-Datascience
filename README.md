@@ -68,10 +68,10 @@ A collection of analytics dashboards, predictive models, and interactive applica
   <img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg" alt="Live GitHub public profile metrics and repository language breakdown" />
 </p>
 <p align="center">
-  <img width="82%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/languages-mini.svg" alt="Compact live most-used programming languages graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/languages-mini.svg" alt="Compact live most-used programming languages graph" />
 </p>
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" alt="GitHub contribution streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" alt="GitHub contribution streak" />
 </p>
 <p align="center">
   <a href="https://github.com/Nitesh-Datascience?tab=repositories">Browse repositories</a> &nbsp;·&nbsp;
