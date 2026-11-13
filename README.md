@@ -65,8 +65,7 @@ A collection of analytics dashboards, predictive models, and interactive applica
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=4" width="100%" alt="GitHub activity — animated neon heading" /></p>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitesh-Datascience&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&title_color=D6A85F&icon_color=D6A85F&include_all_commits=true" alt="GitHub contribution statistics and rank" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-Datascience&theme=github_dark" alt="Most-used languages across public repositories" />
+  <img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg" alt="Live GitHub public profile metrics and repository language breakdown" />
 </p>
 <p align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" alt="GitHub contribution streak" />
