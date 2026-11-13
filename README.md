@@ -46,22 +46,12 @@
 
 **SELECTED WORK** — Explore end-to-end projects built to solve practical problems with data, analytics, automation, and machine learning.
 
-<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=2" alt="Twelve featured projects, each with a matching neon blue-purple card, live demo and source links, in one full-width visual grid" /></p>
-
-| **PROJECT** | **OPEN LIVE DEMO** | **SOURCE CODE** |
+| **PROJECT 01–04** | **PROJECT 05–08** | **PROJECT 09–12** |
 |:--|:--|:--|
-| **Care Transition Analytics** | [Open Demo ↗](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) |
-| **Customer Churn Prediction** | [Open Demo ↗](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) |
-| **EduPro Learner Intelligence** | [Open Demo ↗](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/EduPro_Project) |
-| **Financial Fraud Detection** | [Open Demo ↗](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) |
-| **FORESIGHT · NorthBay Living** | [Open Demo ↗](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/foresight_northbay) |
-| **Nassau Candy Profitability** | [Open Demo ↗](https://87v6ndywgm2xvutswekgjm.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
-| **Restaurant Growth Analytics** | [Open Demo ↗](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/restaurant_growth_project) |
-| **PrivyScan AI** | [Open Demo ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) | Not listed |
-| **CodeVenjar** | [Open Demo ↗](https://nitesh-datascience.github.io/CodeVenjar/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/CodeVenjar) |
-| **Nitesh Tree Portfolio** | [Open Demo ↗](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) |
-| **CODLYTIC · Universe Portfolio** | [Open Demo ↗](https://nitesh-datascience.github.io/Codlytic-portfolio/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/universe-portfolio) |
-| **Diwali Universe 2026** | [Open Demo ↗](https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/) | [Open GitHub ↗](https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026) |
+| **Care Transition Analytics**<br>[Live Demo ↗](https://care-transition-efficiency-analytics-knfy8ljtaxyn8ti74zy5ng.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/care-transition-efficiency-analytics) | **Customer Churn Prediction**<br>[Live Demo ↗](https://customerchurnprediction-fkpbjib3muyvrhmgchkurb.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/Customer_churn_Prediction) | **EduPro Learner Intelligence**<br>[Live Demo ↗](https://eduproproject-jkoe6q6tctk5xafa6ggogf.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/EduPro_Project) |
+| **Financial Fraud Detection**<br>[Live Demo ↗](https://financialfrauddetection-6geni2xkrt3dc8ry2infsf.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/Financial_Fraud_Detection) | **FORESIGHT · NorthBay Living**<br>[Live Demo ↗](https://foresightnorthbay-ufqepslzgzysttnkue79rx.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/foresight_northbay) | **Nassau Candy Profitability**<br>[Live Demo ↗](https://87v6ndywgm2xvutswekgjm.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/Nassau_Candy_Profitability_Project) |
+| **Restaurant Growth Analytics**<br>[Live Demo ↗](https://restaurantgrowthproject-jealfjvy6prolwkmv47cen.streamlit.app/) · [Source Code ↗](https://github.com/Nitesh-Datascience/restaurant_growth_project) | **PrivyScan AI**<br>[Live Demo ↗](https://privyscan-ai-starter-afe9ltswbslgt9vkczfvxx.streamlit.app/) · Source unavailable | **CodeVenjar**<br>[Live Demo ↗](https://nitesh-datascience.github.io/CodeVenjar/) · [Source Code ↗](https://github.com/Nitesh-Datascience/CodeVenjar) |
+| **Nitesh Tree Portfolio**<br>[Live Demo ↗](https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/) · [Source Code ↗](https://github.com/Nitesh-Datascience/Nitesh-Tree-Portfolio) | **CODLYTIC · Universe Portfolio**<br>[Live Demo ↗](https://nitesh-datascience.github.io/Codlytic-portfolio/) · [Source Code ↗](https://github.com/Nitesh-Datascience/universe-portfolio) | **Diwali Universe 2026**<br>[Live Demo ↗](https://nitesh-datascience.github.io/DIWALI-UNIVERSE-2026/) · [Source Code ↗](https://github.com/Nitesh-Datascience/DIWALI-UNIVERSE-2026) |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=4" width="100%" alt="GitHub activity — animated neon heading" /></p>
 
