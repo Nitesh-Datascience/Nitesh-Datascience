@@ -36,7 +36,7 @@ jobs:
       - name: Publish changed profile data
         shell: bash
         run: |
-          git add README.md data/live-projects.json assets/neon-terminal/metrics.svg assets/neon-terminal/metrics-data.json
+          git add README.md data/live-projects.json assets/neon-terminal/metrics.svg assets/neon-terminal/languages-mini.svg assets/neon-terminal/metrics-data.json
           if git diff --cached --quiet; then
             exit 0
           fi
