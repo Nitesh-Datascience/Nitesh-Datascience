@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>DATA ANALYST</strong> &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-INSIGHTS-071426?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Data Analytics — Insights" /> &nbsp;·&nbsp;
   <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=111827" alt="Python — neon cyan tag" />
   <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827" alt="SQL — neon purple tag" />
   <img src="https://img.shields.io/badge/POWER_BI-FFD84D?style=for-the-badge&logo=powerbi&logoColor=111827&labelColor=111827" alt="Power BI — neon gold tag" />
