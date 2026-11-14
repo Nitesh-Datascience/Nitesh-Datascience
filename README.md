@@ -1,30 +1,37 @@
-<!-- CODLYTIC | GITHUB PROFILE -->
+<!-- CODLYTIC | GitHub Profile README -->
+
+<!-- HERO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=12" width="100%" alt="CODLYTIC data analytics banner featuring Nitesh Kumar" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=13" width="100%" alt="Nitesh Kumar — CODLYTIC data analytics banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA_ANALYTICS-INSIGHTS-071426?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Data Analytics — Insights" /> &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=111827" alt="Python — neon cyan tag" />
-  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827" alt="SQL — neon purple tag" />
-  <img src="https://img.shields.io/badge/POWER_BI-FFD84D?style=for-the-badge&logo=powerbi&logoColor=111827&labelColor=111827" alt="Power BI — neon gold tag" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF4DCA?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111827" alt="Machine Learning — neon pink tag" />
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-INSIGHTS-071426?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Data Analytics — Insights" />
 </p>
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=07111F&labelColor=111827" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827" alt="SQL" />
+  <img src="https://img.shields.io/badge/POWER_BI-FFD84D?style=for-the-badge&logo=powerbi&logoColor=111827&labelColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF4DCA?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111827" alt="Machine Learning" />
+</p>
+<p align="center">
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Send email" /></a>
 </p>
 
+<!-- ABOUT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-about.svg?v=5" width="100%" alt="About me" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/about-neon.svg?v=2" width="100%" alt="About my approach and data analytics workflow" />
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-about.svg?v=4" width="100%" alt="About me — animated neon heading" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/about-neon.svg?v=1" width="100%" alt="About my approach and four-step data analytics workflow in neon blue and purple" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-toolkit.svg?v=4" width="100%" alt="Technical toolkit — animated neon heading" /></p>
-
+<!-- TOOLKIT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-toolkit.svg?v=5" width="100%" alt="Technical toolkit" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub and VS Code" />
 </p>
@@ -36,47 +43,64 @@
   <img src="https://img.shields.io/badge/STREAMLIT-APPS-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-projects.svg?v=5" width="100%" alt="Featured projects — neon blue and purple heading" /></p>
-
-<p align="center"><strong>SELECTED WORK</strong> · Selected analytics, AI, and developer projects.</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=9" width="100%" alt="Nine featured projects in certification-style neon cards" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=4" width="100%" alt="GitHub activity — animated neon heading" /></p>
-
+<!-- FEATURED PROJECTS -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg" alt="Live GitHub public profile metrics and repository language breakdown" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-projects.svg?v=6" width="100%" alt="Featured projects" />
+</p>
+<p align="center"><strong>SELECTED WORK</strong> · Analytics, AI, and developer projects.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=10" width="100%" alt="Featured projects in a three-column neon card grid" />
+</p>
+
+<!-- GITHUB ACTIVITY -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=5" width="100%" alt="GitHub activity" />
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/languages-mini.svg" alt="Compact live most-used programming languages graph" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg" width="100%" alt="Live GitHub profile metrics and repository language breakdown" />
 </p>
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/languages-mini.svg" width="100%" alt="Most-used languages across public repositories" />
 </p>
 <p align="center">
-  <a href="https://github.com/Nitesh-Datascience?tab=repositories">Browse repositories</a> &nbsp;·&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Nitesh-Datascience&theme=github_dark&hide_border=true&ring=D6A85F&fire=D6A85F&currStreakLabel=D6A85F" width="100%" alt="GitHub contribution streak" />
+</p>
+<p align="center">
+  <a href="https://github.com/Nitesh-Datascience?tab=repositories">Browse repositories</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/Nitesh-Datascience?tab=stars">Starred repositories</a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=4" width="100%" alt="Certifications and job simulations — animated neon heading" /></p>
-
-<p align="center"><img width="100%" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=1" alt="Nine certifications in a consistent full-width grid with polished typography" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-more.svg?v=4" width="100%" alt="Explore more — animated neon heading" /></p>
-
+<!-- CERTIFICATIONS -->
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/">Universe Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Nitesh-Datascience/universe-portfolio">Portfolio source</a> &nbsp;·&nbsp;
-  <a href="https://nitesh-datascience.github.io/portfolio/">Main portfolio</a> &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=5" width="100%" alt="Certifications and job simulations" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=2" width="100%" alt="Professional certifications displayed in a three-column grid" />
+</p>
+
+<!-- MORE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-more.svg?v=5" width="100%" alt="Explore more" />
+</p>
+<p align="center">
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/">Universe Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Nitesh-Datascience/universe-portfolio">Portfolio source</a>
+  &nbsp;·&nbsp;
+  <a href="https://nitesh-datascience.github.io/portfolio/">Main portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://nitesh-datascience.github.io/Nitesh-Tree-Portfolio/">Tree portfolio</a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-connect.svg?v=4" width="100%" alt="Let's connect — animated neon heading" /></p>
-
+<!-- CONNECT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-connect.svg?v=5" width="100%" alt="Let's connect" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Get in touch by email" /></a>
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/footer-neon.svg?v=1" width="100%" alt="CODLYTIC — Data, Code, Innovate neon technology footer" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/footer-neon.svg?v=2" width="100%" alt="CODLYTIC — Data, Code, Innovate" />
+</p>
