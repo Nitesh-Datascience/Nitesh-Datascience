@@ -1,7 +1,7 @@
 {
   "username": "Nitesh-Datascience",
   "followers": 3,
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "repos": [
     {
       "name": "3D-Sketch-Portfolio",
@@ -109,7 +109,7 @@
       "name": "FORESIGHT_AI_Demand_Inventory_Intelligence",
       "language": "Python",
       "stars": 2,
-      "forks": 0
+      "forks": 1
     },
     {
       "name": "FORESIGHT_M5_End_to_End",
@@ -205,7 +205,7 @@
       "name": "Nassau_Candy_Profitability_Project",
       "language": "Python",
       "stars": 2,
-      "forks": 0
+      "forks": 1
     },
     {
       "name": "NIFTY-PREDICTION-USING-LSTM-AND-MACHINE-LEARNING-ALGORITHMS-FROM-2001-TO-12TH-JULY-2024",
