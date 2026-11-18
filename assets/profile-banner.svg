@@ -10,6 +10,24 @@
  <pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#c4b5fd" stroke-opacity=".10"/></pattern>
 </defs>
 <rect width="1200" height="380" rx="20" fill="url(#bg)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/><rect width="1200" height="380" rx="20" fill="url(#scan)" opacity=".55"><animate attributeName="opacity" values=".2;.65;.2" dur="4s" repeatCount="indefinite"/></rect>
+<g opacity=".42" fill="none" stroke-linecap="round">
+ <circle cx="820" cy="190" r="150" stroke="#8b5cf6" stroke-width="1.8" stroke-dasharray="5 12">
+  <animateTransform attributeName="transform" type="rotate" from="0 820 190" to="360 820 190" dur="32s" repeatCount="indefinite"/>
+ </circle>
+ <circle cx="820" cy="190" r="128" stroke="#22d3ee" stroke-width="1.4" stroke-dasharray="18 16">
+  <animateTransform attributeName="transform" type="rotate" from="360 820 190" to="0 820 190" dur="26s" repeatCount="indefinite"/>
+ </circle>
+ <circle cx="820" cy="190" r="150" stroke="none" fill="#c4b5fd">
+  <animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/>
+  <animateMotion dur="12s" repeatCount="indefinite" path="M 0,0 A 150,150 0 1,1 0,0"/>
+ </circle>
+ <circle cx="820" cy="190" r="2.5" fill="#22d3ee" stroke="none">
+  <animateMotion dur="9s" repeatCount="indefinite" path="M 0,-128 A 128,128 0 1,1 0,128 A 128,128 0 1,1 0,-128"/>
+ </circle>
+ <circle cx="1040" cy="190" r="62" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="3 9">
+  <animateTransform attributeName="transform" type="rotate" from="0 1040 190" to="360 1040 190" dur="18s" repeatCount="indefinite"/>
+ </circle>
+</g>
 <g fill="#dff6ff"><circle cx="510" cy="32" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="690" cy="80" r="1.5"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="50" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="720" cy="330" r="1.5"/><circle cx="450" cy="300" r="1.2"/></g>
 <path d="M0 8H1200M0 370H1200" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="20 18;70 12;20 18" dur="5s" repeatCount="indefinite"/></path>
 <circle cx="220" cy="190" r="158" fill="none" stroke="#22d3ee" stroke-width="3" opacity=".85" filter="url(#glow)"><animate attributeName="r" values="152;161;152" dur="4s" repeatCount="indefinite"/></circle>
