@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Nitesh Kumar | CODLYTIC</title>
+<desc id="desc">Premium dark technology banner for data analytics, Python, SQL, business intelligence and AI.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#160d2c"/></linearGradient>
+ <linearGradient id="neon"><stop stop-color="#36e4ff"/><stop offset=".52" stop-color="#8b7bff"/><stop offset="1" stop-color="#ff62bd"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#3ddcff" stop-opacity=".26"/><stop offset="1" stop-color="#3ddcff" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8b9cff" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<ellipse cx="940" cy="180" rx="330" ry="260" fill="url(#orb)"/>
+<g fill="#d9f6ff"><circle cx="68" cy="58" r="2"/><circle cx="370" cy="305" r="1.5"/><circle cx="690" cy="42" r="1.5"/><circle cx="1110" cy="320" r="2"/><circle cx="1150" cy="90" r="1.3"/></g>
+<path d="M0 8H1200M0 372H1200" stroke="url(#neon)" stroke-width="3" opacity=".9" filter="url(#glow)"/>
+<g transform="translate(770 52)" fill="none" stroke-linecap="round">
+ <circle cx="170" cy="135" r="122" stroke="#7d83ff" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="4 12"/>
+ <circle cx="170" cy="135" r="96" stroke="#36e4ff" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="18 12"/>
+ <path d="M28 220L70 188 112 199 151 145 190 162 232 105 276 121 316 72" stroke="url(#neon)" stroke-width="4" filter="url(#glow)"/>
+ <path d="M28 240H320M28 35V240" stroke="#9fb8d8" stroke-opacity=".35"/>
+ <g fill="#36e4ff" stroke="none"><circle cx="70" cy="188" r="4"/><circle cx="151" cy="145" r="4"/><circle cx="232" cy="105" r="4"/><circle cx="316" cy="72" r="4"/></g>
+ <g fill="#8b7bff" fill-opacity=".55" stroke="none"><rect x="48" y="202" width="15" height="38" rx="3"/><rect x="91" y="182" width="15" height="58" rx="3"/><rect x="134" y="166" width="15" height="74" rx="3"/><rect x="177" y="148" width="15" height="92" rx="3"/><rect x="220" y="126" width="15" height="114" rx="3"/></g>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="82" y="82" fill="#70e7ff" font-size="15" font-weight="700" letter-spacing="4">DATA ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  AI</text>
+ <text x="78" y="169" fill="#ffffff" font-size="67" font-weight="850" letter-spacing="1">NITESH KUMAR</text>
+ <path d="M82 190H650" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+ <text x="84" y="244" fill="#a9b8ff" font-size="28" font-weight="800" letter-spacing="7">CODLYTIC</text>
+ <text x="84" y="291" fill="#e0eafa" font-size="18" font-weight="600" letter-spacing="2">PYTHON  /  SQL  /  POWER BI  /  MACHINE LEARNING</text>
+ <text x="84" y="333" fill="#78a5c9" font-size="14" font-weight="600" letter-spacing="3">TURNING DATA INTO DECISIONS</text>
+</g>
+<g transform="translate(1000 302)" font-family="Arial,sans-serif"><rect x="0" y="0" width="145" height="38" rx="19" fill="#0c2038" stroke="#36e4ff" stroke-opacity=".65"/><text x="72" y="25" fill="#b9f3ff" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="2">BUILD · ANALYSE</text></g>
+</svg>
