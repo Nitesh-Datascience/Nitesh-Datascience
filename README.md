@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 <p align="center">
-![Nitesh Kumar — CODLYTIC data analytics banner](https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg)
+![Nitesh Kumar — CODLYTIC data analytics banner](assets/profile-banner.jpg)
 </p>
 
 <p align="center">
