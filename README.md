@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=5" width="100%" alt="GitHub activity" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg" width="100%" alt="Live GitHub profile metrics and repository language breakdown" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/metrics.svg?v=2" width="100%" alt="Live GitHub profile metrics and repository language breakdown" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/neon-terminal/languages-mini.svg" width="100%" alt="Most-used languages across public repositories" />
