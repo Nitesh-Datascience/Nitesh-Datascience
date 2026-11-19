@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=5" width="100%" alt="Certifications and job simulations" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=2" width="100%" alt="Professional certifications displayed in a three-column grid" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=3" width="100%" alt="Nine polished certification and job simulation cards with dates and credential IDs where available" />
 </p>
 
 <!-- MORE -->
