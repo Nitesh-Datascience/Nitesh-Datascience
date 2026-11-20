@@ -90,70 +90,10 @@
 
 <!-- CERTIFICATIONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=7" width="100%" alt="Certifications and professional learning" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=8" width="100%" alt="CODLYTIC — Nine colorful certification cards with issuer, dates and credential IDs" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/09_CREDENTIALS-00D9FF?style=flat-square&labelColor=111827" alt="9 credentials" />
-  <img src="https://img.shields.io/badge/06_JOB_SIMULATIONS-8B5CF6?style=flat-square&labelColor=111827" alt="6 job simulations" />
-  <img src="https://img.shields.io/badge/03_LEARNING-10B981?style=flat-square&labelColor=111827" alt="3 learning credentials" />
-</p>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center"><strong>01 · QUANTITATIVE RESEARCH</strong></p>
-      <p align="center"><strong>J.P. MORGAN</strong><br/><sub>Forage · Jan 2026</sub></p>
-      <p align="center"><code>EHKW2tShz7KYgf565</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>02 · DATA SCIENCE</strong></p>
-      <p align="center"><strong>COMMONWEALTH BANK</strong><br/><sub>Forage · Jan 2026</sub></p>
-      <p align="center"><code>tj5K6zabsnJiNgXkN</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>03 · GENAI DATA ANALYTICS</strong></p>
-      <p align="center"><strong>TATA</strong><br/><sub>Forage · Jan 2026</sub></p>
-      <p align="center"><code>Cfk328SFy3pswneyo</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center"><strong>04 · SOLUTIONS ARCHITECTURE</strong></p>
-      <p align="center"><strong>AWS</strong><br/><sub>Forage · Jan 2026</sub></p>
-      <p align="center"><code>thyTv3SM9z6LMnHRR</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>05 · DATA LABELING</strong></p>
-      <p align="center"><strong>FORAGE ACADEMY</strong><br/><sub>Jan 2026</sub></p>
-      <p align="center"><code>KBxCEfzfqigNR73Xj</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>06 · EXCEL WITH A.I</strong></p>
-      <p align="center"><strong>SKILLCOURSE</strong><br/><sub>Self Learning · Jan 2026</sub></p>
-      <p align="center"><code>SC-1C2DD33A41</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center"><strong>07 · AI FUNDAMENTALS</strong></p>
-      <p align="center"><strong>IBM SKILLSBUILD</strong><br/><sub>Date not listed</sub></p>
-      <p align="center"><sub>Credential ID not provided</sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>08 · DATA ANALYTICS</strong></p>
-      <p align="center"><strong>DELOITTE</strong><br/><sub>Jul 2025</sub></p>
-      <p align="center"><code>H9GpEgwr3scGTJKGZ</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><strong>09 · CANVA ESSENTIALS</strong></p>
-      <p align="center"><strong>CANVA</strong><br/><sub>Nov 2024</sub></p>
-      <p align="center"><code>74b50f</code></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>CONTINUOUS LEARNING · PRACTICAL PROJECTS · DATA-DRIVEN THINKING</sub></p>
+<p align="center"><strong>CONTINUOUS LEARNING · PRACTICAL PROJECTS · DATA-DRIVEN THINKING</strong></p>
 
 <!-- MORE -->
 <p align="center">
