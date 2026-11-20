@@ -92,9 +92,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=5" width="100%" alt="Certifications and job simulations" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg?v=5" width="100%" alt="Nine polished certification and job simulation cards with dates and credential IDs where available" />
-</p>
+<p align="center"><strong>09 CREDENTIALS · 06 JOB SIMULATIONS · 03 LEARNING CREDENTIALS</strong></p>
+
+| Certification / Job Simulation | Issuer | Date | Credential ID |
+|:--|:--|:--:|:--|
+| Quantitative Research Job Simulation | J.P. Morgan · Forage | Jan 2026 | `EHKW2tShz7KYgf565` |
+| Introduction to Data Science Job Simulation | Commonwealth Bank · Forage | Jan 2026 | `tj5K6zabsnJiNgXkN` |
+| GenAI Powered Data Analytics Job Simulation | Tata · Forage | Jan 2026 | `Cfk328SFy3pswneyo` |
+| Solutions Architecture Job Simulation | AWS · Forage | Jan 2026 | `thyTv3SM9z6LMnHRR` |
+| Data Labeling Job Simulation | Forage Academy | Jan 2026 | `KBxCEfzfqigNR73Xj` |
+| Microsoft Excel with A.I Masterclass | SkillCourse · Self Learning | Jan 2026 | `SC-1C2DD33A41` |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | Not listed | Not provided |
+| Data Analytics Job Simulation | Deloitte | Jul 2025 | `H9GpEgwr3scGTJKGZ` |
+| Canva Essentials | Canva | Nov 2024 | `74b50f` |
+
+<p align="center"><a href="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg">Open the visual certificate board</a></p>
 
 <!-- MORE -->
 <p align="center">
