@@ -1,7 +1,7 @@
 <!-- CODLYTIC | GitHub Profile README -->
 
 <!-- HERO -->
-<img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.jpg" width="100%" alt="Nitesh Kumar — CODLYTIC data analytics banner" />
+<img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=7" width="100%" alt="Nitesh Kumar — CODLYTIC data analytics banner" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/DATA_ANALYTICS-INSIGHTS-071426?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Data Analytics — Insights" />
