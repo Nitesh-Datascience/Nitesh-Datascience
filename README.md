@@ -50,6 +50,11 @@
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=11" width="100%" alt="Featured projects in a three-column neon card grid" />
 </p>
 
+<!-- CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=0d1117&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
 <!-- GITHUB ACTIVITY -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=5" width="100%" alt="GitHub activity" />
