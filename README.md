@@ -90,23 +90,71 @@
 
 <!-- CERTIFICATIONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=5" width="100%" alt="Certifications and job simulations" />
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-certifications.svg?v=6" width="100%" alt="Certifications and job simulations" />
 </p>
-<p align="center"><strong>09 CREDENTIALS · 06 JOB SIMULATIONS · 03 LEARNING CREDENTIALS</strong></p>
 
-| Certification / Job Simulation | Issuer | Date | Credential ID |
-|:--|:--|:--:|:--|
-| Quantitative Research Job Simulation | J.P. Morgan · Forage | Jan 2026 | `EHKW2tShz7KYgf565` |
-| Introduction to Data Science Job Simulation | Commonwealth Bank · Forage | Jan 2026 | `tj5K6zabsnJiNgXkN` |
-| GenAI Powered Data Analytics Job Simulation | Tata · Forage | Jan 2026 | `Cfk328SFy3pswneyo` |
-| Solutions Architecture Job Simulation | AWS · Forage | Jan 2026 | `thyTv3SM9z6LMnHRR` |
-| Data Labeling Job Simulation | Forage Academy | Jan 2026 | `KBxCEfzfqigNR73Xj` |
-| Microsoft Excel with A.I Masterclass | SkillCourse · Self Learning | Jan 2026 | `SC-1C2DD33A41` |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | Not listed | Not provided |
-| Data Analytics Job Simulation | Deloitte | Jul 2025 | `H9GpEgwr3scGTJKGZ` |
-| Canva Essentials | Canva | Nov 2024 | `74b50f` |
+<p align="center">
+  <img src="https://img.shields.io/badge/09-Credentials-7C3AED?style=for-the-badge" alt="9 credentials" />
+  <img src="https://img.shields.io/badge/06-Job%20Simulations-06B6D4?style=for-the-badge" alt="6 job simulations" />
+  <img src="https://img.shields.io/badge/03-Learning-10B981?style=for-the-badge" alt="3 learning credentials" />
+</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg">Open the visual certificate board</a></p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📊 Quantitative Research</h3>
+      <p align="center"><strong>J.P. Morgan</strong><br/>Forage · Jan 2026</p>
+      <p align="center"><code>EHKW2tShz7KYgf565</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Introduction to Data Science</h3>
+      <p align="center"><strong>Commonwealth Bank</strong><br/>Forage · Jan 2026</p>
+      <p align="center"><code>tj5K6zabsnJiNgXkN</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">✨ GenAI Powered Data Analytics</h3>
+      <p align="center"><strong>Tata</strong><br/>Forage · Jan 2026</p>
+      <p align="center"><code>Cfk328SFy3pswneyo</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">☁️ Solutions Architecture</h3>
+      <p align="center"><strong>AWS</strong><br/>Forage · Jan 2026</p>
+      <p align="center"><code>thyTv3SM9z6LMnHRR</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏷️ Data Labeling</h3>
+      <p align="center"><strong>Forage Academy</strong><br/>Jan 2026</p>
+      <p align="center"><code>KBxCEfzfqigNR73Xj</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📈 Excel with A.I Masterclass</h3>
+      <p align="center"><strong>SkillCourse</strong><br/>Self Learning · Jan 2026</p>
+      <p align="center"><code>SC-1C2DD33A41</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 AI Fundamentals</h3>
+      <p align="center"><strong>IBM SkillsBuild</strong><br/>Date not listed</p>
+      <p align="center"><code>Credential ID not provided</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔎 Data Analytics Simulation</h3>
+      <p align="center"><strong>Deloitte</strong><br/>Jul 2025</p>
+      <p align="center"><code>H9GpEgwr3scGTJKGZ</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎨 Canva Essentials</h3>
+      <p align="center"><strong>Canva</strong><br/>Nov 2024</p>
+      <p align="center"><code>74b50f</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><strong>Learning continuously. Building practically. Growing every day.</strong></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/certifications-grid.svg">View certificate board (SVG)</a></p>
 
 <!-- MORE -->
 <p align="center">
