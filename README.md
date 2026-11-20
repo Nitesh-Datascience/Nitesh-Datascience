@@ -55,6 +55,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Datascience&bg_color=0d1117&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
+<!-- 3D CONTRIBUTION CALENDAR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution calendar" />
+</p>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 <!-- GITHUB ACTIVITY -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-activity.svg?v=5" width="100%" alt="GitHub activity" />
