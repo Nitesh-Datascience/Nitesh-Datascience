@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/theme-projects.svg?v=6" width="100%" alt="Featured projects" />
 </p>
-<p align="center"><strong>SELECTED WORK</strong> · Analytics, AI, and developer projects.</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/projects-grid.svg?v=12" width="100%" alt="Featured projects in a three-column neon card grid" />
 </p>
