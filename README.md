@@ -4,13 +4,6 @@
 <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=7" width="100%" alt="Nitesh Kumar — CODLYTIC data analytics banner" />
 
 <p align="center">
-  <strong>DATA ANALYTICS</strong> <sub>·</sub> <strong>INSIGHTS</strong> <sub>·</sub> <strong>INTELLIGENT SOLUTIONS</strong>
-</p>
-<p align="center">
-  Turning data into clear insights with Python, SQL, Power BI and Machine Learning.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PYTHON-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-6C5CE7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/POWER_BI-D9A514?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
