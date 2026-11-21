@@ -59,6 +59,11 @@
   <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution calendar" />
 </p>
 
+<!-- PYTHON SNAKE VISUAL ACCENT -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/python-snake-accent.svg?v=1" width="100%" alt="Python-inspired snake with patterned scales and orange tongue" />
+</p>
+
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
