@@ -4,18 +4,18 @@
 <img src="https://raw.githubusercontent.com/Nitesh-Datascience/Nitesh-Datascience/main/assets/profile-banner.svg?v=7" width="100%" alt="Nitesh Kumar — CODLYTIC data analytics banner" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-6C5CE7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/POWER_BI-D9A514?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-DB4C9B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Python-0B1F33?style=for-the-badge&logo=python&logoColor=35C7F3" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0B1F33?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-0B1F33?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B1F33?style=for-the-badge&logo=scikitlearn&logoColor=F472B6" alt="Machine Learning" />
 </p>
 
 <p align="center">
-  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio" /></a>
+  <a href="https://nitesh-datascience.github.io/universe-portfolio/"><img src="https://img.shields.io/badge/↗_PORTFOLIO-13283D?style=for-the-badge&labelColor=13283D" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/niteshkumar-codlytic"><img src="https://img.shields.io/badge/↗_LINKEDIN-13283D?style=for-the-badge&labelColor=13283D" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-B5473A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ns0762005@gmail.com"><img src="https://img.shields.io/badge/✉_EMAIL-13283D?style=for-the-badge&labelColor=13283D" alt="Email" /></a>
 </p>
 
 <!-- ABOUT -->
